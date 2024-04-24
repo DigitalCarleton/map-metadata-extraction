@@ -1,0 +1,666 @@
+1477: Bologna, 32/ A.1
+1478: Rome, 32/B.1
+1482: Ulm, 32/M.1
+1486: Ulm, 32/M.2
+1490: Milan, 52/ A
+1492: Florence?, 23/1.3
+1493: Germany, 23/1.4
+1494: Vienna, 24/ A
+1507: Rome, 23/1.5; St. Die, Bo/ A, 80/1, 80/2
+1508: Rome, 23/1.5; Strasbourg, Bo/B; Turin,
+52/B; Vienna, 24/B
+1509: Strasbourg, Bo/3, Bo/ A.1, 80/C-C.1
+1511: Strasbourg, Bo/ 4, 80/D-D.1; Venice, 75/C
+1512: Krakow, 80/2.5
+1513: Nuremberg, 28/ A; Strasbourg, 23/1.6, Bo/
+5-51, 80/E
+1514: Eichstatt, 23/1
+1515: Paris, 27 / A
+1516: Genoa, 34/ A; Paris, 27 /B; Strasbourg,
+80/52
+1517: Lyon, Bo/ A.2; Paris, 27 /C, 27 /1
+1518: Augsburg, 9/ A; Strasbourg, 28/C
+1519: Paris, 27 /D; Strasbourg, 28/D, 28/E
+1520s: Venice, 87 /15
+1520: Paris, 34/B, 34/C; Strasbourg, 28/F, Bo/
+4.1; Vienna, 7 /1
+1521: Augsburg, 64/C; Mainz, 64/B; Paris,
+27/E
+1521 or 22: Landshut, 7 /2, 7 / A
+
+1522: Nuremberg, 9/B; Paris, 27 /F; Regens-
+burg, 7 /B, 7 /3; Strasbourg, 28/G, 28/H-
+H.1, 80/54; Venice?, 27 /3.5; Vienna, 24/C
+
+152y Landshut, 7 /C, 9/C, 9/1.1; Strasbourg,
+28/J-J.1, 28/K
+
+1523 or 24: Strasbourg, 28/L
+1524: Haguenau, 28/M; Landshut, 7 / 4, 7 /5, 7 /
+D, 7 /E; Paris, 27 /B.1; Rome, 33/B
+1524-26: Izola, 21/23-37
+1525: Oppenheim, 58/ 45; Paris, 27 /3; Rome,
+33/2, 33/C; Strasbourg, 28/B.1, 28/G.1, 28/
+N, 28/54, 28/56,28/57
+1526: Antwerp, 42/1; Ingolstadt, 7 /F; Paris,
+27/G
+1527: Basel, 58/C; Ingolstadt, 7 /G; Paris, 27 /
+H; Strasbourg, 28/N.1, 28/54.1, Bo/D.2,
+80/4.2
+1527-30: Antwerp, 57 / A
+1528: Ingolstadt, 7 /6, 7 /H; Oppenheim, 58/B.1,
+58/ 46; Paris, 27 /J; Venice, 13/3-113, 13/
+A.I, 21/C.2
+1529: Antwerp, 7 /E; Nuremberg, 83/ A; Paris,
+27 /K; Strasbourg, 28/O; Worms, 58/D,
+58/E
+1530: Antwerp, 7 /1.1, 29/B; Augsburg, 3/ A;
+Basel, 58/F; Ingolstadt, 7 /9; Krakow, 41/
+A, 41/1-2; Nuremberg, 83/B; Paris, 27 /L;
+Strasbourg, 28/N.2, 28/N.3, 28/P, 28/54.2;
+Venice, 23/1.7, 33/D
+153i: Basel, 58/G, 86/D; Paris, 27 / 4, 27 / 4.1;
+Strasbourg, 28 / 54. 3
+1532: Basel, 41/ 4, 58/J, 58/K, 58/ 47; Ingolstadt,
+7/K, 7/L, 7/M; Paris, 27/M, 27/N, 58/J;
+Regensburg, 9/E, 9/G; Strasbourg, 86/11-
+18, 86/E
+1533: Antwerp, 7 /E, 29/ A, 29/ A.1; Ingolstadt,
+7/10, 7/11, 7/11.1, 7/N, 7/P, 7/Q,7/R, 64/
+1; Nuremberg, 7 /S, 83/C-C.1, 83/1; Paris,
+15/C; Venice, 7 /K
+
+1534: Antwerp, 7 /E, 29/ A; Basel, 41/ A, 58/L-
+M; Ingolstadt, 7 /T; Krakow, 41/ A; Nu-
+remberg, 7/U; Venice, 13/A.2; Zurich, 58/
+
+47-1
+1535: Antwerp, 83/C.2; Basel, 27 /P, 41/ A;
+Landshut, 9/5; Lyon, 28/G.2; Nuremberg,
+7/V, 84/1.1; Paris, 27/O, 27/4.2; Venice,
+7/K
+1536: Antwerp, 83/C.2; Basel, 58/N-O, 86/F;
+Cologne, 79/1.1; Frankfurt am Main, 58/
+734
+
+P; Ingolstadt, 7 /13; Paris, 27 /R, 27 /2.1,
+183; Rome, 10/1; Strasbourg, 86/E.1, 86/
+11-18; Venice, 27 /3.1
+1537' Antwerp, 7 /E, 29/ A; Basel, 58/50;
+Genoa, 34/D; Louvain, 29/3, 29/ 4, 56/3;
+Paris, 61/1; Strasbourg, 82/1; Venice, 7/K,
+13/ A.3
+1538: Basel, 58/Q, 58/52-72, 78/ A-B, 78/1.1, 78/
+1.2; Louvain, 56/ 4; Nuremberg, 83/D;
+Paris, 27 /3-2; Strasbourg, 82/8-B.1; Ulm,
+16/ A; Venice, 87 /7, 8? /8; Zurich, 73/1
+1539: Antwerp, 7 /E, 29/ A, 29/ A.2; Venice, 30/
+A, 53/ A, 53/ A.1, 53/1
+1540s: Cologne, 79/ 4; Paris, 57 /J; Venice, 82/
+1.2
+1540: Antwerp, 7 /E, 29/ A, 29/E; Basel, 58/R,
+
+58/73-120, 78/1.3; Gdansk, 84/B; lngol-
+stadt, 7 /W; Louvain, 29/7, 56/6, 56/ A;
+
+Nuremberg, 63/1; Paris, 14/A.2, 27/4-4;
+Strasbourg, 24/E; Venice, 21/D
+1541: Antwerp, 56/ A; Basel, 41/J; Bra§OV, 41/
+B; Louvain, 56/7; Lyon, 28/G.3; Milan,
+18/ A; Nuremberg, 7/U, 9/H.1; Paris, 27/
+
+4.5; Strasbourg, 24/F; Venice, 7/K; Vi-
+enna, 28/G.3
+
+1542: Amsterdam, 6/5; Bra§OV, 41/5-20, 41/B,
+41/C; Cologne, 79/2-2.1; Leipzig, 16/D;
+Nuremberg, 16/C, 84/2.1; Paris, 27/S, 27/
+U; Strasbourg, 82/1.1, 82/B.2; Wittenberg,
+29/E; Wrocbw, 41/B
+1543: Antwerp, 6/8; Marburg, 7 /K; Nurem·
+berg, 40/A, 40/B; Paris, 27/V, 27/8, 29/E;
+Vienna, 40/4
+1544: Amsterdam, 6/11; Antwerp, 7/E, 17/A,
+29/ A, 29/ A.3, 29/8, 46/1; Basel, 41/4.1, 53/
+1.1, 58/S, 58/52-53-1, 58/73a-74a, 5B/923,
+58/10oa-104a, 58/106a, 58/ma-1120, 58/
+114a-119a, 58/121-129, 71/1.2; Lyon
+s?, 59/1;
+Nuremberg?, 17/6.1; Paris, 15/D, 27/Y
+;
+Rome, 71/1.1; Strasbourg, 27/X; Venice,
+30/1, 71/C; Wittenberg, 29/E
+1544-53: Antwerp, 29/B
+1545: Antwerp, 7/E, 29/A, 29/F; Basel, 41/4.
+I
+,
+
+53/1.1, 58/T, 58/73b-104b, 58/1o6b, 58/1nb-
+112b, 58/114b-12ob, 58/12ia-127a, 5B/130-
+
+IJ4, 58/132-133; Cologne, 79/5; Lon
+don
+,
+31/ A; Nuremberg, 335; Paris, 27 /Z, 29/E
+,
+44/2; Seville, 20/ A; Venice, 30/2, 71/D
+,
+87 /10, 8? /11; Vienna, 49/ 4-5
+
+154
+6: Amsterdam, 6/11.1; Bas,
+U; London, 31/2, 33/D.1;
+Rome, 33/3; Rostock, 72,
+30/4, 33/E, 76/A, 87/13;:
+5.1-20.1
+1547' Antwerp, 29/E; Augsbt
+sels, 62/1; Venice, 13/ A ..
+40/6, 40/7
+1547-82: Paris, 29/B
+1548: Antwerp, 7 /E, 29/ A, 29_
+Florence, 33/F; London,
+29/G, 29/H; Paris, 53/1.2
+Seville, 20/B; Venice, 30
+62-64, 33/2.2, 33/G; Witt,
+rich, 41/B, 41/D, 73/B, 7;
+1548 or 49: Bra§ov, 41/B, 41/C
+1549: Antwerp, 36/1, 56/ A; C,
+79/ A; Florence, 33/H; Lo
+Nuremberg, 16/F; Paris,
+40/ 4.2; Zurich, 41/B, 41/I
+1549 or 50: Strasbourg, 84/5
+1550: Antwerp, 7/E, 29/A; Ba
+58/Va-b, 58/73.1, 58/74c,
+104c, 58/1o6c, 58/mc, 58/
+58/121e, 58/127b, 58/131a,
+A.1, 71/1.3; Cologne, 86/1
+Germany, 84/5.1-.2; Lone
+Lyons, 59/ A; Paris, 7 /K,
+29/E; Seville, 20/B; Veni
+30/67, 30/68, 30/72, 82/1-:
+berg, 29/E, 45/1
+1550-52: Florence, 33/K
+1551: Basel, 40/ 4.5, 49/C, 58/i'
+Ingolstadt, 16/H; Louvai,
+berg, 88/A; Paris, 7/E, 71
+27 /CC, 27 /EE, 27 /FF, 27 /
+Salzburg, 68/1; Venice, 7
+tenberg, 29/E
+1552: Antwerp, 29/E, 41/5.2-2,
+Basel, 41/ 4.1, 53/1.1; Cope
+Rome, 51/1, 51/ A, 71/1.4;
+Strasbourg, 65/ A; Venice
+40/5.3; Wittenberg, 72j1;
+D
+155): Amsterdam, 6/11.3, 6/16;
+25/ 4.2, 29/ A, 30/2.1, 41/E,
+16/K, 24/D, 24/G; Londo,
+7/E, 27/3.6, 27/HH, 27/JJ,
+3.1; Rome, 51/2; Strasbou1
+7 /6.1, 27 /3-7, 30/70.1, 51/E
+29/E
+1554: Duisburg, 56/13; Ingolst,
+10/1.2; Lyons, 59/4, 59/B,
+burg, 16/L; Rome, 51/ 4, 5
+20/B; Venice, 7 /K, 30/73,
+4, 60/ A; Zurich, 73/D
+1555: Antwerp, 30/J.1, 30/77, 4
+Cologne, 79/8, 79/9; Lone
+31/2, 33/C.1, 86/E.2; Lyon
+
+1546: Amsterdam, 6/11.1; Basel, 41/8, 49/8, 58/
+U; London, 31/2, 33/D.i; Paris, 27 /3,4:
+Rome, 33/3; Rostock, 72/ A; Venice, 30/3,
+30/ 4, 33/E, 76/ A, 87 /13; Zurich, 41/D, 41/
+5.1-20.1
+
+1547' Antwerp, 29/E; Augsburg, 16/E; Brus-
+sels, 62/1; Venice, 13/A.4; Vienna, 40/4.1,
+
+40/6, 40/7
+1547-82: Paris, 29/8
+1548: Antwerp, 7 /E, 29/ A, 29/8.1; Basel, 49/6;
+Florence, 33/F; London, 31/8; Louvain,
+29/G, 29/H; Paris, 53/1.2; Rome, 23/1.8;
+Seville, 20/8; Venice, 30/C, 30/3-60, 30/
+
+62-64, 33/2.2, 33/G; Wittenberg, 29/E; Zu-
+rich, 41/8, 41/D, 73/8, 73/C, 73/3-2-14.2
+
+1548 or 49: Bra~ov, 41/8, 41/C
+1549: Antwerp, 36/1, 56/ A; Cologne, 79/5-1,
+79/ A; Florence, 33/H; London?, 17 /6.2;
+Nuremberg, 16/F; Paris, 29/E; Vienna,
+40/ 4.2; Zurich, 41/B, 41/D
+1549 or 50: Strasbourg, 84/5
+1550: Antwerp, 7/E, 29/A; Basel, 6/11.2, 16/2,
+
+58/Va-b, 58/73-1, 58/74c, 58/101c, 58/103c-
+104c, 58/1o6c, 58/mc, 58/115<, 58/117c-i19c,
+
+58/121c, 58/127b, 58/131a, 58/135-188, 71/
+A.1, 71/1.3; Cologne, 86/D; Florence, 33/J;
+Germany, 84/5.1-.2; London?, 50/ A;
+Lyons, 59/A; Paris, 7/K, 27/AA, 27/BB,
+29/E; Seville, 20/B; Venice, 10/1.1, 30/65,
+
+30/67, 30/68, 30/72, 82/1.3, 84/5.3; Witten-
+berg, 29/E, 45/1
+
+1550-52: Florence, 33/K
+155,: Basel, 40/ 4.5, 49/C, 58/W; Florence, 33/L;
+
+Ingolstadt, 16/H; Louvain, 56/10; Nurem-
+berg, 88/ A; Paris, 7 /E, 7 /K, 12/ A, 12/1,
+
+27/CC, 27/EE, 27/FF, 27/GG, 27/11, 29/A;
+
+Salzburg, 68/1; Venice, 7/K, 60/1; Wit-
+tenberg, 29/E
+
+1552: Antwerp, 29/E, 41/5-2-20.2, 41/E, 79/5.2;
+Basel, 41/4.1, 53/1.1; Copenhagen, 45/2.1;
+Rome, 51/1, 51/ A, 71/1.4; Rostock, 72/2;
+Strasbourg, 65/ A; Venice, 30/70; Vienna,
+40/5.3; Wittenberg, 72/1; Zurich, 41/B, 41/
+D
+1553' Amsterdam, 6/11.3, 6/16; Antwerp, 7 /E,
+25/ 4.2, 29/ A, 30/2.1, 41/E, 60/1.1; Basel,
+16/K, 24/D, 24/G; London, 31/ A.1; Paris,
+7 /E, 27 /3.6, 27 /HH, 27 /JJ, 29/ A, 29/E, 41/
+3.1; Rome, 51/2; Strasbourg, 84/6; Venice,
+7/6.1, 27/3.7, 30/70.1, 51/B; Wittenberg,
+29/E
+1554: Duisburg, 56/13; Ingolstsdt, 9/D.1; Italy,
+
+10/1.2; Lyons, 59/ 4, 59/8, 77 / A; Regens-
+burg, 16/L; Rome, 51/ 4, 53/1.3; Seville,
+
+20/B; Venice, 7 /K, 30/73, 30/74, 30/75, 51/
+4, 60/ A; Zurich, 73/D
+1555' Antwerp, 30/3.1, 30/77, 41/E, 41/E, 81/1.2;
+Cologne, 79/8, 79/9; London, 31/C, 31/1.1,
+J1/ 2, 33/C.1, 86/E.2; Lyons, 76/B, 76/C;
+
+Paris, 12/8, 12/2-19, 27 / 4.6; Rome, 53/8,
+
+53/1.3, 56/6.1, 78/1.4; Rostock?, 72/4; Ven-
+ice, 30/76; Wittenberg, 29/E
+
+1556: Antwerp, 12/20, 12/21, 25/7.1, 29/J, 56/ A,
+77 / A; Basel, 33/M, 40/ 4.5, 40/ 4.6, 49/E,
+49/8; London, 31/D; Lyons, 29/E, 76/D,
+76/E, 77 / A; Mechelen, 32; Milan, 79/5.3;
+Paris, 27 /KK, 27 /LL, 29/E; Rome, 25/1.2;
+Strasbourg, 84/5.5; Venice, 25/4.3, 25/7.2,
+30/76.1, 30/78-83, 56/6.2; Vienna, 49/D,
+49/7; Wittenberg, 29/E; Zurich, 73/C.1,
+73/E
+1557' Antwerp, 12/22, 12/C, 26/ A, 40/ 4.7, 56/
+A, 72/1.1; Basel, 49/F, 82/C; Paris, 27 /
+MM, 29/F, 29/E, 41/F, 77 /8; Rome, 82/1.4;
+Venice, 4/1.1; Vienna, 40/4.8; Wittenberg,
+72/5
+1558: Amsterdam, 6/ A.2; Antwerp, 25/1.3, 77 /
+8; Cologne, 79/8.1; Italy, 10/1.3; Lyons,
+59/5, 76/F; Paris, 29/F, 29/E; Rome, 12/
+22.1, 30/2.2, 51/ 4, 51/C, 51/6, 51/5,51/7, 71/
+1.6, 71/1.5; Venice, 6/8.2, 25/8.3, 56/6.3,
+60/1.3, 79/5.4,85/ A, 85/1; Vienna, 49/12,
+
+49/11, 49/H, 49/G, 49/14, 65/D,65/B; Zu-
+rich, 41/B, 41/D
+
+1559: Antwerp, 11/1, 25/8.2, 72/5.1; Hamburg,
+45/3; Leipzig, 29/E; London, 31/ A.2;
+Lyons, 76/G; Paris, 29/E, 41/3-2, 59/6;
+Rome, 51/9, 51/8, 60/1.5; Strasbourg, 29/
+E; Venice, 10/1.4, 30/85, 30/86, 30/D, 30/
+70.2, 33/ A.1, 33/1.1, 56/6.4, 5687 /14
+1559-60: Paris, 44/ 4
+1560s: Louvain, 56/3; Rome, 51/1.1; Venice, 85/
+1.3, 85/1-4, 462
+1560: Antwerp, 6/8.3, 25/11.2, 41/E, 69/1, 69/1;
+Basel, 78/ A.1-B.1, 78/1.5; Cologne, 79/8.2;
+Lyons, 33/N, 76/1, 76/J, 76/H; Paris, 27 /
+NN, 29/E, 44/5; Rome, 10/1.5, 30/86.i;
+
+Rothenburg ob der Tauber, 16/M; Stras-
+bourg, 84/5.6; Venice, 30/87, 30/89, 30/E,
+
+30/70.3, 30/E.1,30/88, 30/3.2, 59/ 4.1, 60/1.6;
+Wittenberg, 72/B, 72/6
+1561: Antwerp, 7 /E, 29/ A; Basel, 41/ A; Italy,
+12/22.3; Lyons, 59/8, 76/J.1, 76/1.1, 76/H;
+Paris, 29/E, 29/E; Rome, 30/92, 30/85.1,
+30/91, 51/10, 51/11, 67 /1, 67 /1; Seville, 20/
+8; Venice, 4/1.2, 30/91, 30/92, 30/C.1, 30/
+
+90, 30/76.2, 30/G, 30/93, 30/J, 85/1.1; Vi-
+enna, 49/15-26, 49/J; Wittenberg, 29/E;
+
+Wroclaw, 38/1
+1562: Antwerp, 3/2.1, 5/A, 29/E, 37/2, 84/5.7;
+
+Basel, 35/1.1, 35/ A; Leipzig, 29/E; Lon-
+don, 43/1; Paris, 77 /2, 77 /,; Venice, 6/8.4,
+
+12/20.1, 23/1.9, 30/96, 30/98.1,30/3-2, 30/
+3-2, 30/C.1, 30/J.1, 30/70.3, 30/97, 30/68.1,
+30/68.2; Zurich, 41/D, 73/C.2
+1563: Basel, 40/ 4.6, 40/ 4.5; Kaliningrad, 84/C;
+Paris, 29/E, 77 /3; Prague, 87 /12.1; Rome,
+51/D, 51/12; Venice, 10/1.6, 25/7.3, 25/ 4.4,
+27 /3.10, 27 /3-9,30/98.2, 30/93.1, 30/74.1, 30/
+
+73.1, 30/75.1,59/ 4.1, 78/1.6, 82/1-5: Witten-
+berg, 29/E, 72/8
+
+1564: Antwerp, 1/1, 7 /E, 29/ A, 65/F; Basel, 49/
+K; Cologne, 29/E; Duisburg, 56/16; Lyon,
+29/8; Rome, 10/1.7, 51/12; Venice, 30/D.1,
+30/73.2, 30/74.2, 30/C.1, 30/G.1,30/F, 30/
+103, 30/70.4, 30/61.1, 30/98.3, 30/75-2, 30/
+62.2, 71/1.7; Wroclaw, 38/ A; Zurich, 41/D,
+41/B, 41/D
+1565: Antwerp, 1/2, 25/ 4.5, 25/ 4.6, 56/6.6, 57 /
+
+A, 67 /1.1, 67 /1.1; Leipzig, 29/E; Nurem-
+berg, 40/9.1, 88/1; Paris, 44/5-2, 77 / 4;
+
+Venice, 30/98.4, 30/J, 30/93.1; Zurich, 41/
+D, 41/B
+1566: Antwerp, 79/9.i; Frankfurt am Main, 9/
+J.i; Lyon, 19/1, 19/ A; Nuremberg, 88/2,
+8813, 88/ 4; Nysa, 5/C; Rome, 25/7.4, 25/
+8-5: Seville, 20/8; Venice, 25/1-4, 25/8-4,
+27/2.3, 27/3.11, 30/103.1, 30/2.3, 30/61.2,
+30/68.3, 30/62.3, 30/76.2, 30/88.1, 30/86.2,
+30/88.2, 30/98.2, 53/1-4, 71/1.8, 78/1.7, 78/
+
+1.6, 78/1.8; Vienna, 65/2, 65/1; Witten-
+berg, 29/E
+
+1567: Antwerp, 1/ 4, 6/11.4, 49/7.3, 56/6.8;
+
+Basel, 40/ 4.5, 40/ 4.6, 53/1.5, 53/1.5; Gor-
+litz?, 66/ A; Nuremberg, 88/8, 88/7, 88/6,
+
+88/5; Venice, 25/1.5, 25/4.7, 29/E, 30/90.1,
+30/1o6,30/105, 30/93.2, 34/1.2, 56/6.7, 78/
+1.9; Wittenberg, 29/E, 72/6
+1568: Antwerp, 1/5, 25/1.6, 30/90.2, 43/1.1, 48/
+2, 70/2.2; Basel, 65/K; Ingolstadt, 8/2b, 8/
+2.1, 8/2a; Leipzig, 29/E; London, 77 /B.1;
+Lyons, 59/E; Munster?, 54/1; Nuremberg,
+88/10, 88/9, 88/8; Prague, 22/2.1; Venice,
+30/86.3, 30/107, 30/96.1b, 30/108, 30/96.ia;
+Weimar, 55/1
+
+1569: Antwerp, 79/8.3; Cologne, 56/C; Duis-
+burg, 56/17, 56/18; Gorlitz, 66/1; Leipzig,
+
+22/1.3; Lyons, 59/B; Paris, 29/E; Rome,
+51/E; The Hague, 25/4-8; Venice, 21/27.1,
+21/27.2, 30/88.3, 30/90.1, 30/93-2
+1570s: Rome, 30/2-4; Venice, 10/1.3, 30/D.2,
+30/H, 30/90.3, 30/2.5
+1570: Antwerp, 1/ A, 1/6-'75, 3/2.2, 6/8.5, 9/5.1,
+10/1.9, 11/1.1, 12/20.2, 19/1.1, 26/2.2, 30/2.6,
+30/76.3, 30/88.4, 30/90.4, 33/1.2, 35/1.3, 38/
+1.9, 40/9.2, 43/1.2, 44/5.4, 49/2-3.1, 49/7.5,
+51/5.1, 54/1.1, 56/6.11, 56/17.9, 63/1.1, 67 I
+1.2, 68/1.2, 69/1.1, 79/5.5, 81/1.3, 88/8.i;
+Basel, 35/1.2; Cologne?, 72/7.1; Italy, 10/
+1.8; Kakar, 47 /2-3, 70/11-12; Mechlin, 56/
+6.10; Nuremberg, 88/11, 88/12; Paris, 25/
+11.4, 44/5.3; Rome, 30/70.5, 30/84.1, 51/1.2,
+56/6.9, 71/B.1; Venice, 1/ 4.1, 30/62.4, 30/
+84-2, 30/85-2, 30/91.1, 30/92.1, 30/93.3, 30/
+
+103, 30/103-2, 30/108.1, 35/1.4, 59/ 4.2; Wit-
+tenberg, 29/E; Wroclaw, 38/8, 38/C; Zu-
+rich, 41/8, 41/D
+
+1571: Antwerp, 1/1.1, 1/77, 1/ A.1, 26/2.y Basel,
+40/ 4.5, 40/ 4.6; Cologne, 29/E; Gorlitz, 66/
+C; Jena, 55/2, 55/3; Nuremberg, 64/1.4,
+
+88/13; Venice, 21/27.3, 30/107; Vienna, 65/
+3; Wittenberg, 72/B
+1572: Antwerp, 1/ A.2, 1/ A.3, 26/C, 56/38, 79/
+9.2; Cologne, 6/11.5, 50/E.1, 51/1.3, 55/3.1,
+68/2.1,87/13.1, 88/6.1; Garlitz, 66/E, 66/D;
+Kalkar, 70/13; Leipzig, 29/E; London, 72/
+5.3; Nuremberg, 10; Paris, 5/ A.1, 29/E;
+Rome, 53/1.6; Seville, 20/B; Venice, 30/
+90.,; Wittenberg, 45/ A
+1573: Antwerp, 1/78-105, 1/B, 1/C(1573], 7 /E,
+8/2.8, 29/ A, 30/105.1, 30/107.1, 34/1.3, 49/
+21.2, 49/22.1, 49/25.1, 50/1.1, 50/3.1, 55/1.1;
+Cologne, 29/7.1; London, 50/D.2, 50/E.2;
+
+Rome, 51/E; Rouen, 59/4.3, 59/B.1; Ven-
+ice, 21/27.4; Zurich, 41/B, 41/D, 73/F
+
+1574: Amsterdam, 65/G; Antwerp, 1/B, 7 /E,
+29/ A, 56/17.1, 65/L; Basel, 58/52-53-2, 65/
+E, 65/M; Cologne, 7 /E, 29/ A, 47 /2.1-3.1,
+70/11.1, 70/12.1; Garlitz, 66/1.2, 66/C;
+Venice, 30/C.i; Wittenberg, 29/E; Zurich,
+73/C.3
+
+1575: Antwerp, 7 /E, 29/ A; Basel, 66/F; Col-
+ogne, 88/10.1; Garlitz, 66/1.3; Leipzig, 29/
+
+E; Paris, 44/5.5, 76/1.3, 77 /5-39, 77 /C
+1576: Antwerp, 26/B, 59/E.1; Cologne, 29/E;
+Frankfurt am Main, 1/D [1576]; Lisbon,
+20/B; Lyons, 59/B; Paris, 41/3.3; Seville,
+20/B; Ulm, 64/1.5; Wittenberg, 29/E
+1577: Antwerp, 1/E [1577], 19/1.2, 38/1.11, 43/
+1.5, 54/1.2, 64/1.6, 78/1.13; Basel, 49/8.1;
+Bra§ov, 41/C, 41/B; Garlitz, 66/1.4; Rome,
+30/90.5; Rouen, 59/B
+1578: Antwerp, 1/F[1578], 1/1.2, 8/2.9, 10/1.10,
+11/1.2, 19/1.3, 25/4.10, 30/2.7, 30/85.3, 30/
+90.6, 30/91.2, 30/92.2, 30/98.7, 30/107.2, 38/
+1.13, 40/9-4, 43/1.3, 43/ 1-4, 45/3.1, 49/ 2-3. 2,
+49/7.6, 51/5.2, 51/9.1, 51/10.1, 54/1.3, 55/1.2,
+56/6.12, 58/52.3, 58/132-133.1, 63/1.2, 63/1.2,
+64/1.7, 67/1.3, 68/1.3, 70/17, 70/18, 72/1.2,
+78/1.12, 84/2-4, 84/5.8, 88/5.1; Cologne, 29/
+
+B, 56/39-66, 56/E; Garlitz, 66/1.5, 66/G-
+G.i; Paris, 29/E, 44/5.6, 51/11.2, 77 / 40;
+
+Venice, 30/76.2; Zurich, 41/D, 41/B
+1579: Amsterdam, 66/1.7; Antwerp, 1/)(1579],
+1/106-31, 45/3-2, 48/2.1; Munich, 8/2.6a,
+8/2.6b; Venice, 30/98.8; Wittenberg, 29/E
+1580: Antwerp, 47/2.2-3.2, 77/40.1; Basel, 9/
+D.2, 58/52-53.3; Frankfurt am Main, 9/J.2;
+Krempe, 45/3.3; Leipzig, 29/E; Seville,
+20/B
+158,: Antwerp, 6/11.6, 7 /E, 29/ A, 29/E, 29/F,
+56/6.13; Frankfurt am Main, 65/N;
+Helmstedt, 61/1.2; Paris, 77 /33; Seville,
+20/B; Venice, 30/93.2; Zurich, 41/B, 41/D
+1583: Antwerp, 26/D; Basel, 29/8, 41/ A; Celle,
+55/ A; Garlitz, 66/H; Giissing, 26/E; Paris,
+59/18, 59/J; Wittenberg, 29/E; Zurich, 41/
+B, 41/D
+
+1584: Antwerp, 1/K[1584], 1/L[1584], 1/132-63,
+7 /E, 12/20.3, 29/ A, 29/F, 30/86.4, 47 /1.2;
+
+Cologne, 56/E.1; Deventer, 25/7.6; Le-
+ipzig, 29/E; London, 50/8.1; Paris, 77 /D;
+
+Seville, 20/B; Venice, 77 /B
+1585: Antwerp, 70/11.2, 70/12.2; Basel, 41/ A;
+Cologne, 45/5, 51/11.3; Duisburg, 8/2.10,
+
+56/67-117, 56/118, 56/F, 56/G, 56/H, 56/J-
+K; Garlitz, 66/H; London, 33/N.1; Pam-
+plona, 20/B; Paris, 29/E
+
+1586: Garlitz, 66/H; Paris, 77 / 46, 77 /52, 77 /54,
+77/62, 77/77, 77/80, 77/85, 77/87, 77/95,
+77 /102-103, 77 /106, 77 /113, 77 /123, 77 /128-
+33, 77/135-36, 77/138-40, 77/142-43, 77/148,
+77 /152, 77 /154, 77 /156, 77 /158-60, 77 /163-
+64, 77 /169, 77 /171, 77 /175-'77, 77 /181-82,
+77 /185-86, 77 /190, 77 /197, 77 /201-202, 77 /
+208-210, 77/212-30, 77/232-34, 77/237, 77/
+241-46, 77 /248-50, 77 /252, 77 /255-56, 77 /
+258, 77/260, 77/264-67, 77/269-71, 77/278,
+77 /281-84, 77 /291, 77 /293-94, 77 /298-99,
+
+77 /301-303, 77 /305-3o6, 77 /3o8-309; Tiibin-
+gen, 8/E; Zurich, 41/D, 73/B.1
+
+1587: Antwerp: Cologne, 61/1.3; Garlitz, 66/C,
+66/H; Prague, 88/5-2; Strasbourg, 38/1.14;
+Wittenberg, 29/E
+
+1588: Basel, 38/1.14; Garlitz, 66/E, 66/H; Le-
+ipzig, 29/E; Seville, 20/B; Tiibingen, 8/F
+
+1589: Cologne, 35/1.5; Duisburg, 56/119-141,
+56/L; Garlitz, 66/H; London, 43/ A, 43/B,
+43/C, 43/D-E; Paris, 44/5.7
+1590: Antwerp, 1/164-85, 1/N[1590], 30/3.1, 56/
+6.14; Cologne, 70/8.3; Frankfurt am Main,
+26/F; Garlitz, 66/H; Paris, 15/E; Venice,
+30/61.1, 30/62.2; Wittenberg, 72/B; Zurich,
+41/B, 41/D
+159,: Garlitz, 66/H; Leipzig, 29/E
+1592: Amsterdam, 7 /E, 29/ A; Antwerp, 1/
+6b[1592], 29/ A, 49/2-3.3; Cologne, 29/E;
+Garlitz, 66/H; Leipzig, 29/E; Zerbst, 84/
+2.6
+1593: Antwerp, 30/2.7, 30/85.3, 30/90.6, 30/91.2,
+30/92.2, 30/98.9, 30/107.2, 38/1.13, 40/2.1,
+40/9.4, 43/1.3, 45/3-1, 49/2-3-2, 49/7.6, 51/
+5-2, 51/9.1, 51/10.1, 54/1.3, 55/1.2, 56/6.12,
+64/1.8; Celle?, 55/7; Garlitz, 66/2, 66/H;
+Venice, 30/93.2; Wittepberg, 29/E
+1594: Bergamo, 18/ A; Cologne, 8/2.11, n/1.3,
+25/ 4.12, 30/88.5, 35/1.6, 38/1.15, 56/6.15, 56/
+17.3, 64/1.9, 65/3.2, 66/1.8, 67 /1.4, 67 /1.4,
+68/1.4, 68/1-4, 70/7-3, 70/18.1, 78/1.14, 84/
+2.7; Frankfurt am Main, 79/8-50 Paris, 44/
+5.7; Prague, 88/5.3-4; Tours, 19/1-4, 59/5.3,
+74/2.2, 74/3.1, 76/1.4; Venice, 30/3.2
+1595: Antwerp, 1/121a[1595], 1/15oa[1595], 1/188-
+209, 30/105.1, 35/1.7, 38/1.10, 45/3.4, 45/6.1,
+68/1.5, 79/8.3; Cologne, 65/1.2, 72/6.1;
+Duisburg, 56/17.10, 56/17.11, 56/17-12, 56/
+17.13, 56/38.1, 56/142-170, 56/M, 56/N;
+
+~u:seldorf, 56I_M; _Geneva, 56/,7.10; Giir-
+htz., 66/2.1; Le1~z1g, 29/E; Prague, 41/G
+
+41/5.3-20.30 Venice, 1/4. 2; Wittenb ' B erg, 72/
+1595 or 96: Antwerp, 1/210
+1596: Antwerp, 30/98.6; Cologne, 34;,. 4, 561 17-4, 79/8.6; Rome?, 48/2.2; Venice, 561 17.5, 85/1.6
+1597: Amsterdam?, 56/17.6; Cologne, 79/ 9_3,
+Frankfurt am Main, 56/17.3; Leipzig, 451 6.2; Zurich, 41/B, 41/D
+1598: Amsterdam, 26/G, 29/ A; Antwerp, 1;
+18a[1598], 1/211-18, 38/1.12; Brescia, 1/E.1
+[1577], 64/1.10, 78/1.15; Cologne, 55/5, 55/6;
+Middelburg, 43/1.6; Venice, 21/27.6, 29/F
+1599: London, 43/ A-E, 56/17.7, 56/17.8; Rome,
+30/90.8; Venice, 30/93.1, 41/ A
+1600: Amsterdam, 67 /1.5; Cologne, 30/88.5, 34/
+1.4, 35/1.6, 38/1.15, 56/6.15, 56/17.3, 85/1.7;
+Garlitz?, 66/2.2
+1601: Antwerp, 1/E.2 [1577], 26/H, 43/1.7;
+Basel, 71/1.11; Eisleben, 38/1.16; Paris, 70/
+2.4
+1602: Antwerp, 48/2.4; Rome, 10/1.3, 30/2.2,
+30/70.5, 30/84.3, 51/11.4, 56/ 4.1; Rouen, 59/
+B; Siena, 30/84-40 Zurich, 41/D
+1603: Antwerp, 1/M.1 [1586?]; Frankfurt am
+Main, 65/G-J; Wittenberg, 72/B
+1604: Cologne, 79/8.7; Wittenberg, 29/E
+16o5: Amsterdam, 56/E.1; Antwerp, 26/J;
+Frankfurt am Main, 56/E.1; Liegnitz, 38/
+1.1
+16o6: London, 1/S [16o6]; Zurich, 41/D, 73/B.2
+1607: Leipzig, 29/E; Rouen, 59/B
+16o8: Cologne, 30/88.5, 34/1-4, 35/1.6, 38/1.15,
+51/5.3, 55/7.1, 56/6.15, 56/17-3
+1609: Amsterdam, 7 /E, 29/ A
+16n: Antwerp, 26/K; Krakow, 40/ 4.9
+1612: Wittenberg, 16/G.2
+1614: Basel, 78/1.16; Wittenberg, 29/E
+1617: London, 74/1.2
+1618: La Rochelle, 59/B
+1618-19: Amsterdam, 56/E.1; Leiden, 56/E. 1
+1618/19: Munich, 8/2.2
+1619: Leiden, 26/M; Tours, 76/1.4
+1620: Strasbourg, 49/27.1
+
+1621: Augsburg, 79/8.9; Strasbourg, 79/8.8
+1624: Antwerp, 1/H.2 [1579), 1/219; Frankfurt
+am Main, 56/17.3
+1625: Amsterdam, 6/11.7; Halle, 29/E; Leipzig,
+38/1.17
+1627: Wroclaw, 38/1.2
+1628: Rouen, 59/B
+1630: Amsterdam, 55/7-2; Cologne, 79/8.5;
+Strasbourg, 79/8.10, 82/1.6
+163t: Amsterdam, 76/1.5
+163} Amsterdam, 55/7.3
+1635: Amsterdam, 38/1.18
+1636: Amsterdam, 6/11.8; Paris, 71/1.12
+1638: Amsterdam, 66 / 2. 3
+
+1650: Franfurt-am-Main, 38/1.19; Rome, 51/
+11-s; Salzburg?, 68/1.6
+165i: Munich, 8/2.3a, 8/2.3b; Venice, 30/3-2
+1652: Amsterdam, 29/E; Rome, 30/2-4
+1658: London, 53/B.1
+
+1661: Oxford, 29/E
+166} Siena, 30/84.4
+1666: Paris, 26/2.4
+1670: Amsterdam, 66/D.1
+1671: Frankfurt am Main, 51/G
+1676: Antwerp, 70/10.1; Paris, 47/1.3; Venice,
+51/H
+1678: Nuremberg, 87 /12.2; Prague, 87 /13-2
+1683: Nuremberg, 16/G.3
+
+1685: Nuremberg, 79/8.11; Wrodaw, 38/1.4
+1688: Nuremberg, 79/8.11
+
+1692: Vienna, 16/H.1
+1695: Franeker, 56/E.1; Utrecht, 56/E.1
+1698: Franeker, 56/E.1; Utrecht, 56/E.1
+1699: Leiden, 71/1.13, 71/ A.2; Milan, 52/ A.1
+1700: Nuremberg, 79/8.12
+1704: Amsterdam, 56/E.1; Leiden, 56/E.1;
+Paris, 26/2.5; Utrecht, 56/E.1
+1722: Leiden, 51/H.1
+
+1723: Leiden, 51/J, 52/ A.2
+1730: Amsterdam, 56/E.1
+1733: Hamburg, 11/1.4
+1738: Wrodaw, 38/ A.1, 38/1.5
+174} Paris, 77 /3-1
+1751: Rome, 51/13, 51/J.1; Venice, 30/3.2
+1766: Berlin, 8/2.13
+1773: Rome, 51/11.6
+1775: Rome, 51/ 4
+1776: Augsburg, 54/1.4; Wroclaw, 38/1.7, 38/
+1.8
+1778: Frankfurt am Main, 8/2.14
+1795: Venice, 27 /2.2
+1808: Venice, 85/1.8
+1820s: Rome, 51/11.7
+1851-52: London, 33/C.1
+1866: Augsburg, 8/2.5
+1886: London, 43/ A-E
