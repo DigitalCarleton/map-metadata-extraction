@@ -7,6 +7,10 @@
 
 import re 
 import pandas as pd
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.INFO)
 
 # Open up the cleaned file
 with open('cleaned-ocr-text/index_to_place_and_date.txt') as f:
@@ -75,13 +79,15 @@ for country_data in by_country:
 
             # split the data by entry 
             by_entry = date_data.split(",")
+            logging.debug(by_entry)
 
             # 7. For each entry, grab the mapmaker (first part), map/book, and then any notes (like editions or alternate years?)
             for entry_data in by_entry:
                 entry_data = entry_data.strip()
                 # remove newline characters
                 entry_data = entry_data.replace("\n", "")
-                print(entry_data)
+                # remove spaces
+                entry_data = entry_data.replace(" ", "")
 
                 # Separate the mapmaker and the map/book ID
                 mapmaker_id = entry_data.split("/")[0]
