@@ -92,7 +92,7 @@ for country_data in by_country:
                     print("Error: object id in incorrect format")
                     print(entry_data)
                     print()
-                    continue
+                    continue # python will skip the rest of the loop and move to the next entry
 
                 # Maps are numbered, Books have letters
                 capital_alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'AA', 'BB', 'CC', 'DD', 'EE', 'FF', 'GG', 'HH', 'II', 'JJ', 'KK', 'LL', 'MM', 'NN', 'OO', 'PP', 'QQ', 'RR', 'SS', 'TT', 'UU', 'VV', 'WW', 'XX', 'YY', 'ZZ']
@@ -123,6 +123,7 @@ for country_data in by_country:
                                     print("Error: book range is reversed")
                                     print(entry_data)
                                     print()
+                                    continue
 
                                 else:
                                     for i in range(book_range_index[0], book_range_index[1] + 1):
@@ -132,19 +133,130 @@ for country_data in by_country:
                                         index_data["city"].append(city_name)
                                         index_data["date"].append(date)
                             
-                            elif (WE HAVE MAPS NOT BOOKS):
+                            # If it's a map, there are numbers for the IDs
+                            elif start_id_general.isnumeric() and end_id_general.isnumeric(): 
+                                map_range = (int(start_id_general), int(end_id_general))
+
+                                # a normal-looking range
+                                if map_range[1] > map_range[0]:
+                                    for i in range(map_range[0], map_range[1] + 1):
+                                        index_data["mapmaker_id"].append(mapmaker_id)
+                                        index_data["map_or_book_id"].append(f"{i}.{edition}")
+                                        index_data["country"].append(country_name)
+                                        index_data["city"].append(city_name)
+                                        index_data["date"].append(date)
+
+                                # a range of the form 23-5, 108-34, or 121-4 
+                                elif len(start_id_general) > len(end_id_general):
+                                    num_digits_start = len(start_id_general)
+                                    num_digits_end = len(end_id_general)
+                                    digits_to_append = num_digits_start - num_digits_end
+
+                                    new_end_id = start_id_general[0:digits_to_append] + end_id_general
+
+                                    map_range = (int(start_id_general), int(new_end_id))
+
+                                    for i in range(map_range[0], map_range[1] + 1):
+                                        index_data["mapmaker_id"].append(mapmaker_id)
+                                        index_data["map_or_book_id"].append(f"{i}.{edition}")
+                                        index_data["country"].append(country_name)
+                                        index_data["city"].append(city_name)
+                                        index_data["date"].append(date)
+
+                                else:
+                                    print("Cannot parse map range")
+                                    print(entry_data)
+                                    print()
+                                    continue
+
+                                # end case with a range of later edition maps
+                            
+                            else:
+                                print("Error: range has mixed types between maps and books.")
+                                print(entry_data)
+                                print()
+                                continue
+                            # end case where both in a range are later editions and the same edition
+                        
+                        else:
+                            print("Error: range has mixed editions, this is ambiguous")
+                            print(entry_data)
+                            print()
+                            continue
+                        # end case where both in a range are later editions
                                     
 
                     elif "." not in start_id and "." not in end_id:
                         # neither are later editions
-                        pass
+                        
+                        # If it's a book, there are letters for the IDs
+                        if start_id in capital_alphabet and end_id in capital_alphabet:
+                            book_range_index = (capital_alphabet.index(start_id), capital_alphabet.index(end_id))
+
+                            if book_range_index[0] > book_range_index[1]:
+                                print("Error: book range is reversed")
+                                print(entry_data)
+                                print()
+                                continue
+
+                            else:
+                                for i in range(book_range_index[0], book_range_index[1] + 1):
+                                    index_data["mapmaker_id"].append(mapmaker_id)
+                                    index_data["map_or_book_id"].append(capital_alphabet[i])
+                                    index_data["country"].append(country_name)
+                                    index_data["city"].append(city_name)
+                                    index_data["date"].append(date)
+                            # end case with a range of books
+
+                        # If it's a map, there are numbers for the IDs
+                        elif start_id.isnumeric() and end_id.isnumeric(): 
+                            map_range = (int(start_id), int(end_id))
+
+                            # a normal-looking range
+                            if map_range[1] > map_range[0]:
+                                for i in range(map_range[0], map_range[1] + 1):
+                                    index_data["mapmaker_id"].append(mapmaker_id)
+                                    index_data["map_or_book_id"].append(i)
+                                    index_data["country"].append(country_name)
+                                    index_data["city"].append(city_name)
+                                    index_data["date"].append(date)
+
+                            # a range of the form 23-5, 108-34, or 121-4 
+                            elif len(start_id) > len(end_id):
+                                num_digits_start = len(start_id)
+                                num_digits_end = len(end_id)
+                                digits_to_append = num_digits_start - num_digits_end
+
+                                new_end_id = start_id[0:digits_to_append] + end_id
+
+                                map_range = (int(start_id), int(new_end_id))
+
+                                for i in range(map_range[0], map_range[1] + 1):
+                                    index_data["mapmaker_id"].append(mapmaker_id)
+                                    index_data["map_or_book_id"].append(i)
+                                    index_data["country"].append(country_name)
+                                    index_data["city"].append(city_name)
+                                    index_data["date"].append(date)
+
+                            else:
+                                print("Cannot parse map range")
+                                print(entry_data)
+                                print()
+                                continue
+
+                            # end case with a range of maps
+                            
+                        else:
+                            print("Error: range has mixed types between maps and books.")
+                            print(entry_data)
+                            print()
+                            continue
 
                     else:
                         print("Error: range has mixed editions")
                         print(entry_data)
                         print()
                         continue
-
                     # end range case
                                     
 
@@ -154,7 +266,13 @@ for country_data in by_country:
                     index_data["country"].append(country_name)
                     index_data["city"].append(city_name)
                     index_data["date"].append(date)
+                    # end case with no range
 
+# Convert the dictionary to a pandas dataframe
+index_df = pd.DataFrame(index_data)
+
+# Save the dataframe to a csv
+index_df.to_csv("../outputs/index_to_place_and_date_v3.csv", index=False)
 
                                 
 
