@@ -9,7 +9,7 @@ import re
 import pandas as pd
 
 # Open up the cleaned file
-with open('../cleaned-ocr-text/index_to_place_and_date.txt') as f:
+with open('cleaned-ocr-text/index_to_place_and_date.txt') as f:
     index = f.read()
 
 """
@@ -272,7 +272,7 @@ for country_data in by_country:
 index_df = pd.DataFrame(index_data)
 
 # Save the dataframe to a csv
-index_df.to_csv("../outputs/index_to_place_and_date_v3.csv", index=False)
+index_df.to_csv("outputs/index_to_place_and_date_v3.csv", index=False)
 
                                 
 
