@@ -1,3 +1,4 @@
+from numpy import int64
 import pandas as pd
 import logging
 
@@ -17,6 +18,10 @@ combined_df = pd.merge(index_df, mapmakers_df, left_on="mapmaker_id", right_on="
 # index_df has a column called "mapmaker_id"
 # mapmakers_df has a column called "Mapmaker ID"
 # The final argument, how="left", specifies that we want to keep all the rows from index_df
+
+# Fix that mapmaker_id is a float and not an int
+# 0 indicates that there was no mapmaker ID in the index file (likely due to incorrect OCR)
+combined_df["mapmaker_id"] = combined_df["mapmaker_id"].fillna(0).astype(int)
 
 # Keep the naming of the columns consistent
 combined_df = combined_df.drop(columns=["Mapmaker ID"])
