@@ -44,7 +44,7 @@ Johann Sambucus,65,3,Austria,Vienna,1571,1571,1571
 Caspar Brusch,16,H.1,Austria,Vienna,1692,1692,1692
 Johann Sambucus,65,1.3,Austria,Vienna,1746,1746,1746
 Johannes à Hoorn,42,1,Belgium,Antwerp,1526,1526,1526
-Franciscus Monachus · 407,57,A,Belgium,Antwerp,1527-30,1527,1530
+Franciscus Monachus,57,A,Belgium,Antwerp,1527-30,1527,1530
 Peter Apian,7,Е,Belgium,Antwerp,1529,1529,1529
 Gemma Frisius,29,А,Belgium,Antwerp,1529,1529,1529
 Peter Apian,7,1.1,Belgium,Antwerp,1530,1530,1530
@@ -150,7 +150,7 @@ Abraham Ortelius,1,2,Belgium,Antwerp,1565,1565,1565
 Jacob van Deventer,25,4.5,Belgium,Antwerp,1565,1565,1565
 Jacob van Deventer,25,4.6,Belgium,Antwerp,1565,1565,1565
 Gerard Mercator,56,6.6,Belgium,Antwerp,1565,1565,1565
-Franciscus Monachus · 407,57,A,Belgium,Antwerp,1565,1565,1565
+Franciscus Monachus,57,A,Belgium,Antwerp,1565,1565,1565
 Fernando Alvares Seco,67,1.1,Belgium,Antwerp,1565,1565,1565
 Caspar Vopel,79,9.1,Belgium,Antwerp,1566,1566,1566
 Abraham Ortelius,1,4,Belgium,Antwerp,1567,1567,1567
@@ -695,7 +695,7 @@ Johann Putsch,61,1,France,Paris,1537,1537,1537
 Oronce Fine,27,3.2,France,Paris,1538,1538,1538
 Martin Brion,14,A.2,France,Paris,1540,1540,1540
 Oronce Fine,27,4.4,France,Paris,1540,1540,1540
-Franciscus Monachus · 407,57,3,France,Paris,1540s?,,
+Franciscus Monachus,57,3,France,Paris,1540s?,1535,1555
 Oronce Fine,27,4.5,France,Paris,1541,1541,1541
 Oronce Fine,27,5,France,Paris,1542,1542,1542
 Oronce Fine,27,U,France,Paris,1542,1542,1542
@@ -1026,7 +1026,7 @@ Philipp Apian,8,2.13,Germany,Berlin,1766,1766,1766
 Johannes Mellinger,55,A,Germany,Celle,1583,1583,1583
 Johannes Mellinger,55,7,Germany,Celle,1593,1593,1593
 Caspar Vopel,79,1.1,Germany,Cologne,1536,1536,1536
-Caspar Vopel,79,4,Germany,Cologne,1540s?,,
+Caspar Vopel,79,4,Germany,Cologne,1540s?,1535,1555
 Peter Apian,7,K,Germany,Cologne,1544,1544,1544
 Caspar Vopel,79,5,Germany,Cologne,1545,1545,1545
 Caspar Vopel,79,A,Germany,Cologne,1549,1549,1549
@@ -1526,7 +1526,7 @@ Vincenzo Paletino,60,1.5,Italy,Rome,1559,1559,1559
 Girolamo Bell' Armato,10,1.5,Italy,Rome,1560,1560,1560
 Giacomo Gastaldi,30,86.1,Italy,Rome,1560,1560,1560
 Gerard Mercator,56,4.1,Italy,Rome,са. 1560-66,,
-Pirro Ligorio,51,1.1,Italy,Rome,1560s?,,
+Pirro Ligorio,51,1.1,Italy,Rome,1560s?,1555,1575
 Giacomo Gastaldi,30,85.1,Italy,Rome,1561,1561,1561
 Giacomo Gastaldi,30,91,Italy,Rome,1561,1561,1561
 Giacomo Gastaldi,30,92,Italy,Rome,1561,1561,1561
@@ -1545,7 +1545,7 @@ Giacomo Gastaldi,30,84.1,Italy,Rome,1570,1570,1570
 Pirro Ligorio,51,1.2,Italy,Rome,1570,1570,1570
 Gerard Mercator,56,6.9,Italy,Rome,1570,1570,1570
 Nikolaos Sophianos · 495,71,B.1,Italy,Rome,1570,1570,1570
-Giacomo Gastaldi,30,2.4,Italy,Rome,1570s?,,
+Giacomo Gastaldi,30,2.4,Italy,Rome,1570s?,1565,1585
 Olaus Magnus,53,1.6,Italy,Rome,1572,1572,1572
 Pirro Ligorio,51,E,Italy,Rome,1573,1573,1573
 Pirro Ligorio,51,11.1,Italy,Rome,1574-5,1574,1575
@@ -1967,8 +1967,8 @@ Johannes Honter,41,B,Poland,Wrocław,1542,1542,1542
 Martin Helwig,38,1,Poland,Wrocław,1561,1561,1561
 Martin Helwig,38,2,Poland,Wrocław,1561,1561,1561
 Martin Helwig,38,А,Poland,Wrocław,1564,1564,1564
-Martin Helwig,38,B,Poland,Wrocław,са. 1570?,,
-Martin Helwig,38,C,Poland,Wrocław,са. 1570?,,
+Martin Helwig,38,B,Poland,Wrocław,са. 1570?,1565,1575
+Martin Helwig,38,C,Poland,Wrocław,са. 1570?,1565,1575
 Martin Helwig,38,12,Poland,Wrocław,1627,1627,1627
 Martin Helwig,38,1.3,Poland,Wrocław,1642,1642,1642
 Martin Helwig,38,1.4,Poland,Wrocław,1685,1685,1685
