@@ -533,7 +533,7 @@ Marcus Jordan,45,3,Belgium,Antwerp,1595
 Marcus Jordan,45,4,Belgium,Antwerp,1595
 Marcus Jordan,45,6.1,Belgium,Antwerp,1595
 Marcus Secsnagel,68,1.5,Belgium,Antwerp,1595
-Abraham Ortelius,1,210,Belgium,Antwerp,1595 ог 96
+Abraham Ortelius,1,210,Belgium,Antwerp,1595 or 96
 Giacomo Gastaldi,30,98.6,Belgium,Antwerp,1596
 Abraham Ortelius,1,117a[],Belgium,Antwerp,1598
 Abraham Ortelius,1,18a[],Belgium,Antwerp,1598
@@ -996,7 +996,7 @@ Johann Cuspinianus,24,F,France,Strasbourg,1541
 Wolfgang Wissenburg,82,B.2,France,Strasbourg,1542
 Wolfgang Wissenburg,82,1.1,France,Strasbourg,1542
 ,-27,X,France,Strasbourg,1544
-Heinrich Zell,84,5,France,Strasbourg,1549 Or 50
+Heinrich Zell,84,5,France,Strasbourg,1549 or 50
 Johann Sambucus,65,A,France,Strasbourg,1552
 Heinrich Zell,84,6,France,Strasbourg,1553
 Heinrich Zell,84,5.5,France,Strasbourg,1556
@@ -1133,8 +1133,7 @@ Pirro Ligorio,51,5.3,Germany,Cologne,1608
 Johannes Mellinger,55,7.1,Germany,Cologne,1608
 Gerard Mercator,56,6.15,Germany,Cologne,1608
 Gerard Mercator,56,17.3,Germany,Cologne,1608
-Caspar Vopel,79,8.5,Germany,Cologne,"after
-1630?"
+Caspar Vopel,79,8.5,Germany,Cologne,"after 1630?"
 Gerard Mercator,56,13,Germany,Duisburg,1554
 Gerard Mercator,56,16,Germany,Duisburg,1564
 Gerard Mercator,56,18,Germany,Duisburg,1569
