@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Read in the files
 mapmakers_df = pd.read_csv("outputs/mapmakers.csv")
-index_df = pd.read_csv("outputs/index_to_place_and_date_v3.csv")
+index_df = pd.read_csv("outputs/index_to_place_and_date_v4.csv")
 
 # Merge the DataFrames
 combined_df = pd.merge(index_df, mapmakers_df, left_on="mapmaker_id", right_on="Mapmaker ID", how="left")

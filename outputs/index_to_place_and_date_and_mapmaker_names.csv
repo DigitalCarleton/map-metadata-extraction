@@ -44,7 +44,7 @@ Johann Sambucus,65,3,Austria,Vienna,1571
 Caspar Brusch,16,H.1,Austria,Vienna,1692
 Johann Sambucus,65,1.3,Austria,Vienna,1746
 Johannes à Hoorn,42,1,Belgium,Antwerp,1526
-Franciscus Monachus · 407,57,A,Belgium,Antwerp,1527-30
+Franciscus Monachus,57,A,Belgium,Antwerp,1527-30
 Peter Apian,7,Е,Belgium,Antwerp,1529
 Gemma Frisius,29,А,Belgium,Antwerp,1529
 Peter Apian,7,1.1,Belgium,Antwerp,1530
@@ -150,7 +150,7 @@ Abraham Ortelius,1,2,Belgium,Antwerp,1565
 Jacob van Deventer,25,4.5,Belgium,Antwerp,1565
 Jacob van Deventer,25,4.6,Belgium,Antwerp,1565
 Gerard Mercator,56,6.6,Belgium,Antwerp,1565
-Franciscus Monachus · 407,57,A,Belgium,Antwerp,1565
+Franciscus Monachus,57,A,Belgium,Antwerp,1565
 Fernando Alvares Seco,67,1.1,Belgium,Antwerp,1565
 Caspar Vopel,79,9.1,Belgium,Antwerp,1566
 Abraham Ortelius,1,4,Belgium,Antwerp,1567
@@ -237,7 +237,7 @@ Abraham Ortelius,1,75,Belgium,Antwerp,1570
 Abraham Ortelius,1,A,Belgium,Antwerp,1570
 Liévin Algoet,3,2.2,Belgium,Antwerp,1570
 Cornelis Anthoniszoon,6,8.5,Belgium,Antwerp,1570
-Johannes A ventinus,9,5.1,Belgium,Antwerp,1570
+Johannes A Ventinus,9,5.1,Belgium,Antwerp,1570
 Girolamo Bell' Armato,10,1.9,Belgium,Antwerp,1570
 Peter Böckel,11,1.1,Belgium,Antwerp,1570
 Gilles Boileau de Buillon,12,20.2,Belgium,Antwerp,1570
@@ -255,7 +255,7 @@ Anthony Jenkinson,43,1.2,Belgium,Antwerp,1570
 Jean Jolivet,44,5.4,Belgium,Antwerp,1570
 Wolfgang Lazius,49,7.5,Belgium,Antwerp,1570
 Pirro Ligorio,51,5.1,Belgium,Antwerp,1570
-Godfried Mascop · 367,54,11,Belgium,Antwerp,1570
+Godfried Mascop,54,11,Belgium,Antwerp,1570
 Gerard Mercator,56,6.11,Belgium,Antwerp,1570
 Gerard Mercator,56,17.9,Belgium,Antwerp,1570
 Erhart Reich,63,1.1,Belgium,Antwerp,1570
@@ -323,14 +323,14 @@ Johann Sambucus,65,L,Belgium,Antwerp,1574
 Peter Apian,7,E,Belgium,Antwerp,1575
 Gemma Frisius,29,A,Belgium,Antwerp,1575
 Charles de l'Escluse,26,B,Belgium,Antwerp,1576
-Nicolas de Nicolay · 435,59,E.1,Belgium,Antwerp,1576
+Nicolas de Nicolay,59,E.1,Belgium,Antwerp,1576
 Abraham Ortelius,1,E[],Belgium,Antwerp,1577
 Jean Chaumeau,19,1.2,Belgium,Antwerp,1577
 Martin Helwig,38,1.11,Belgium,Antwerp,1577
 Anthony Jenkinson,43,1.5,Belgium,Antwerp,1577
-Godfried Mascop · 367,54,1.2,Belgium,Antwerp,1577
-Sebastian Rotenhan · 453,64,1.6,Belgium,Antwerp,1577
-Aegidius Tschudi · 547 25,78,1.13,Belgium,Antwerp,1577
+Godfried Mascop,54,1.2,Belgium,Antwerp,1577
+Sebastian Rotenhan,64,1.6,Belgium,Antwerp,1577
+Aegidius Tschudi,78,1.13,Belgium,Antwerp,1577
 Abraham Ortelius,1,F[],Belgium,Antwerp,1578
 Abraham Ortelius,1,1.2,Belgium,Antwerp,1578
 Philipp Apian,8,2.9,Belgium,Antwerp,1578
@@ -354,18 +354,18 @@ Wolfgang Lazius,49,76,Belgium,Antwerp,1578
 Pirro Ligorio,51,5.2,Belgium,Antwerp,1578
 Pirro Ligorio,51,9.1,Belgium,Antwerp,1578
 Pirro Ligorio,51,10.1,Belgium,Antwerp,1578
-Godfried Mascop · 367,54,1.3,Belgium,Antwerp,1578
+Godfried Mascop,54,1.3,Belgium,Antwerp,1578
 Johannes Mellinger,55,1.2,Belgium,Antwerp,1578
 Gerard Mercator,56,6.12,Belgium,Antwerp,1578
 Sebastian Munster,58,52.3,Belgium,Antwerp,1578
 Erhart Reich,63,1.2,Belgium,Antwerp,1578
-Sebastian Rotenhan · 453,64,1.7,Belgium,Antwerp,1578
+Sebastian Rotenhan,64,1.7,Belgium,Antwerp,1578
 Fernando Alvares Seco,67,1.3,Belgium,Antwerp,1578
 Marcus Secsnagel,68,1.3,Belgium,Antwerp,1578
 Christian Sgrooten,70,17,Belgium,Antwerp,1578
 Christian Sgrooten,70,18,Belgium,Antwerp,1578
 Tilemann Stella,72,1:2,Belgium,Antwerp,1578
-Aegidius Tschudi · 547 25,78,1.12,Belgium,Antwerp,1578
+Aegidius Tschudi,78,1.12,Belgium,Antwerp,1578
 Heinrich Zell,84,2.4,Belgium,Antwerp,1578
 Heinrich Zell,84,5.8,Belgium,Antwerp,1578
 Matthias Zündt,88,5.1,Belgium,Antwerp,1578
@@ -498,10 +498,10 @@ Wolfgang Lazius,49,7.6,Belgium,Antwerp,1593
 Pirro Ligorio,51,5.2,Belgium,Antwerp,1593
 Pirro Ligorio,51,9.1,Belgium,Antwerp,1593
 Pirro Ligorio,51,10.1,Belgium,Antwerp,1593
-Godfried Mascop · 367,54,1.3,Belgium,Antwerp,1593
+Godfried Mascop,54,1.3,Belgium,Antwerp,1593
 Johannes Mellinger,55,1.2,Belgium,Antwerp,1593
 Gerard Mercator,56,6.12,Belgium,Antwerp,1593
-Sebastian Rotenhan · 453,64,1.8,Belgium,Antwerp,1593
+Sebastian Rotenhan,64,1.8,Belgium,Antwerp,1593
 Abraham Ortelius,1,121a[],Belgium,Antwerp,1595
 Abraham Ortelius,1,150a[],Belgium,Antwerp,1595
 Abraham Ortelius,1,188,Belgium,Antwerp,1595
@@ -533,7 +533,7 @@ Marcus Jordan,45,3,Belgium,Antwerp,1595
 Marcus Jordan,45,4,Belgium,Antwerp,1595
 Marcus Jordan,45,6.1,Belgium,Antwerp,1595
 Marcus Secsnagel,68,1.5,Belgium,Antwerp,1595
-Abraham Ortelius,1,210,Belgium,Antwerp,1595 or 96
+Abraham Ortelius,1,210,Belgium,Antwerp,1595 ог 96
 Giacomo Gastaldi,30,98.6,Belgium,Antwerp,1596
 Abraham Ortelius,1,117a[],Belgium,Antwerp,1598
 Abraham Ortelius,1,18a[],Belgium,Antwerp,1598
@@ -633,14 +633,14 @@ Anthony Jenkinson,43,C,England,London,1886
 Anthony Jenkinson,43,D,England,London,1886
 Anthony Jenkinson,43,E,England,London,1886
 Gemma Frisius,29,E,England,Oxford,1661
-Nicolas de Nicolay · 435,59,B,France,La Rochelle,1618
+Nicolas de Nicolay,59,B,France,La Rochelle,1618
 Martin Waldseemüller,80,A.2,France,Lyons,1517?
 Lorenz Fries,28,G.2,France,Lyons,1535
 Lorenz Fries,28,G.3,France,Lyons,1541
-Nicolas de Nicolay · 435,59,1,France,Lyons,1544
-Nicolas de Nicolay · 435,59,A,France,Lyons,1550
-Nicolas de Nicolay · 435,59,4,France,Lyons,1554
-Nicolas de Nicolay · 435,59,В,France,Lyons,1554
+Nicolas de Nicolay,59,1,France,Lyons,1544
+Nicolas de Nicolay,59,A,France,Lyons,1550
+Nicolas de Nicolay,59,4,France,Lyons,1554
+Nicolas de Nicolay,59,В,France,Lyons,1554
 André Thevet,77,A,France,Lyons,1554
 Gabriel Symeoni,76,B,France,Lyons,1555
 Gabriel Symeoni,76,C,France,Lyons,1555
@@ -648,23 +648,23 @@ Gemma Frisius,29,E,France,Lyons,1556
 Gabriel Symeoni,76,D,France,Lyons,1556
 Gabriel Symeoni,76,E,France,Lyons,1556
 André Thevet,77,A,France,Lyons,1556
-Nicolas de Nicolay · 435,59,5,France,Lyons,1558
+Nicolas de Nicolay,59,5,France,Lyons,1558
 Gabriel Symeoni,76,F,France,Lyons,1558
 Gabriel Symeoni,76,С,France,Lyons,1559
 Paolo Giovio,33,N,France,Lyons,1560
 Gabriel Symeoni,76,1,France,Lyons,1560
 Gabriel Symeoni,76,H,France,Lyons,1560
 Gabriel Symeoni,76,J,France,Lyons,1560
-Nicolas de Nicolay · 435,59,B,France,Lyons,1561
+Nicolas de Nicolay,59,B,France,Lyons,1561
 Gabriel Symeoni,76,11,France,Lyons,1561
 Gabriel Symeoni,76,Н,France,Lyons,1561
 Gabriel Symeoni,76,J.1,France,Lyons,1561
 Gemma Frisius,29,8,France,Lyons,1564
 Jean Chaumeau,19,A,France,Lyons,1566
 Jean Chaumeau,19,1,France,Lyons,1566
-Nicolas de Nicolay · 435,59,E,France,Lyons,1568
-Nicolas de Nicolay · 435,59,B,France,Lyons,1569
-Nicolas de Nicolay · 435,59,B,France,Lyons,1576
+Nicolas de Nicolay,59,E,France,Lyons,1568
+Nicolas de Nicolay,59,B,France,Lyons,1569
+Nicolas de Nicolay,59,B,France,Lyons,1576
 Oronce Fine,27,A,France,Paris,1515
 Oronce Fine,27,B,France,Paris,1516
 Oronce Fine,27,C,France,Paris,1517
@@ -695,7 +695,7 @@ Johann Putsch,61,1,France,Paris,1537
 Oronce Fine,27,3.2,France,Paris,1538
 Martin Brion,14,A.2,France,Paris,1540
 Oronce Fine,27,4.4,France,Paris,1540
-Franciscus Monachus · 407,57,3,France,Paris,1540s?
+Franciscus Monachus,57,3,France,Paris,1540s?
 Oronce Fine,27,4.5,France,Paris,1541
 Oronce Fine,27,5,France,Paris,1542
 Oronce Fine,27,U,France,Paris,1542
@@ -764,7 +764,7 @@ André Thevet,77,B,France,Paris,1557
 Gemma Frisius,29,F,France,Paris,1558
 Gemma Frisius,29,E,France,Paris,1559
 Johannes Honter,41,3.2,France,Paris,1559
-Nicolas de Nicolay · 435,59,6,France,Paris,1559
+Nicolas de Nicolay,59,6,France,Paris,1559
 Jean Jolivet,44,4,France,Paris,са. 1559-60
 Oronce Fine,27,ММ,France,Paris,1560
 Gemma Frisius,29,5,France,Paris,1560
@@ -825,8 +825,8 @@ Jean Jolivet,44,5.6,France,Paris,1576
 Pirro Ligorio,51,11.2,France,Paris,1576
 André Thevet,77,40,France,Paris,1576
 André Thevet,77,33,France,Paris,1581
-Nicolas de Nicolay · 435,59,18,France,Paris,1583
-Nicolas de Nicolay · 435,59,1584,France,Paris,1583
+Nicolas de Nicolay,59,18,France,Paris,1583
+Nicolas de Nicolay,59,1584,France,Paris,1583
 André Thevet,77,0,France,Paris,1583
 Gemma Frisius,29,E,France,Paris,1585
 André Thevet,77,46,France,Paris,1586
@@ -882,12 +882,12 @@ André Thevet,77,208,France,Paris,1586
 André Thevet,77,209,France,Paris,1586
 André Thevet,77,210,France,Paris,1586
 André Thevet,77,212,France,Paris,1586
-Nicolas de Nicolay · 435,59,B.1,France,Rouen,1573
-Nicolas de Nicolay · 435,59,4.3,France,Rouen,1573
-Nicolas de Nicolay · 435,59,B,France,Rouen,1577
-Nicolas de Nicolay · 435,59,B,France,Rouen,1602
-Nicolas de Nicolay · 435,59,B,France,Rouen,1607
-Nicolas de Nicolay · 435,59,B,France,Rouen,1628
+Nicolas de Nicolay,59,B.1,France,Rouen,1573
+Nicolas de Nicolay,59,4.3,France,Rouen,1573
+Nicolas de Nicolay,59,B,France,Rouen,1577
+Nicolas de Nicolay,59,B,France,Rouen,1602
+Nicolas de Nicolay,59,B,France,Rouen,1607
+Nicolas de Nicolay,59,B,France,Rouen,1628
 Martin Waldseemüller,80,1,France,St. Die,1507
 Martin Waldseemüller,80,2,France,St. Die,1507
 Martin Waldseemüller,80,A,France,St. Die,1507
@@ -996,7 +996,7 @@ Johann Cuspinianus,24,F,France,Strasbourg,1541
 Wolfgang Wissenburg,82,B.2,France,Strasbourg,1542
 Wolfgang Wissenburg,82,1.1,France,Strasbourg,1542
 ,-27,X,France,Strasbourg,1544
-Heinrich Zell,84,5,France,Strasbourg,1549 or 50
+Heinrich Zell,84,5,France,Strasbourg,1549 Or 50
 Johann Sambucus,65,A,France,Strasbourg,1552
 Heinrich Zell,84,6,France,Strasbourg,1553
 Heinrich Zell,84,5.5,France,Strasbourg,1556
@@ -1008,19 +1008,19 @@ Caspar Vopel,79,8.8,France,Strasbourg,1621
 Caspar Vopel,79,8.10,France,Strasbourg,1630
 ,0,1.6,France,Strasbourg,1630
 Jean Chaumeau,19,1.4,France,Tours,1594
-Nicolas de Nicolay · 435,59,5.3,France,Tours,1594
+Nicolas de Nicolay,59,5.3,France,Tours,1594
 Jean Surhon,74,2.2,France,Tours,1594
 Jean Surhon,74,3.176,France,Tours,1594
 Gabriel Symeoni,76,1.4,France,Tours,1619
-Johannes A ventinus,9,A,Germany,Augsburg,1518
-Sebastian Rotenhan · 453,64,C,Germany,Augsburg,1521?
+Johannes A Ventinus,9,A,Germany,Augsburg,1518
+Sebastian Rotenhan,64,C,Germany,Augsburg,1521?
 Liévin Algoet,3,A,Germany,Augsburg,1530
 Caspar Brusch,16,E,Germany,Augsburg,1547
 Caspar Vopel,79,8.9,Germany,Augsburg,1621
 Philipp Apian,8,2.7a,Germany,Augsburg,1684
 Philipp Apian,8,2.7b,Germany,Augsburg,1684
-Godfried Mascop · 367,54,1.4,Germany,Augsburg,1776
-Godfried Mascop · 367,54,1.4,Germany,Augsburg,1784
+Godfried Mascop,54,1.4,Germany,Augsburg,1776
+Godfried Mascop,54,1.4,Germany,Augsburg,1784
 Philipp Apian,8,2.5,Germany,Augsburg,1866
 Philipp Apian,8,2.13,Germany,Berlin,1766
 Johannes Mellinger,55,A,Germany,Celle,1583
@@ -1101,14 +1101,14 @@ Wacław Grodecki,35,1.6,Germany,Cologne,1594
 Martin Helwig,38,1.15,Germany,Cologne,1594
 Gerard Mercator,56,6.15,Germany,Cologne,1594
 Gerard Mercator,56,17.3,Germany,Cologne,1594
-Sebastian Rotenhan · 453,64,1.9,Germany,Cologne,1594
+Sebastian Rotenhan,64,1.9,Germany,Cologne,1594
 Johann Sambucus,65,3.2,Germany,Cologne,1594
 Bartholomaeus Scultetus,66,1.8,Germany,Cologne,1594
 Fernando Alvares Seco,67,1.4,Germany,Cologne,1594
 Marcus Secsnagel,68,1.4,Germany,Cologne,1594
 Christian Sgrooten,70,7.3,Germany,Cologne,1594
 Christian Sgrooten,70,18.1,Germany,Cologne,1594
-Aegidius Tschudi · 547 25,78,1.14,Germany,Cologne,1594
+Aegidius Tschudi,78,1.14,Germany,Cologne,1594
 Heinrich Zell,84,2.7,Germany,Cologne,1594
 Johann Sambucus,65,1.2,Germany,Cologne,1595
 Tilemann Stella,72,6.1,Germany,Cologne,1595
@@ -1197,7 +1197,7 @@ Gerard Mercator,56,G,Germany,Duisburg,1585
 Gerard Mercator,56,H,Germany,Duisburg,1585
 Gerard Mercator,56,J,Germany,Duisburg,1585
 Gerard Mercator,56,K,Germany,Duisburg,1585
-Nicolas de Nicolay · 435,59,5.2,Germany,Duisburg,1585
+Nicolas de Nicolay,59,5.2,Germany,Duisburg,1585
 Gerard Mercator,56,L,Germany,Duisburg,1589
 Gerard Mercator,56,119,Germany,Duisburg,1589
 Gerard Mercator,56,120,Germany,Duisburg,1589
@@ -1260,9 +1260,9 @@ Martin Helwig,38,1.16,Germany,Bissleben,1601
 Sebastian Munster,58,P,Germany,Frankfurt am Main,1536
 Sebastian Munster,58,48,Germany,Frankfurt am Main,1536
 Sebastian Munster,58,49,Germany,Frankfurt am Main,1536
-Johannes A ventinus,9,J.1,Germany,Frankfurt am Main,1566
+Johannes A Ventinus,9,J.1,Germany,Frankfurt am Main,1566
 Abraham Ortelius,1,D[],Germany,Frankfurt am Main,1576
-Johannes A ventinus,9,J.2,Germany,Frankfurt am Main,1580
+Johannes A Ventinus,9,J.2,Germany,Frankfurt am Main,1580
 Johann Sambucus,65,N,Germany,Frankfurt am Main,1581
 Charles de l'Escluse,26,F,Germany,Frankfurt am Main,1590
 Caspar Vopel,79,8.5,Germany,Frankfurt am Main,1594
@@ -1318,12 +1318,12 @@ Peter Apian,7,N,Germany,Imgolstadt,1533
 Peter Apian,7,1”,Germany,Imgolstadt,1533
 Peter Apian,7,Q,Germany,Imgolstadt,1533
 Peter Apian,7,R,Germany,Imgolstadt,1533
-Sebastian Rotenhan · 453,64,1,Germany,Imgolstadt,1533
+Sebastian Rotenhan,64,1,Germany,Imgolstadt,1533
 Peter Apian,7,T,Germany,Imgolstadt,1534
 Peter Apian,7,13,Germany,Imgolstadt,1536
 Peter Apian,7,W,Germany,Imgolstadt,1540
 Caspar Brusch,16,H,Germany,Imgolstadt,1551
-Johannes A ventinus,9,D.1,Germany,Imgolstadt,1554
+Johannes A Ventinus,9,D.1,Germany,Imgolstadt,1554
 Philipp Apian,8,2.1,Germany,Imgolstadt,1568
 Philipp Apian,8,2a,Germany,Imgolstadt,1568
 Philipp Apian,8,2b,Germany,Imgolstadt,1568
@@ -1338,13 +1338,13 @@ Marcus Jordan,45,3.3,Germany,Krempe,1580
 Peter Apian,7,2,Germany,Landshut,1521 or 22
 Peter Apian,7,A,Germany,Landshut,1521 or 22
 Peter Apian,7,C,Germany,Landshut,1523
-Johannes A ventinus,9,1.1,Germany,Landshut,1523
-Johannes A ventinus,9,C,Germany,Landshut,1523
+Johannes A Ventinus,9,1.1,Germany,Landshut,1523
+Johannes A Ventinus,9,C,Germany,Landshut,1523
 Peter Apian,7,4,Germany,Landshut,1524
 Peter Apian,7,5,Germany,Landshut,1524
 Peter Apian,7,D,Germany,Landshut,1524
 Peter Apian,7,E,Germany,Landshut,1524
-Johannes A ventinus,9,5,Germany,Landshut,1535
+Johannes A Ventinus,9,5,Germany,Landshut,1535
 Caspar Brusch,16,D,Germany,Leipzig,1542
 Gemma Frisius,29,E,Germany,Leipzig,1558
 Gemma Frisius,29,E,Germany,Leipzig,1559
@@ -1364,7 +1364,7 @@ Marcus Jordan,45,6.2,Germany,Leipzig,1597
 Gemma Frisius,29,E,Germany,Leipzig,1607
 Martin Helwig,38,1.17,Germany,Leipzig,1625
 Martin Helwig,38,1.1,Germany,Liegnitz,1605
-Sebastian Rotenhan · 453,64,B,Germany,Mainz,1521
+Sebastian Rotenhan,64,B,Germany,Mainz,1521
 Peter Apian,7,K,Germany,Marburg,1543
 Philipp Apian,8,2.6a,Germany,Munich,1579
 Philipp Apian,8,2.6b,Germany,Munich,1579
@@ -1372,10 +1372,10 @@ Philipp Apian,8,2.2,Germany,Munich,1618-19
 Philipp Apian,8,2.3a,Germany,Munich,1651
 Philipp Apian,8,2.3b,Germany,Munich,1651
 Philipp Apian,8,2.4,Germany,Munich,1802?
-Godfried Mascop · 367,54,1,Germany,Münster,1568
+Godfried Mascop,54,1,Germany,Münster,1568
 Nicolaus Cusanus,23,1.4,Germany,Nuremberg,1493
 Lorenz Fries,28,A,Germany,Nuremberg,1513
-Johannes A ventinus,9,В,Germany,Nuremberg,1522
+Johannes A Ventinus,9,В,Germany,Nuremberg,1522
 Christoph Zell,83,А,Germany,Nuremberg,1529
 Christoph Zell,83,B,Germany,Nuremberg,1530
 Peter Apian,7,5,Germany,Nuremberg,1533
@@ -1388,7 +1388,7 @@ Christoph Zell,83,D,Germany,Nuremberg,1538
 Erhart Reich,63,1,Germany,Nuremberg,1540
 Erhart Reich,63,1,Germany,Nuremberg,1540
 Peter Apian,7,U,Germany,Nuremberg,1541
-Johannes A ventinus,9,H.1,Germany,Nuremberg,1541
+Johannes A Ventinus,9,H.1,Germany,Nuremberg,1541
 Caspar Brusch,16,C,Germany,Nuremberg,1542
 Heinrich Zell,84,2.1,Germany,Nuremberg,1542
 Augustin Hirschvogel,40,B,Germany,Nuremberg,1543
@@ -1410,7 +1410,7 @@ Matthias Zündt,88,9,Germany,Nuremberg,1568
 Matthias Zündt,88,10,Germany,Nuremberg,1568
 Matthias Zündt,88,11,Germany,Nuremberg,1570
 Matthias Zündt,88,12,Germany,Nuremberg,1570
-Sebastian Rotenhan · 453,64,1.4,Germany,Nuremberg,1571
+Sebastian Rotenhan,64,1.4,Germany,Nuremberg,1571
 Matthias Zündt,88,13,Germany,Nuremberg,1571
 Giovanni Domenico Zorzi,87,12.2,Germany,Nuremberg,1678
 Caspar Brusch,16,G.3,Germany,Nuremberg,1683
@@ -1422,8 +1422,8 @@ Sebastian Munster,58,B.1,Germany,Oppenheim,1528
 Sebastian Munster,58,46,Germany,Oppenheim,1528
 Peter Apian,7,B,Germany,Regensburg,1522
 Peter Apian,7,3,Germany,Regensburg,1522
-Johannes A ventinus,9,E,Germany,Regensburg,1532
-Johannes A ventinus,9,G,Germany,Regensburg,1532
+Johannes A Ventinus,9,E,Germany,Regensburg,1532
+Johannes A Ventinus,9,G,Germany,Regensburg,1532
 Caspar Brusch,16,L,Germany,Regensburg,1554
 Tilemann Stella,72,A,Germany,Rostock,1546
 Tilemann Stella,72,2,Germany,Rostock,1552
@@ -1434,7 +1434,7 @@ Philipp Apian,8,F,Germany,Tubingen,1588
 Nicolaus Germanus,32,M.1,Germany,Ulm,1482
 Nicolaus Germanus,32,M.2,Germany,Ulm,1486
 Caspar Brusch,16,A,Germany,Ulm,1538
-Sebastian Rotenhan · 453,64,1.5,Germany,Ulm,1576
+Sebastian Rotenhan,64,1.5,Germany,Ulm,1576
 Johannes Mellinger,55,1,Germany,Weimar,1568
 Gemma Frisius,29,E,Germany,Wittenberg,1542
 Gemma Frisius,29,E,Germany,Wittenberg,1544
@@ -1477,8 +1477,8 @@ Heinrich Zell,84,2.6,Germany,Zerbst,1592
 Bonaventura Castiglioni,18,A,Italy,Bergamo,1594
 Nicolaus Germanus,32,A.1,Italy,Bologna,1477
 Abraham Ortelius,1,E.1[1577],Italy,Brescia,1598
-Sebastian Rotenhan · 453,64,1.10,Italy,Brescia,1598
-Aegidius Tschudi · 547 25,78,1.15,Italy,Brescia,1598
+Sebastian Rotenhan,64,1.10,Italy,Brescia,1598
+Aegidius Tschudi,78,1.15,Italy,Brescia,1598
 Nicolaus Cusanus,23,1.3,Italy,Florence,са. 1492
 Paolo Giovio,33,F,Italy,Florence,1548
 Paolo Giovio,33,11:1550,Italy,Florence,1549
@@ -1487,10 +1487,10 @@ Paolo Giovio,33,K,Italy,Florence,1550-52
 Paolo Giovio,33,L,Italy,Florence,1551
 Agostino Giustiniani,34,А,Italy,Genoa,1516
 Agostino Giustiniani,34,D,Italy,Genoa,1537
-Domenico Macaneo · 359,52,A,Italy,Milan,1490
+Domenico Macaneo,52,A,Italy,Milan,1490
 Bonaventura Castiglioni,18,A,Italy,Milan,1541
 Caspar Vopel,79,5.3,Italy,Milan,1556
-Domenico Macaneo · 359,52,A.1,Italy,Milan,1699
+Domenico Macaneo,52,A.1,Italy,Milan,1699
 Nicolaus Germanus,32,B.1,Italy,Rome,1478
 Nicolaus Cusanus,23,1.5,Italy,Rome,1507
 Nicolaus Cusanus,23,1.5,Italy,Rome,1508
@@ -1498,19 +1498,20 @@ Paolo Giovio,33,8:1525,Italy,Rome,1524
 Paolo Giovio,33,2,Italy,Rome,1524
 Paolo Giovio,33,C,Italy,Rome,1524
 Girolamo Bell' Armato,10,1,Italy,Rome,1536
-Nikolaos Sophianos · 495,71,1.1,Italy,Rome,"before 1544"
+Nikolaos Sophianos,71,1.1,Italy,Rome,"before
+1544"
 Paolo Giovio,33,3,Italy,Rome,1546
 Nicolaus Cusanus,23,1.8,Italy,Rome,1548
 Pirro Ligorio,51,1,Italy,Rome,1552
 Pirro Ligorio,51,A,Italy,Rome,1552
-Nikolaos Sophianos · 495,71,1.4,Italy,Rome,1552
+Nikolaos Sophianos,71,1.4,Italy,Rome,1552
 Pirro Ligorio,51,2,Italy,Rome,1553
 Pirro Ligorio,51,4,Italy,Rome,1554
 Olaus Magnus,53,1.3,Italy,Rome,1554
 Olaus Magnus,53,1.3,Italy,Rome,1555
 Olaus Magnus,53,В,Italy,Rome,1555
 Gerard Mercator,56,6.1,Italy,Rome,1555
-Aegidius Tschudi · 547 25,78,1.4,Italy,Rome,1555
+Aegidius Tschudi,78,1.4,Italy,Rome,1555
 Jacob van Deventer,25,1.2,Italy,Rome,1556
 Wolfgang Wissenburg,82,1.4,Italy,Rome,1557
 Gilles Boileau de Buillon,12,22.1,Italy,Rome,1558
@@ -1526,7 +1527,7 @@ Vincenzo Paletino,60,1.5,Italy,Rome,1559
 Girolamo Bell' Armato,10,1.5,Italy,Rome,1560
 Giacomo Gastaldi,30,86.1,Italy,Rome,1560
 Gerard Mercator,56,4.1,Italy,Rome,са. 1560-66
-Pirro Ligorio,51,1.1,Italy,Rome,1560s?
+Pirro Ligorio,51,1.1,Italy,Rome,1560s
 Giacomo Gastaldi,30,85.1,Italy,Rome,1561
 Giacomo Gastaldi,30,91,Italy,Rome,1561
 Giacomo Gastaldi,30,92,Italy,Rome,1561
@@ -1544,7 +1545,7 @@ Giacomo Gastaldi,30,70.5,Italy,Rome,1570
 Giacomo Gastaldi,30,84.1,Italy,Rome,1570
 Pirro Ligorio,51,1.2,Italy,Rome,1570
 Gerard Mercator,56,6.9,Italy,Rome,1570
-Nikolaos Sophianos · 495,71,B.1,Italy,Rome,1570
+Nikolaos Sophianos,71,B.1,Italy,Rome,1570
 Giacomo Gastaldi,30,2.4,Italy,Rome,1570s?
 Olaus Magnus,53,1.6,Italy,Rome,1572
 Pirro Ligorio,51,E,Italy,Rome,1573
@@ -1577,7 +1578,7 @@ Pirro Ligorio,51,4,Italy,Rome,1775
 Pirro Ligorio,51,11.7,Italy,Rome,1820s
 Giacomo Gastaldi,30,84.4,Italy,Siena,1602?
 Giacomo Gastaldi,30,84.4,Italy,Siena,1663
-Domenico Macaneo · 359,52,B,Italy,Turin,1508
+Domenico Macaneo,52,B,Italy,Turin,1508
 Girolamo Bell' Armato,10,1.2,Italy,Unknown city,1554
 Girolamo Bell' Armato,10,1.3,Italy,Unknown city,1558
 Gilles Boileau de Buillon,12,22.3,Italy,Unknown city,1561
@@ -1715,9 +1716,9 @@ Pietro Cappo,21,0,Italy,Venice,1540
 Wolfgang Wissenburg,82,1.2,Italy,Venice,1540s
 Peter Apian,7,К,Italy,Venice,1541
 Giacomo Gastaldi,30,1,Italy,Venice,1544
-Nikolaos Sophianos · 495,71,С,Italy,Venice,1544
+Nikolaos Sophianos,71,С,Italy,Venice,1544
 Giacomo Gastaldi,30,2,Italy,Venice,1545
-Nikolaos Sophianos · 495,71,D,Italy,Venice,1545
+Nikolaos Sophianos,71,D,Italy,Venice,1545
 Giovanni Domenico Zorzi,87,10,Italy,Venice,1545
 Giovanni Domenico Zorzi,87,11,Italy,Venice,1545
 Giacomo Gastaldi,30,3,Italy,Venice,1546
@@ -1726,12 +1727,71 @@ Paolo Giovio,33,5,Italy,Venice,1546
 Gabriel Symeoni,76,A,Italy,Venice,1546
 Giovanni Domenico Zorzi,87,13,Italy,Venice,1546
 Benedetto Bordone,13,A.4,Italy,Venice,1547
-Giacomo Gastaldi,30,C,Italy,Venice,"1548
-30/ 3-64"
-Paolo Giovio,33,2.2,Italy,Venice,"1548
-30/ 3-64"
-Paolo Giovio,33,G,Italy,Venice,"1548
-30/ 3-64"
+Giacomo Gastaldi,30,3,Italy,Venice,1548
+Giacomo Gastaldi,30,4,Italy,Venice,1548
+Giacomo Gastaldi,30,5,Italy,Venice,1548
+Giacomo Gastaldi,30,6,Italy,Venice,1548
+Giacomo Gastaldi,30,7,Italy,Venice,1548
+Giacomo Gastaldi,30,8,Italy,Venice,1548
+Giacomo Gastaldi,30,9,Italy,Venice,1548
+Giacomo Gastaldi,30,10,Italy,Venice,1548
+Giacomo Gastaldi,30,11,Italy,Venice,1548
+Giacomo Gastaldi,30,12,Italy,Venice,1548
+Giacomo Gastaldi,30,13,Italy,Venice,1548
+Giacomo Gastaldi,30,14,Italy,Venice,1548
+Giacomo Gastaldi,30,15,Italy,Venice,1548
+Giacomo Gastaldi,30,16,Italy,Venice,1548
+Giacomo Gastaldi,30,17,Italy,Venice,1548
+Giacomo Gastaldi,30,18,Italy,Venice,1548
+Giacomo Gastaldi,30,19,Italy,Venice,1548
+Giacomo Gastaldi,30,20,Italy,Venice,1548
+Giacomo Gastaldi,30,21,Italy,Venice,1548
+Giacomo Gastaldi,30,22,Italy,Venice,1548
+Giacomo Gastaldi,30,23,Italy,Venice,1548
+Giacomo Gastaldi,30,24,Italy,Venice,1548
+Giacomo Gastaldi,30,25,Italy,Venice,1548
+Giacomo Gastaldi,30,26,Italy,Venice,1548
+Giacomo Gastaldi,30,27,Italy,Venice,1548
+Giacomo Gastaldi,30,28,Italy,Venice,1548
+Giacomo Gastaldi,30,29,Italy,Venice,1548
+Giacomo Gastaldi,30,30,Italy,Venice,1548
+Giacomo Gastaldi,30,31,Italy,Venice,1548
+Giacomo Gastaldi,30,32,Italy,Venice,1548
+Giacomo Gastaldi,30,33,Italy,Venice,1548
+Giacomo Gastaldi,30,34,Italy,Venice,1548
+Giacomo Gastaldi,30,35,Italy,Venice,1548
+Giacomo Gastaldi,30,36,Italy,Venice,1548
+Giacomo Gastaldi,30,37,Italy,Venice,1548
+Giacomo Gastaldi,30,38,Italy,Venice,1548
+Giacomo Gastaldi,30,39,Italy,Venice,1548
+Giacomo Gastaldi,30,40,Italy,Venice,1548
+Giacomo Gastaldi,30,41,Italy,Venice,1548
+Giacomo Gastaldi,30,42,Italy,Venice,1548
+Giacomo Gastaldi,30,43,Italy,Venice,1548
+Giacomo Gastaldi,30,44,Italy,Venice,1548
+Giacomo Gastaldi,30,45,Italy,Venice,1548
+Giacomo Gastaldi,30,46,Italy,Venice,1548
+Giacomo Gastaldi,30,47,Italy,Venice,1548
+Giacomo Gastaldi,30,48,Italy,Venice,1548
+Giacomo Gastaldi,30,49,Italy,Venice,1548
+Giacomo Gastaldi,30,50,Italy,Venice,1548
+Giacomo Gastaldi,30,51,Italy,Venice,1548
+Giacomo Gastaldi,30,52,Italy,Venice,1548
+Giacomo Gastaldi,30,53,Italy,Venice,1548
+Giacomo Gastaldi,30,54,Italy,Venice,1548
+Giacomo Gastaldi,30,55,Italy,Venice,1548
+Giacomo Gastaldi,30,56,Italy,Venice,1548
+Giacomo Gastaldi,30,57,Italy,Venice,1548
+Giacomo Gastaldi,30,58,Italy,Venice,1548
+Giacomo Gastaldi,30,59,Italy,Venice,1548
+Giacomo Gastaldi,30,60,Italy,Venice,1548
+Giacomo Gastaldi,30,61,Italy,Venice,1548
+Giacomo Gastaldi,30,62,Italy,Venice,1548
+Giacomo Gastaldi,30,63,Italy,Venice,1548
+Giacomo Gastaldi,30,64,Italy,Venice,1548
+Giacomo Gastaldi,30,C,Italy,Venice,1548
+Paolo Giovio,33,2.2,Italy,Venice,1548
+Paolo Giovio,33,G,Italy,Venice,1548
 Girolamo Bell' Armato,10,11,Italy,Venice,1550
 Giacomo Gastaldi,30,65,Italy,Venice,1550
 Giacomo Gastaldi,30,67,Italy,Venice,1550
@@ -1784,7 +1844,7 @@ Giacomo Gastaldi,30,88,Italy,Venice,1560
 Giacomo Gastaldi,30,89,Italy,Venice,1560
 Giacomo Gastaldi,30,E,Italy,Venice,1560
 Giacomo Gastaldi,30,E.1,Italy,Venice,1560
-Nicolas de Nicolay · 435,59,4.1,Italy,Venice,1560
+Nicolas de Nicolay,59,4.1,Italy,Venice,1560
 Vincenzo Paletino,60,1.6,Italy,Venice,1560
 Nicolò Zeno,85,1.3,Italy,Venice,1560s
 Nicolò Zeno,85,1.4,Italy,Venice,1560s
@@ -1817,8 +1877,8 @@ Giacomo Gastaldi,30,74.1,Italy,Venice,1563
 Giacomo Gastaldi,30,75.1,Italy,Venice,1563
 Giacomo Gastaldi,30,93.1,Italy,Venice,1563
 Giacomo Gastaldi,30,98.2,Italy,Venice,1563
-Nicolas de Nicolay · 435,59,4.1,Italy,Venice,1563
-Aegidius Tschudi · 547 25,78,1.6,Italy,Venice,1563
+Nicolas de Nicolay,59,4.1,Italy,Venice,1563
+Aegidius Tschudi,78,1.6,Italy,Venice,1563
 Wolfgang Wissenburg,82,1.5,Italy,Venice,1563
 Giacomo Gastaldi,30,61.1,Italy,Venice,1564
 Giacomo Gastaldi,30,62.2,Italy,Venice,1564
@@ -1832,9 +1892,10 @@ Giacomo Gastaldi,30,C.1,Italy,Venice,1564
 Giacomo Gastaldi,30,D.1,Italy,Venice,1564
 Giacomo Gastaldi,30,F,Italy,Venice,1564
 Giacomo Gastaldi,30,G.1,Italy,Venice,1564
-Nikolaos Sophianos · 495,71,1.7,Italy,Venice,1564
-Giacomo Gastaldi,30,J,Italy,Venice,"15656 1 30/
-98.4"
+Nikolaos Sophianos,71,1.7,Italy,Venice,1564
+Giacomo Gastaldi,30,93.1,Italy,Venice,1565
+Giacomo Gastaldi,30,98.4,Italy,Venice,1565
+Giacomo Gastaldi,30,J,Italy,Venice,1565
 Jacob van Deventer,25,1.4,Italy,Venice,1566
 Jacob van Deventer,25,8.4,Italy,Venice,1566
 Oronce Fine,27,2.3,Italy,Venice,1566
@@ -1850,7 +1911,7 @@ Giacomo Gastaldi,30,88.2,Italy,Venice,1566
 Giacomo Gastaldi,30,98.2,Italy,Venice,1566
 Giacomo Gastaldi,30,103.1,Italy,Venice,1566
 Olaus Magnus,53,1.4,Italy,Venice,1566
-Nikolaos Sophianos · 495,71,1.8,Italy,Venice,1566
+Nikolaos Sophianos,71,1.8,Italy,Venice,1566
 Jacob van Deventer,25,1.5,Italy,Venice,1567
 Jacob van Deventer,25,4.7,Italy,Venice,1567
 Gemma Frisius,29,E,Italy,Venice,1567
@@ -1860,7 +1921,7 @@ Giacomo Gastaldi,30,105,Italy,Venice,1567
 Giacomo Gastaldi,30,106,Italy,Venice,1567
 Agostino Giustiniani,34,1.2,Italy,Venice,1567
 Gerard Mercator,56,6.7,Italy,Venice,1567
-Aegidius Tschudi · 547 25,78,1.9,Italy,Venice,1567
+Aegidius Tschudi,78,1.9,Italy,Venice,1567
 Giacomo Gastaldi,30,86.3,Italy,Venice,1568
 Giacomo Gastaldi,30,96.1a,Italy,Venice,1568
 Giacomo Gastaldi,30,96.1b,Italy,Venice,1568
@@ -1882,7 +1943,7 @@ Giacomo Gastaldi,30,103,Italy,Venice,1570
 Giacomo Gastaldi,30,103.2,Italy,Venice,1570
 Giacomo Gastaldi,30,108.1,Italy,Venice,1570
 Wacław Grodecki,35,1.4,Italy,Venice,1570
-Nicolas de Nicolay · 435,59,4.2,Italy,Venice,1570
+Nicolas de Nicolay,59,4.2,Italy,Venice,1570
 Girolamo Bell' Armato,10,1.3,Italy,Venice,1570s
 Giacomo Gastaldi,30,2.5,Italy,Venice,1570s
 Giacomo Gastaldi,30,90.3,Italy,Venice,1570s
@@ -1945,12 +2006,12 @@ Gerard Mercator,56,E.1,Netherlands,Franeker,1698
 Jacob van Deventer,25,4.8,Netherlands,The Hague,1569
 Gerard Mercator,56,E.1,Netherlands,Leiden,1618-19
 Charles de l'Escluse,26,M,Netherlands,Leiden,1619
-Nikolaos Sophianos · 495,71,1.13,Netherlands,Leiden,1699
-Nikolaos Sophianos · 495,71,А.2,Netherlands,Leiden,1699
+Nikolaos Sophianos,71,1.13,Netherlands,Leiden,1699
+Nikolaos Sophianos,71,А.2,Netherlands,Leiden,1699
 Gerard Mercator,56,E.1,Netherlands,Leiden,1704
 Pirro Ligorio,51,1111723,Netherlands,Leiden,1722
 Pirro Ligorio,51,J,Netherlands,Leiden,1722
-Domenico Macaneo · 359,52,A.2,Netherlands,Leiden,1722
+Domenico Macaneo,52,A.2,Netherlands,Leiden,1722
 Anthony Jenkinson,43,1.6,Netherlands,Middelburg,1598
 Gerard Mercator,56,E.1,Netherlands,Utrecht,1695
 Gerard Mercator,56,E.1,Netherlands,Utrecht,1698
@@ -2050,8 +2111,8 @@ Sebastian Munster,58,70,Switzerland,Basel,1538
 Sebastian Munster,58,71,Switzerland,Basel,1538
 Sebastian Munster,58,72,Switzerland,Basel,1538
 Sebastian Munster,58,Q,Switzerland,Basel,1538
-Aegidius Tschudi · 547 25,78,A,Switzerland,Basel,1538
-Aegidius Tschudi · 547 25,78,B,Switzerland,Basel,1538
+Aegidius Tschudi,78,A,Switzerland,Basel,1538
+Aegidius Tschudi,78,B,Switzerland,Basel,1538
 Sebastian Munster,58,R,Switzerland,Basel,1540
 Sebastian Munster,58,73,Switzerland,Basel,1540
 Sebastian Munster,58,74,Switzerland,Basel,1540
@@ -2101,7 +2162,7 @@ Sebastian Munster,58,117,Switzerland,Basel,1540
 Sebastian Munster,58,118,Switzerland,Basel,1540
 Sebastian Munster,58,119,Switzerland,Basel,1540
 Sebastian Munster,58,120,Switzerland,Basel,1540
-Aegidius Tschudi · 547 25,78,1.3,Switzerland,Basel,1540
+Aegidius Tschudi,78,1.3,Switzerland,Basel,1540
 Johannes Honter,41,3,Switzerland,Basel,1541
 Johannes Honter,41,4.1,Switzerland,Basel,1544
 Olaus Magnus,53,1.1,Switzerland,Basel,1544
@@ -2117,7 +2178,7 @@ Sebastian Munster,58,127,Switzerland,Basel,1544
 Sebastian Munster,58,128,Switzerland,Basel,1544
 Sebastian Munster,58,129,Switzerland,Basel,1544
 Sebastian Munster,58,S,Switzerland,Basel,1544
-Nikolaos Sophianos · 495,71,1.2,Switzerland,Basel,1544
+Nikolaos Sophianos,71,1.2,Switzerland,Basel,1544
 Johannes Honter,41,4.1,Switzerland,Basel,1545
 Olaus Magnus,53,1.1,Switzerland,Basel,1545
 Sebastian Munster,58,106b,Switzerland,Basel,1545
@@ -2129,7 +2190,7 @@ Sebastian Munster,58,134,Switzerland,Basel,1545
 Sebastian Munster,58,132,Switzerland,Basel,1545
 Sebastian Munster,58,133,Switzerland,Basel,1545
 Sebastian Munster,58,T,Switzerland,Basel,1545
-Nikolaos Sophianos · 495,71,A,Switzerland,Basel,1545
+Nikolaos Sophianos,71,A,Switzerland,Basel,1545
 Johannes Honter,41,8,Switzerland,Basel,1546
 Wolfgang Lazius,49,B,Switzerland,Basel,1546
 Sebastian Munster,58,U,Switzerland,Basel,1546
@@ -2198,8 +2259,8 @@ Sebastian Munster,58,185,Switzerland,Basel,1550
 Sebastian Munster,58,186,Switzerland,Basel,1550
 Sebastian Munster,58,187,Switzerland,Basel,1550
 Sebastian Munster,58,188,Switzerland,Basel,1550
-Nikolaos Sophianos · 495,71,1.3,Switzerland,Basel,1550
-Nikolaos Sophianos · 495,71,А.1,Switzerland,Basel,1550
+Nikolaos Sophianos,71,1.3,Switzerland,Basel,1550
+Nikolaos Sophianos,71,А.1,Switzerland,Basel,1550
 Augustin Hirschvogel,40,4.5,Switzerland,Basel,1551
 Wolfgang Lazius,49,C,Switzerland,Basel,1551
 Sebastian Munster,58,W,Switzerland,Basel,1551
@@ -2213,9 +2274,9 @@ Wolfgang Lazius,49,8,Switzerland,Basel,1556
 Wolfgang Lazius,49,E,Switzerland,Basel,1556
 Wolfgang Lazius,49,F,Switzerland,Basel,1557
 Wolfgang Wissenburg,82,C,Switzerland,Basel,1557
-Aegidius Tschudi · 547 25,78,1.5,Switzerland,Basel,1560
-Aegidius Tschudi · 547 25,78,A.1,Switzerland,Basel,1560
-Aegidius Tschudi · 547 25,78,B.1,Switzerland,Basel,1560
+Aegidius Tschudi,78,1.5,Switzerland,Basel,1560
+Aegidius Tschudi,78,A.1,Switzerland,Basel,1560
+Aegidius Tschudi,78,B.1,Switzerland,Basel,1560
 Johannes Honter,41,A,Switzerland,Basel,1561
 Wacław Grodecki,35,А,Switzerland,Basel,ca. 1562
 Wacław Grodecki,35,1.1,Switzerland,Basel,ca. 1562
@@ -2233,13 +2294,13 @@ Johann Sambucus,65,E,Switzerland,Basel,1574
 Johann Sambucus,65,M,Switzerland,Basel,1574
 Bartholomaeus Scultetus,66,F,Switzerland,Basel,1575
 Wolfgang Lazius,49,8.1,Switzerland,Basel,1577
-Johannes A ventinus,9,D.2,Switzerland,Basel,1580
+Johannes A Ventinus,9,D.2,Switzerland,Basel,1580
 Gemma Frisius,29,8,Switzerland,Basel,1583
 Johannes Honter,41,A,Switzerland,Basel,1583
 Johannes Honter,41,A,Switzerland,Basel,1585
 Martin Helwig,38,1.14,Switzerland,Basel,1588
-Nikolaos Sophianos · 495,71,1.11,Switzerland,Basel,1601
-Aegidius Tschudi · 547 25,78,1.16,Switzerland,Basel,1614
+Nikolaos Sophianos,71,1.11,Switzerland,Basel,1601
+Aegidius Tschudi,78,1.16,Switzerland,Basel,1614
 Gerard Mercator,56,17.10,Switzerland,Geneva,1595
 Sebastian Munster,58,47.1,Switzerland,Zurich,1534
 Johannes Stumpf,73,1,Switzerland,Zurich,1538
