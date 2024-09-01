@@ -12,9 +12,9 @@
 29 / Gemma Frisius . 205
 7 / Peter Apian . 49 
 30 / Giacomo Gastaldi . . 216
-8 / Philipp Apian. 64 
+8 / Philipp Apian . 64 
 31 / Thomas Geminus . . 250
-9 / Johannes A ventinus . 71 
+9 / Johannes A Ventinus . 71 
 32 / Nicolaus Germanus . 255
 10 / Girolamo Bell' Armato . 78 
 33 / Paolo Giovio . 266
@@ -51,24 +51,24 @@
 49 / Wolfgang Lazius. . · 334 
 70 / Christian Sgrooten. . 480
 50 / Humphrey Lhuyd . · 344 
-71 / Nikolaos Sophianos · 495
+71 / Nikolaos Sophianos . · 495
 51 / Pirro Ligorio . . . . · 349 
 72 / Tilemann Stella . . 500
-52 / Domenico Macaneo · 359 
+52 / Domenico Macaneo . · 359 
 73 / Johannes Stumpf . 510 7/7
 53 / Olaus Magnus .. . 362 
 74 / Jean Surhon ... 517
-54 / Godfried Mascop · 367 
+54 / Godfried Mascop . · 367 
 75 / Bernardus Sylvanus . 520 12/1
 55 / Johannes Mellinger . 371 
 76 / Gabriel Symeoni. . 525
 56 / Gerard Mercator. . . 376 
 77 / André Thevet . .
-57 / Franciscus Monachus · 407 
-78 / Aegidius Tschudi · 547 25/4.6
+57 / Franciscus Monachus . · 407 
+78 / Aegidius Tschudi . · 547 25/4.6
 58 / Sebastian Munster . . 410 
 79 / Caspar Vopel . . · 558
-59 / Nicolas de Nicolay · 435 
+59 / Nicolas de Nicolay . · 435 
 80 / Martin Waldseemüller. . 568 27 /3.1
 60 / Vincenzo Paletino . · 444 
 81 / Anton Wied . . . . . . · 584
@@ -78,7 +78,7 @@
 83 / Christoph Zell. . 591 I 30/86
 63 / Erhart Reich . . . . . 451 
 84 / Heinrich Zell . · 594 30/90.
-64 / Sebastian Rotenhan · 453 
+64 / Sebastian Rotenhan . · 453 
 85 / Nicolò Zeno . . 600
 65 / Johann Sambucus . · 457 
 86 / Jacob Ziegler . 603
