@@ -278,7 +278,7 @@ for country_data in by_country:
 index_df = pd.DataFrame(index_data)
 
 # Save the dataframe to a csv
-index_df.to_csv("outputs/index_to_place_and_date_v3.csv", index=False)
+index_df.to_csv("outputs/index_to_place_and_date_v4.csv", index=False)
 
                                 
 

@@ -1,0 +1,151 @@
+For output file outputs/index_to_place_and_date_v4.csv 
+
+Error: range has mixed editions
+49/2-3.1
+
+Error: object id in incorrect format
+293
+
+Error: range has mixed editions
+49/2-3.2
+
+Error: range has mixed editions
+58/132-133.1
+
+Error: range has mixed editions
+49/2-3.3
+
+Error: range has mixed editions
+49/2-3.2
+
+Error: object id in incorrect format
+3
+
+Error: object id in incorrect format
+
+
+Error: object id in incorrect format
+
+
+Error: range has mixed editions
+88/5.3-4
+
+Error: object id in incorrect format
+183
+
+Error: object id in incorrect format
+
+
+Error: range has mixed editions
+180/C-C.1
+
+Error: range has mixed editions
+80/D-D.1
+
+Error: range has mixed editions
+82/B-B.1
+
+Error: object id in incorrect format
+82
+
+Error: range has mixed editions
+79/2-2.1
+
+Cannot parse map range
+79/9-3
+
+Error: range has mixed editions, this is ambiguous
+56/17.10-.13
+
+Error: range has mixed types between maps and books.
+65/С-J
+
+Error: range has mixed editions
+66/G-G.1
+
+Error: object id in incorrect format
+335
+
+Error: object id in incorrect format
+10
+
+Error: range has mixed editions, this is ambiguous
+84/5.1-.2
+
+Error: object id in incorrect format
+
+
+Error: range has mixed editions, this is ambiguous
+71/1.5-.6
+
+Cannot parse map range
+25/7-2
+
+Error: range has mixed editions, this is ambiguous
+56/6.4-.5
+
+Error: object id in incorrect format
+462
+
+Cannot parse map range
+25/4-4
+
+Error: range has mixed editions, this is ambiguous
+78/1.6-.8
+
+Error: range has mixed editions, this is ambiguous
+30/84.5-.6
+
+Error: object id in incorrect format
+
+
+Error: range has mixed editions, this is ambiguous
+38/1.7-.8
+
+Error: range has mixed editions, this is ambiguous
+78/1.1-.2
+
+Error: range has mixed editions
+58/52-53.1
+
+Error: range has mixed types between maps and books.
+58/73a-74a
+
+Error: range has mixed types between maps and books.
+58/100a-104a
+
+Error: range has mixed types between maps and books.
+58/111a-112a
+
+Error: range has mixed types between maps and books.
+58/114a-119a
+
+Error: range has mixed types between maps and books.
+58/73b-104b
+
+Error: range has mixed types between maps and books.
+58/111b-112b
+
+Error: range has mixed types between maps and books.
+58/114b-120b
+
+Error: range has mixed types between maps and books.
+58/121а-127а
+
+Error: range has mixed types between maps and books.
+58/103c-104c
+
+Error: range has mixed types between maps and books.
+58/117c-119c
+
+Error: range has mixed types between maps and books.
+58/Va-b
+
+Error: range has mixed editions, this is ambiguous
+40/4.5-.6
+
+Error: range has mixed editions
+58/52-53.2
+
+Error: range has mixed editions
+58/52-53.3
