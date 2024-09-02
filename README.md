@@ -40,10 +40,17 @@ I used Python's built in string methods and a few tools from the regular express
 library to do the pattern matching. Finally, I organized all of the data into a 
 Pandas dataframe for easy exporting.
 
-In the near term, I hope to combine the information from each index, along with 
-the Table of Contents that gives a name to each mapmaker identifier, to create
-one large table with all the extractable information about each map. 
+If you want to recreate what I've done with code, here's the rough order. See the commit 
+messages for more details if you're stuck.
+1. Run `python scripts/extract_place_and_date.py` to turn the cleaned OCR _Index to Place and Date_ into `outputs/index_to_place_and_date_v4.csv`. You should see in the terminal what snippets failed.
+2. Run `python scripts/extract_mapmaker_names.py` to turn the cleaned _Table of Contents_ into `outputs/mapmakers.csv`. 
+3. Run `python scripts/combine_index_and_names.py` to attach the mapmakers' names to their ID in the Index. This creates the file `outputs/index_to_place_and_date_and_mapmaker_names.csv`. 
+4. Finally, open the notebook `scripts/date_range.ipynb`. It's a Jupyter notebook, you may need to install some things. Or, you can copy all the code into a python script. Run each cell one at a time to see details of the processing, or press the run all button for the Jupyter notebook. This creates the final file, `outputs/index_to_place_and_date_and_mapmaker_names_with_date_estimates.csv`.
+
 
 This table could then be used for data visualizations to explore questions
 about the scale and scope of mapmaking in the sixteenth century. 
 
+Potential improvements:
+- Cross reference with the _Index to Date and Place_ to hopefully get more maps and catch errors.
+- Research more about certain maps and mapmakers to better deal with the ambiguous index entries (see `outputs/errors_from_index_to_place_and_date_parsing.txt`) or the date ranges.
