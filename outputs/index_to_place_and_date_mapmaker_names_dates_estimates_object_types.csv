@@ -1,0 +1,2328 @@
+mapmaker_name,mapmaker_id,map_or_book_id,country,city,date,earliest_date_estimate,latest_date_estimate,Map or Book,Original Edition
+Charles de l'Escluse,26,E,Austria,Güssing,1583,1583.0,1583.0,Book,Yes
+Marcus Secsnagel,68,1,Austria,Salzburg,1551,1551.0,1551.0,Map,Yes
+Marcus Secsnagel,68,1.6,Austria,Salzburg,1650,1650.0,1650.0,Map,No
+Johann Cuspinianus,24,A,Austria,Vienna,1494,1494.0,1494.0,Book,Yes
+Johann Cuspinianus,24,B,Austria,Vienna,1508,1508.0,1508.0,Book,Yes
+Peter Apian,7,1,Austria,Vienna,1520,1520.0,1520.0,Map,Yes
+Johann Cuspinianus,24,C,Austria,Vienna,1522,1522.0,1522.0,Book,Yes
+Lorenz Fries,28,G.3,Austria,Vienna,1541,1541.0,1541.0,Book,No
+Wolfgang Lazius,49,4,Austria,Vienna,1545?,1540.0,1550.0,Map,Yes
+Wolfgang Lazius,49,5,Austria,Vienna,1545?,1540.0,1550.0,Map,Yes
+Augustin Hirschvogel,40,4,Austria,Vienna,1546,1546.0,1546.0,Map,Yes
+Augustin Hirschvogel,40,4.1,Austria,Vienna,1547,1547.0,1547.0,Map,No
+Augustin Hirschvogel,40,6,Austria,Vienna,1547,1547.0,1547.0,Map,Yes
+Augustin Hirschvogel,40,7,Austria,Vienna,1547,1547.0,1547.0,Map,Yes
+Augustin Hirschvogel,40,4.2,Austria,Vienna,1549,1549.0,1549.0,Map,No
+Augustin Hirschvogel,40,5.3,Austria,Vienna,1552,1552.0,1552.0,Map,No
+Wolfgang Lazius,49,D,Austria,Vienna,1556,1556.0,1556.0,Book,Yes
+Wolfgang Lazius,49,7,Austria,Vienna,1556,1556.0,1556.0,Map,Yes
+Augustin Hirschvogel,40,4.8,Austria,Vienna,1557,1557.0,1557.0,Map,No
+Wolfgang Lazius,49,11,Austria,Vienna,1558,1558.0,1558.0,Map,Yes
+Wolfgang Lazius,49,12,Austria,Vienna,1558,1558.0,1558.0,Map,Yes
+Wolfgang Lazius,49,14,Austria,Vienna,1558,1558.0,1558.0,Map,Yes
+Wolfgang Lazius,49,G,Austria,Vienna,1558,1558.0,1558.0,Book,Yes
+Wolfgang Lazius,49,H,Austria,Vienna,1558,1558.0,1558.0,Book,Yes
+Johann Sambucus,65,B,Austria,Vienna,1558,1558.0,1558.0,Book,Yes
+Johann Sambucus,65,D,Austria,Vienna,1558,1558.0,1558.0,Book,Yes
+Wolfgang Lazius,49,J,Austria,Vienna,by 1561,1551.0,1561.0,Book,Yes
+Wolfgang Lazius,49,15,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,16,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,17,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,18,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,19,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,20,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,21,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,22,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,23,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,24,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,25,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Wolfgang Lazius,49,26,Austria,Vienna,by 1561,1551.0,1561.0,Map,Yes
+Johann Sambucus,65,1,Austria,Vienna,1566,1566.0,1566.0,Map,Yes
+Johann Sambucus,65,2,Austria,Vienna,1566,1566.0,1566.0,Map,Yes
+Johann Sambucus,65,3,Austria,Vienna,1571,1571.0,1571.0,Map,Yes
+Caspar Brusch,16,H.1,Austria,Vienna,1692,1692.0,1692.0,Book,No
+Johann Sambucus,65,1.3,Austria,Vienna,1746,1746.0,1746.0,Map,No
+Johannes à Hoorn,42,1,Belgium,Antwerp,1526,1526.0,1526.0,Map,Yes
+Franciscus Monachus,57,A,Belgium,Antwerp,1527-30,1527.0,1530.0,Book,Yes
+Peter Apian,7,Е,Belgium,Antwerp,1529,1529.0,1529.0,Book,Yes
+Gemma Frisius,29,А,Belgium,Antwerp,1529,1529.0,1529.0,Book,Yes
+Peter Apian,7,1.1,Belgium,Antwerp,1530,1530.0,1530.0,Map,No
+Gemma Frisius,29,B,Belgium,Antwerp,1530,1530.0,1530.0,Book,Yes
+Peter Apian,7,E,Belgium,Antwerp,1533,1533.0,1533.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1533,1533.0,1533.0,Book,Yes
+Gemma Frisius,29,A.1,Belgium,Antwerp,1533,1533.0,1533.0,Book,No
+Peter Apian,7,E,Belgium,Antwerp,1534,1534.0,1534.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1534,1534.0,1534.0,Book,Yes
+Christoph Zell,83,C.2,Belgium,Antwerp,1535,1535.0,1535.0,Book,No
+Christoph Zell,83,C.2,Belgium,Antwerp,1536,1536.0,1536.0,Book,No
+Peter Apian,7,E,Belgium,Antwerp,1537,1537.0,1537.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1537,1537.0,1537.0,Book,Yes
+Peter Apian,7,E,Belgium,Antwerp,1539,1539.0,1539.0,Book,Yes
+Gemma Frisius,29,А,Belgium,Antwerp,1539,1539.0,1539.0,Book,Yes
+Gemma Frisius,29,A.2,Belgium,Antwerp,1539,1539.0,1539.0,Book,No
+Peter Apian,7,E,Belgium,Antwerp,1540,1540.0,1540.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1540,1540.0,1540.0,Book,Yes
+Gemma Frisius,29,E,Belgium,Antwerp,1540,1540.0,1540.0,Book,Yes
+Gerard Mercator,56,A,Belgium,Antwerp,1541,1541.0,1541.0,Book,Yes
+Cornelis Anthoniszoon,6,8,Belgium,Antwerp,1543,1543.0,1543.0,Map,Yes
+Peter Apian,7,E,Belgium,Antwerp,1544,1544.0,1544.0,Book,Yes
+Sebastian Cabot,17,A,Belgium,Antwerp,1544,1544.0,1544.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1544,1544.0,1544.0,Book,Yes
+Gemma Frisius,29,A.3,Belgium,Antwerp,1544,1544.0,1544.0,Book,No
+Gemma Frisius,29,8,Belgium,Antwerp,1544,1544.0,1544.0,Map,Yes
+Stephan Keltenhofer,46,1,Belgium,Antwerp,1544,1544.0,1544.0,Map,Yes
+Gemma Frisius,29,B,Belgium,Antwerp,1544-53,1544.0,1553.0,Book,Yes
+Peter Apian,7,E,Belgium,Antwerp,1545,1545.0,1545.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1545,1545.0,1545.0,Book,Yes
+Gemma Frisius,29,F,Belgium,Antwerp,1545,1545.0,1545.0,Book,Yes
+Gemma Frisius,29,E,Belgium,Antwerp,1547,1547.0,1547.0,Book,Yes
+Peter Apian,7,E,Belgium,Antwerp,1548,1548.0,1548.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1548,1548.0,1548.0,Book,Yes
+Gemma Frisius,29,B.1,Belgium,Antwerp,1548,1548.0,1548.0,Book,No
+Giovan Battista Guicciardini,36,1,Belgium,Antwerp,1549,1549.0,1549.0,Map,Yes
+Gerard Mercator,56,А,Belgium,Antwerp,1549,1549.0,1549.0,Book,Yes
+Peter Apian,7,E,Belgium,Antwerp,1550,1550.0,1550.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1550,1550.0,1550.0,Book,Yes
+Gemma Frisius,29,Е,Belgium,Antwerp,1552,1552.0,1552.0,Book,Yes
+Johannes Honter,41,E,Belgium,Antwerp,1552,1552.0,1552.0,Book,Yes
+Johannes Honter,41,5.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,6.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,7.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,8.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,9.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,10.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,11.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,12.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,13.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,14.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,15.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,16.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,17.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,18.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,19.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Johannes Honter,41,20.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Caspar Vopel,79,5.2,Belgium,Antwerp,1552,1552.0,1552.0,Map,No
+Peter Apian,7,E,Belgium,Antwerp,1553,1553.0,1553.0,Book,Yes
+Jacob van Deventer,25,4.2,Belgium,Antwerp,1553,1553.0,1553.0,Map,No
+Gemma Frisius,29,A,Belgium,Antwerp,1553,1553.0,1553.0,Book,Yes
+Giacomo Gastaldi,30,2.1,Belgium,Antwerp,1553,1553.0,1553.0,Map,No
+Johannes Honter,41,E,Belgium,Antwerp,1553,1553.0,1553.0,Book,Yes
+Vincenzo Paletino,60,1.1,Belgium,Antwerp,1553,1553.0,1553.0,Map,No
+Giacomo Gastaldi,30,3.1,Belgium,Antwerp,1555,1555.0,1555.0,Map,No
+Giacomo Gastaldi,30,77,Belgium,Antwerp,1555,1555.0,1555.0,Map,Yes
+Johannes Honter,41,E,Belgium,Antwerp,1555,1555.0,1555.0,Book,Yes
+Anton Wied,81,1.2,Belgium,Antwerp,1555,1555.0,1555.0,Map,No
+Gilles Boileau de Buillon,12,21,Belgium,Antwerp,1556,1556.0,1556.0,Map,Yes
+Gilles Boileau de Buillon,12,20,Belgium,Antwerp,1556,1556.0,1556.0,Map,Yes
+Jacob van Deventer,25,7.1,Belgium,Antwerp,1556,1556.0,1556.0,Map,No
+Gemma Frisius,29,J,Belgium,Antwerp,1556,1556.0,1556.0,Book,Yes
+Gerard Mercator,56,A,Belgium,Antwerp,1556,1556.0,1556.0,Book,Yes
+André Thevet,77,А,Belgium,Antwerp,1556,1556.0,1556.0,Book,Yes
+Gilles Boileau de Buillon,12,C,Belgium,Antwerp,1557,1557.0,1557.0,Book,Yes
+Gilles Boileau de Buillon,12,22,Belgium,Antwerp,1557,1557.0,1557.0,Map,Yes
+Charles de l'Escluse,26,A,Belgium,Antwerp,1557,1557.0,1557.0,Book,Yes
+Augustin Hirschvogel,40,4.7,Belgium,Antwerp,1557,1557.0,1557.0,Map,No
+Gerard Mercator,56,А,Belgium,Antwerp,1557,1557.0,1557.0,Book,Yes
+Tilemann Stella,72,1.1,Belgium,Antwerp,1557,1557.0,1557.0,Map,No
+Jacob van Deventer,25,1.3,Belgium,Antwerp,1558,1558.0,1558.0,Map,No
+André Thevet,77,B,Belgium,Antwerp,1558,1558.0,1558.0,Book,Yes
+Peter Böckel,11,1,Belgium,Antwerp,1559,1559.0,1559.0,Map,Yes
+Jacob van Deventer,25,8.2,Belgium,Antwerp,1559,1559.0,1559.0,Map,No
+Tilemann Stella,72,5.1,Belgium,Antwerp,1559,1559.0,1559.0,Map,No
+Cornelis Anthoniszoon,6,8.3,Belgium,Antwerp,1560,1560.0,1560.0,Map,No
+Jacob van Deventer,25,11.2,Belgium,Antwerp,1560,1560.0,1560.0,Map,No
+Johannes Honter,41,E,Belgium,Antwerp,1560,1560.0,1560.0,Book,Yes
+Giovan Giorgio Settala,69,1,Belgium,Antwerp,1560,1560.0,1560.0,Map,Yes
+Peter Apian,7,E,Belgium,Antwerp,1561,1561.0,1561.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1561,1561.0,1561.0,Book,Yes
+Liévin Algoet,3,2.1,Belgium,Antwerp,1562,1562.0,1562.0,Map,No
+Marcus Ambrosius,5,A,Belgium,Antwerp,1562,1562.0,1562.0,Book,Yes
+Gemma Frisius,29,E,Belgium,Antwerp,1562,1562.0,1562.0,Book,Yes
+Diego Gutierrez,37,2,Belgium,Antwerp,1562,1562.0,1562.0,Map,Yes
+Heinrich Zell,84,5.7,Belgium,Antwerp,1562,1562.0,1562.0,Map,No
+Christian Sgrooten,70,2.1,Belgium,Antwerp,1563-64,1563.0,1564.0,Map,No
+Abraham Ortelius,1,1,Belgium,Antwerp,1564,1564.0,1564.0,Map,Yes
+Peter Apian,7,E,Belgium,Antwerp,1564,1564.0,1564.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1564,1564.0,1564.0,Book,Yes
+Johann Sambucus,65,F,Belgium,Antwerp,1564,1564.0,1564.0,Book,Yes
+Abraham Ortelius,1,2,Belgium,Antwerp,1565,1565.0,1565.0,Map,Yes
+Jacob van Deventer,25,4.5,Belgium,Antwerp,1565,1565.0,1565.0,Map,No
+Jacob van Deventer,25,4.6,Belgium,Antwerp,1565,1565.0,1565.0,Map,No
+Gerard Mercator,56,6.6,Belgium,Antwerp,1565,1565.0,1565.0,Map,No
+Franciscus Monachus,57,A,Belgium,Antwerp,1565,1565.0,1565.0,Book,Yes
+Fernando Alvares Seco,67,1.1,Belgium,Antwerp,1565,1565.0,1565.0,Map,No
+Caspar Vopel,79,9.1,Belgium,Antwerp,1566,1566.0,1566.0,Map,No
+Abraham Ortelius,1,4,Belgium,Antwerp,1567,1567.0,1567.0,Map,Yes
+Cornelis Anthoniszoon,6,11.4,Belgium,Antwerp,1567,1567.0,1567.0,Map,No
+Wolfgang Lazius,49,7.3,Belgium,Antwerp,1567,1567.0,1567.0,Map,No
+Gerard Mercator,56,6.8,Belgium,Antwerp,1567,1567.0,1567.0,Map,No
+Abraham Ortelius,1,5,Belgium,Antwerp,1568,1568.0,1568.0,Map,Yes
+Jacob van Deventer,25,1.6,Belgium,Antwerp,1568,1568.0,1568.0,Map,No
+Giacomo Gastaldi,30,90.2,Belgium,Antwerp,1568,1568.0,1568.0,Map,No
+Anthony Jenkinson,43,1.1,Belgium,Antwerp,1568,1568.0,1568.0,Map,No
+Ferdinand de Lannoy,48,2,Belgium,Antwerp,1568,1568.0,1568.0,Map,Yes
+Christian Sgrooten,70,2.2,Belgium,Antwerp,1568,1568.0,1568.0,Map,No
+Caspar Vopel,79,8.3,Belgium,Antwerp,1569,1569.0,1569.0,Map,No
+Abraham Ortelius,1,6,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,7,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,8,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,9,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,10,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,11,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,12,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,13,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,14,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,15,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,16,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,17,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,18,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,19,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,20,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,21,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,22,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,23,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,24,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,25,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,26,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,27,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,28,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,29,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,30,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,31,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,32,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,33,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,34,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,35,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,36,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,37,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,38,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,39,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,40,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,41,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,42,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,43,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,44,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,45,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,46,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,47,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,48,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,49,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,50,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,51,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,52,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,53,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,54,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,55,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,56,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,57,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,58,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,59,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,60,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,61,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,62,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,63,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,64,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,65,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,66,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,67,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,68,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,69,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,70,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,71,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,72,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,73,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,74,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,75,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Abraham Ortelius,1,A,Belgium,Antwerp,1570,1570.0,1570.0,Book,Yes
+Liévin Algoet,3,2.2,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Cornelis Anthoniszoon,6,8.5,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Johannes A ventinus,9,5.1,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Girolamo Bell' Armato,10,1.9,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Peter Böckel,11,1.1,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Gilles Boileau de Buillon,12,20.2,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Jean Chaumeau,19,1.1,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Charles de l'Escluse,26,2.2,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,2.6,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,76.3,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,88.4,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,90.4,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Paolo Giovio,33,1.2,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Wacław Grodecki,35,1.3,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Martin Helwig,38,1.9,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Augustin Hirschvogel,40,9.2,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Anthony Jenkinson,43,1.2,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Jean Jolivet,44,5.4,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Wolfgang Lazius,49,7.5,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Pirro Ligorio,51,5.1,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Godfried Mascop · 367,54,11,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Gerard Mercator,56,6.11,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Gerard Mercator,56,17.9,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Erhart Reich,63,1.1,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Fernando Alvares Seco,67,1.2,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Marcus Secsnagel,68,1.2,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Vincenzo Paletino,60,11,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Caspar Vopel,79,55,Belgium,Antwerp,1570,1570.0,1570.0,Map,Yes
+Anton Wied,81,1.3,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Matthias Zündt,88,8.1,Belgium,Antwerp,1570,1570.0,1570.0,Map,No
+Abraham Ortelius,1,1.1,Belgium,Antwerp,1571,1571.0,1571.0,Map,No
+Abraham Ortelius,1,77,Belgium,Antwerp,1571,1571.0,1571.0,Map,Yes
+Abraham Ortelius,1,A.1,Belgium,Antwerp,1571,1571.0,1571.0,Book,No
+Charles de l'Escluse,26,2.3,Belgium,Antwerp,1571,1571.0,1571.0,Map,No
+Abraham Ortelius,1,A.2,Belgium,Antwerp,1572,1572.0,1572.0,Book,No
+Abraham Ortelius,1,A.3,Belgium,Antwerp,1572,1572.0,1572.0,Book,No
+Gerard Mercator,56,38,Belgium,Antwerp,1572,1572.0,1572.0,Map,Yes
+Caspar Vopel,79,9.2,Belgium,Antwerp,1572,1572.0,1572.0,Map,No
+Abraham Ortelius,1,78,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,79,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,80,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,81,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,82,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,83,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,84,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,85,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,86,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,87,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,88,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,89,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,90,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,91,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,92,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,93,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,94,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,95,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,96,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,97,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,98,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,99,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,100,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,101,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,102,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,103,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,104,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,105,Belgium,Antwerp,1573,1573.0,1573.0,Map,Yes
+Abraham Ortelius,1,B,Belgium,Antwerp,1573,1573.0,1573.0,Book,Yes
+Abraham Ortelius,1,C[],Belgium,Antwerp,1573,1573.0,1573.0,Book,Yes
+Peter Apian,7,E,Belgium,Antwerp,1573,1573.0,1573.0,Book,Yes
+Philipp Apian,8,2.8,Belgium,Antwerp,1573,1573.0,1573.0,Map,No
+Gemma Frisius,29,A,Belgium,Antwerp,1573,1573.0,1573.0,Book,Yes
+Giacomo Gastaldi,30,105.1,Belgium,Antwerp,1573,1573.0,1573.0,Map,No
+Giacomo Gastaldi,30,107.1,Belgium,Antwerp,1573,1573.0,1573.0,Map,No
+Agostino Giustiniani,34,1.3,Belgium,Antwerp,1573,1573.0,1573.0,Map,No
+Wolfgang Lazius,49,21.2,Belgium,Antwerp,1573,1573.0,1573.0,Map,No
+Wolfgang Lazius,49,22.1,Belgium,Antwerp,1573,1573.0,1573.0,Map,No
+Wolfgang Lazius,49,25.1,Belgium,Antwerp,1573,1573.0,1573.0,Map,No
+Humphrey Lhuyd,50,1.1,Belgium,Antwerp,1573,1573.0,1573.0,Map,No
+Humphrey Lhuyd,50,3.1,Belgium,Antwerp,1573,1573.0,1573.0,Map,No
+Johannes Mellinger,55,1.1,Belgium,Antwerp,1573,1573.0,1573.0,Map,No
+Abraham Ortelius,1,B,Belgium,Antwerp,1574,1574.0,1574.0,Book,Yes
+Peter Apian,7,E,Belgium,Antwerp,1574,1574.0,1574.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1574,1574.0,1574.0,Book,Yes
+Gerard Mercator,56,17.1,Belgium,Antwerp,1574,1574.0,1574.0,Map,No
+Johann Sambucus,65,L,Belgium,Antwerp,1574,1574.0,1574.0,Book,Yes
+Peter Apian,7,E,Belgium,Antwerp,1575,1575.0,1575.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1575,1575.0,1575.0,Book,Yes
+Charles de l'Escluse,26,B,Belgium,Antwerp,1576,1576.0,1576.0,Book,Yes
+Nicolas de Nicolay · 435,59,E.1,Belgium,Antwerp,1576,1576.0,1576.0,Book,No
+Abraham Ortelius,1,E[],Belgium,Antwerp,1577,1577.0,1577.0,Book,Yes
+Jean Chaumeau,19,1.2,Belgium,Antwerp,1577,1577.0,1577.0,Map,No
+Martin Helwig,38,1.11,Belgium,Antwerp,1577,1577.0,1577.0,Map,No
+Anthony Jenkinson,43,1.5,Belgium,Antwerp,1577,1577.0,1577.0,Map,No
+Godfried Mascop · 367,54,1.2,Belgium,Antwerp,1577,1577.0,1577.0,Map,No
+Sebastian Rotenhan · 453,64,1.6,Belgium,Antwerp,1577,1577.0,1577.0,Map,No
+Aegidius Tschudi · 547 25,78,1.13,Belgium,Antwerp,1577,1577.0,1577.0,Map,No
+Abraham Ortelius,1,F[],Belgium,Antwerp,1578,1578.0,1578.0,Book,Yes
+Abraham Ortelius,1,1.2,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Philipp Apian,8,2.9,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Girolamo Bell' Armato,10,1.10,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Peter Böckel,11,1.2,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Jean Chaumeau,19,1.3,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Jacob van Deventer,25,4.10,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Giacomo Gastaldi,30,2.7,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Giacomo Gastaldi,30,85.3,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Giacomo Gastaldi,30,90.6,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Giacomo Gastaldi,30,91.2,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Giacomo Gastaldi,30,92.2,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Giacomo Gastaldi,30,98.7,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Giacomo Gastaldi,30,107.2,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Martin Helwig,38,1.13,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Augustin Hirschvogel,40,9.4,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Anthony Jenkinson,43,1.3,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Anthony Jenkinson,43,1.4,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Marcus Jordan,45,3.1,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Wolfgang Lazius,49,76,Belgium,Antwerp,1578,1578.0,1578.0,Map,Yes
+Pirro Ligorio,51,5.2,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Pirro Ligorio,51,9.1,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Pirro Ligorio,51,10.1,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Godfried Mascop · 367,54,1.3,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Johannes Mellinger,55,1.2,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Gerard Mercator,56,6.12,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Sebastian Munster,58,52.3,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Erhart Reich,63,1.2,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Sebastian Rotenhan · 453,64,1.7,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Fernando Alvares Seco,67,1.3,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Marcus Secsnagel,68,1.3,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Christian Sgrooten,70,17,Belgium,Antwerp,1578,1578.0,1578.0,Map,Yes
+Christian Sgrooten,70,18,Belgium,Antwerp,1578,1578.0,1578.0,Map,Yes
+Tilemann Stella,72,1:2,Belgium,Antwerp,1578,1578.0,1578.0,Map,Yes
+Aegidius Tschudi · 547 25,78,1.12,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Heinrich Zell,84,2.4,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Heinrich Zell,84,5.8,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Matthias Zündt,88,5.1,Belgium,Antwerp,1578,1578.0,1578.0,Map,No
+Abraham Ortelius,1,106,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,107,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,108,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,109,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,110,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,111,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,112,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,113,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,114,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,115,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,116,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,117,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,118,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,119,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,120,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,121,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,122,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,123,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,124,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,125,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,126,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,127,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,128,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,129,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,130,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,131,Belgium,Antwerp,1579,1579.0,1579.0,Map,Yes
+Abraham Ortelius,1,J[],Belgium,Antwerp,1579,1579.0,1579.0,Book,Yes
+Marcus Jordan,45,3.2,Belgium,Antwerp,1579,1579.0,1579.0,Map,No
+Ferdinand de Lannoy,48,2.1,Belgium,Antwerp,1579,1579.0,1579.0,Map,No
+Peter Laicksteen,47,2.2,Belgium,Antwerp,1580,1580.0,1580.0,Map,No
+Peter Laicksteen,47,3.2,Belgium,Antwerp,1580,1580.0,1580.0,Map,No
+André Thevet,77,40.1,Belgium,Antwerp,1580,1580.0,1580.0,Map,No
+Cornelis Anthoniszoon,6,11.6,Belgium,Antwerp,1581,1581.0,1581.0,Map,No
+Peter Apian,7,E,Belgium,Antwerp,1581,1581.0,1581.0,Book,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1581,1581.0,1581.0,Book,Yes
+Gemma Frisius,29,E,Belgium,Antwerp,1581,1581.0,1581.0,Book,Yes
+Gemma Frisius,29,F,Belgium,Antwerp,1581,1581.0,1581.0,Book,Yes
+Gerard Mercator,56,6.13,Belgium,Antwerp,1581,1581.0,1581.0,Map,No
+Charles de l'Escluse,26,C,Belgium,Antwerp,1582,1582.0,1582.0,Book,Yes
+Gemma Frisius,29,E,Belgium,Antwerp,1582,1582.0,1582.0,Book,Yes
+Charles de l'Escluse,26,D,Belgium,Antwerp,1583,1583.0,1583.0,Book,Yes
+Abraham Ortelius,1,132,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,133,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,134,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,135,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,136,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,137,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,138,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,139,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,140,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,141,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,142,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,143,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,144,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,145,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,146,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,147,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,148,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,149,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,150,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,151,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,152,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,153,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,154,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,155,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,156,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,157,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,158,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,159,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,160,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,161,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,162,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,163,Belgium,Antwerp,1584,1584.0,1584.0,Map,Yes
+Abraham Ortelius,1,K[],Belgium,Antwerp,1584,1584.0,1584.0,Book,Yes
+Abraham Ortelius,1,L[],Belgium,Antwerp,1584,1584.0,1584.0,Book,Yes
+Peter Apian,7,E,Belgium,Antwerp,1584,1584.0,1584.0,Book,Yes
+Gilles Boileau de Buillon,12,20.3,Belgium,Antwerp,1584,1584.0,1584.0,Map,No
+Gemma Frisius,29,A,Belgium,Antwerp,1584,1584.0,1584.0,Book,Yes
+Gemma Frisius,29,F,Belgium,Antwerp,1584,1584.0,1584.0,Book,Yes
+Giacomo Gastaldi,30,86.4,Belgium,Antwerp,1584,1584.0,1584.0,Map,No
+Peter Laicksteen,47,1.2,Belgium,Antwerp,1584,1584.0,1584.0,Map,No
+Christian Sgrooten,70,11.2,Belgium,Antwerp,1585,1585.0,1585.0,Map,No
+Christian Sgrooten,70,12.2,Belgium,Antwerp,1585,1585.0,1585.0,Map,No
+Abraham Ortelius,1,6a,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,7a,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,1173:1590,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,164,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,165,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,166,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,167,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,168,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,169,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,170,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,171,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,172,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,173,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,174,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,175,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,176,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,177,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,178,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,179,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,180,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,181,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,182,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,183,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,184,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,185,Belgium,Antwerp,1587,1587.0,1587.0,Map,Yes
+Abraham Ortelius,1,N[1590],Belgium,Antwerp,1587,1587.0,1587.0,Book,Yes
+Giacomo Gastaldi,30,3.1,Belgium,Antwerp,1587,1587.0,1587.0,Map,No
+Gerard Mercator,56,6.14,Belgium,Antwerp,1587,1587.0,1587.0,Map,No
+Abraham Ortelius,1,6b[],Belgium,Antwerp,1592,1592.0,1592.0,Map,Yes
+Gemma Frisius,29,A,Belgium,Antwerp,1592,1592.0,1592.0,Book,Yes
+Giacomo Gastaldi,30,2.7,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Giacomo Gastaldi,30,85.3,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Giacomo Gastaldi,30,90.6,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Giacomo Gastaldi,30,91.2,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Giacomo Gastaldi,30,92.2,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Giacomo Gastaldi,30,98.9,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Giacomo Gastaldi,30,107.2,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Martin Helwig,38,1.13,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Augustin Hirschvogel,40,2.1,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Augustin Hirschvogel,40,9.4,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Anthony Jenkinson,43,1.3,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Marcus Jordan,45,3.1,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Wolfgang Lazius,49,7.6,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Pirro Ligorio,51,5.2,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Pirro Ligorio,51,9.1,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Pirro Ligorio,51,10.1,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Godfried Mascop · 367,54,1.3,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Johannes Mellinger,55,1.2,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Gerard Mercator,56,6.12,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Sebastian Rotenhan · 453,64,1.8,Belgium,Antwerp,1593,1593.0,1593.0,Map,No
+Abraham Ortelius,1,121a[],Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,150a[],Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,188,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,189,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,190,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,191,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,192,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,193,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,194,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,195,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,196,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,197,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,198,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,199,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,200,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,201,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,202,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,203,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,204,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,205,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,206,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,207,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,208,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Abraham Ortelius,1,209,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Giacomo Gastaldi,30,105.1,Belgium,Antwerp,1595,1595.0,1595.0,Map,No
+Wacław Grodecki,35,1.7,Belgium,Antwerp,1595,1595.0,1595.0,Map,No
+Martin Helwig,38,1.10,Belgium,Antwerp,1595,1595.0,1595.0,Map,No
+Marcus Jordan,45,3,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Marcus Jordan,45,4,Belgium,Antwerp,1595,1595.0,1595.0,Map,Yes
+Marcus Jordan,45,6.1,Belgium,Antwerp,1595,1595.0,1595.0,Map,No
+Marcus Secsnagel,68,1.5,Belgium,Antwerp,1595,1595.0,1595.0,Map,No
+Abraham Ortelius,1,210,Belgium,Antwerp,1595 or 96,1595.0,1596.0,Map,Yes
+Giacomo Gastaldi,30,98.6,Belgium,Antwerp,1596,1596.0,1596.0,Map,No
+Abraham Ortelius,1,117a[],Belgium,Antwerp,1598,1598.0,1598.0,Map,Yes
+Abraham Ortelius,1,18a[],Belgium,Antwerp,1598,1598.0,1598.0,Map,Yes
+Abraham Ortelius,1,211,Belgium,Antwerp,1598,1598.0,1598.0,Map,Yes
+Abraham Ortelius,1,212,Belgium,Antwerp,1598,1598.0,1598.0,Map,Yes
+Abraham Ortelius,1,213,Belgium,Antwerp,1598,1598.0,1598.0,Map,Yes
+Abraham Ortelius,1,214,Belgium,Antwerp,1598,1598.0,1598.0,Map,Yes
+Abraham Ortelius,1,215,Belgium,Antwerp,1598,1598.0,1598.0,Map,Yes
+Abraham Ortelius,1,216,Belgium,Antwerp,1598,1598.0,1598.0,Map,Yes
+Abraham Ortelius,1,217,Belgium,Antwerp,1598,1598.0,1598.0,Map,Yes
+Abraham Ortelius,1,218,Belgium,Antwerp,1598,1598.0,1598.0,Map,Yes
+Martin Helwig,38,1.12,Belgium,Antwerp,1598,1598.0,1598.0,Map,No
+Abraham Ortelius,1,E.2[1577],Belgium,Antwerp,1601,1601.0,1601.0,Book,No
+Charles de l'Escluse,26,H,Belgium,Antwerp,1601,1601.0,1601.0,Book,Yes
+Anthony Jenkinson,43,1.7,Belgium,Antwerp,1601,1601.0,1601.0,Map,No
+Ferdinand de Lannoy,48,2.4,Belgium,Antwerp,1602,1602.0,1602.0,Map,No
+Abraham Ortelius,1,М.1[1586?],Belgium,Antwerp,1603,1603.0,1603.0,Book,No
+Charles de l'Escluse,26,J,Belgium,Antwerp,1605,1605.0,1605.0,Book,Yes
+Charles de l'Escluse,26,K,Belgium,Antwerp,1611,1611.0,1611.0,Book,Yes
+Abraham Ortelius,1,H.2[1579],Belgium,Antwerp,1624,1624.0,1624.0,Book,No
+Abraham Ortelius,1,219,Belgium,Antwerp,1624,1624.0,1624.0,Map,Yes
+Christian Sgrooten,70,10.1,Belgium,Antwerp,1676,1676.0,1676.0,Map,No
+Christophorus Pyramius,62,1,Belgium,Brussels,1547,1547.0,1547.0,Map,Yes
+Gemma Frisius,29,3,Belgium,Louvain,1537,1537.0,1537.0,Map,Yes
+Gemma Frisius,29,4,Belgium,Louvain,1537,1537.0,1537.0,Map,Yes
+Gerard Mercator,56,3,Belgium,Louvain,1537,1537.0,1537.0,Map,Yes
+Gerard Mercator,56,4,Belgium,Louvain,1538,1538.0,1538.0,Map,Yes
+Gemma Frisius,29,7,Belgium,Louvain,1540,1540.0,1540.0,Map,Yes
+Gerard Mercator,56,6,Belgium,Louvain,1540,1540.0,1540.0,Map,Yes
+Gerard Mercator,56,A,Belgium,Louvain,1540,1540.0,1540.0,Book,Yes
+Gerard Mercator,56,7,Belgium,Louvain,1541,1541.0,1541.0,Map,Yes
+Gemma Frisius,29,С,Belgium,Louvain,1548,1548.0,1548.0,Book,Yes
+Gemma Frisius,29,H,Belgium,Louvain,1548,1548.0,1548.0,Book,Yes
+Gerard Mercator,56,10,Belgium,Louvain,1551,1551.0,1551.0,Map,Yes
+Giovanni Domenico Zorzi,87,12.1,Czechoslovakia,Prague,1563,1563.0,1563.0,Map,No
+Johann Criginger,22,2.1,Czechoslovakia,Prague,1568,1568.0,1568.0,Map,No
+Matthias Zündt,88,5.2,Czechoslovakia,Prague,1587,1587.0,1587.0,Map,No
+Johannes Honter,41,5.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,6.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,7.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,8.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,9.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,10.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,11.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,12.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,13.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,14.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,15.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,16.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,17.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,18.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,19.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,20.3,Czechoslovakia,Prague,1595,1595.0,1595.0,Map,No
+Johannes Honter,41,G,Czechoslovakia,Prague,1595,1595.0,1595.0,Book,Yes
+Giovanni Domenico Zorzi,87,13.2,Czechoslovakia,Prague,1678,1678.0,1678.0,Map,No
+Marcus Jordan,45,2.1,Denmark,Copenhagen,1552,1552.0,1552.0,Map,No
+Thomas Geminus,31,A,England,London,1545,1545.0,1545.0,Book,Yes
+Thomas Geminus,31,2,England,London,1546,1546.0,1546.0,Map,Yes
+Paolo Giovio,33,D.1,England,London,1546,1546.0,1546.0,Book,No
+Thomas Geminus,31,B,England,London,1548,1548.0,1548.0,Book,Yes
+Sebastian Cabot,17,6.2,England,London,1549,1549.0,1549.0,Map,No
+Humphrey Lhuyd,50,A,England,London,са. 1550,1545.0,1555.0,Book,Yes
+Thomas Geminus,31,A.1,England,London,1553,1553.0,1553.0,Book,No
+Thomas Geminus,31,1.1,England,London,1555,1555.0,1555.0,Map,No
+Thomas Geminus,31,2,England,London,1555,1555.0,1555.0,Map,Yes
+Thomas Geminus,31,C,England,London,1555,1555.0,1555.0,Book,Yes
+Paolo Giovio,33,C.1,England,London,1555,1555.0,1555.0,Book,No
+Jacob Ziegler,86,E.2,England,London,1555,1555.0,1555.0,Book,No
+Thomas Geminus,31,D,England,London,1556,1556.0,1556.0,Book,Yes
+Thomas Geminus,31,A.2,England,London,1559,1559.0,1559.0,Book,No
+Anthony Jenkinson,43,1,England,London,1562,1562.0,1562.0,Map,Yes
+André Thevet,77,B.1,England,London,1568,1568.0,1568.0,Book,No
+Tilemann Stella,72,5.3,England,London,1572,1572.0,1572.0,Map,No
+Humphrey Lhuyd,50,D.2,England,London,1573,1573.0,1573.0,Book,No
+Humphrey Lhuyd,50,E.2,England,London,1573,1573.0,1573.0,Book,No
+Humphrey Lhuyd,50,B.1,England,London,1584,1584.0,1584.0,Book,No
+Paolo Giovio,33,N.1,England,London,1585,1585.0,1585.0,Book,No
+Anthony Jenkinson,43,A,England,London,1589,1589.0,1589.0,Book,Yes
+Anthony Jenkinson,43,B,England,London,1589,1589.0,1589.0,Book,Yes
+Anthony Jenkinson,43,C,England,London,1589,1589.0,1589.0,Book,Yes
+Anthony Jenkinson,43,D,England,London,1589,1589.0,1589.0,Book,Yes
+Anthony Jenkinson,43,E,England,London,1589,1589.0,1589.0,Book,Yes
+Anthony Jenkinson,43,A,England,London,1599,1599.0,1599.0,Book,Yes
+Anthony Jenkinson,43,B,England,London,1599,1599.0,1599.0,Book,Yes
+Anthony Jenkinson,43,C,England,London,1599,1599.0,1599.0,Book,Yes
+Anthony Jenkinson,43,D,England,London,1599,1599.0,1599.0,Book,Yes
+Anthony Jenkinson,43,E,England,London,1599,1599.0,1599.0,Book,Yes
+Gerard Mercator,56,17.7,England,London,1599,1599.0,1599.0,Map,No
+Gerard Mercator,56,17.8,England,London,1599,1599.0,1599.0,Map,No
+Abraham Ortelius,1,S[],England,London,1606,1606.0,1606.0,Book,Yes
+Jean Surhon,74,1.2,England,London,1617,1617.0,1617.0,Map,No
+Olaus Magnus,53,B.1,England,London,1658,1658.0,1658.0,Book,No
+Paolo Giovio,33,C.1,England,London,1851-52,1851.0,1852.0,Book,No
+Anthony Jenkinson,43,A,England,London,1886,1886.0,1886.0,Book,Yes
+Anthony Jenkinson,43,B,England,London,1886,1886.0,1886.0,Book,Yes
+Anthony Jenkinson,43,C,England,London,1886,1886.0,1886.0,Book,Yes
+Anthony Jenkinson,43,D,England,London,1886,1886.0,1886.0,Book,Yes
+Anthony Jenkinson,43,E,England,London,1886,1886.0,1886.0,Book,Yes
+Gemma Frisius,29,E,England,Oxford,1661,1661.0,1661.0,Book,Yes
+Nicolas de Nicolay · 435,59,B,France,La Rochelle,1618,1618.0,1618.0,Book,Yes
+Martin Waldseemüller,80,A.2,France,Lyons,1517?,1512.0,1522.0,Book,No
+Lorenz Fries,28,G.2,France,Lyons,1535,1535.0,1535.0,Book,No
+Lorenz Fries,28,G.3,France,Lyons,1541,1541.0,1541.0,Book,No
+Nicolas de Nicolay · 435,59,1,France,Lyons,1544,1544.0,1544.0,Map,Yes
+Nicolas de Nicolay · 435,59,A,France,Lyons,1550,1550.0,1550.0,Book,Yes
+Nicolas de Nicolay · 435,59,4,France,Lyons,1554,1554.0,1554.0,Map,Yes
+Nicolas de Nicolay · 435,59,В,France,Lyons,1554,1554.0,1554.0,Book,Yes
+André Thevet,77,A,France,Lyons,1554,1554.0,1554.0,Book,Yes
+Gabriel Symeoni,76,B,France,Lyons,1555,1555.0,1555.0,Book,Yes
+Gabriel Symeoni,76,C,France,Lyons,1555,1555.0,1555.0,Book,Yes
+Gemma Frisius,29,E,France,Lyons,1556,1556.0,1556.0,Book,Yes
+Gabriel Symeoni,76,D,France,Lyons,1556,1556.0,1556.0,Book,Yes
+Gabriel Symeoni,76,E,France,Lyons,1556,1556.0,1556.0,Book,Yes
+André Thevet,77,A,France,Lyons,1556,1556.0,1556.0,Book,Yes
+Nicolas de Nicolay · 435,59,5,France,Lyons,1558,1558.0,1558.0,Map,Yes
+Gabriel Symeoni,76,F,France,Lyons,1558,1558.0,1558.0,Book,Yes
+Gabriel Symeoni,76,С,France,Lyons,1559,1559.0,1559.0,Book,Yes
+Paolo Giovio,33,N,France,Lyons,1560,1560.0,1560.0,Book,Yes
+Gabriel Symeoni,76,1,France,Lyons,1560,1560.0,1560.0,Map,Yes
+Gabriel Symeoni,76,H,France,Lyons,1560,1560.0,1560.0,Book,Yes
+Gabriel Symeoni,76,J,France,Lyons,1560,1560.0,1560.0,Book,Yes
+Nicolas de Nicolay · 435,59,B,France,Lyons,1561,1561.0,1561.0,Book,Yes
+Gabriel Symeoni,76,11,France,Lyons,1561,1561.0,1561.0,Map,Yes
+Gabriel Symeoni,76,Н,France,Lyons,1561,1561.0,1561.0,Book,Yes
+Gabriel Symeoni,76,J.1,France,Lyons,1561,1561.0,1561.0,Book,No
+Gemma Frisius,29,8,France,Lyons,1564,1564.0,1564.0,Map,Yes
+Jean Chaumeau,19,A,France,Lyons,1566,1566.0,1566.0,Book,Yes
+Jean Chaumeau,19,1,France,Lyons,1566,1566.0,1566.0,Map,Yes
+Nicolas de Nicolay · 435,59,E,France,Lyons,1568,1568.0,1568.0,Book,Yes
+Nicolas de Nicolay · 435,59,B,France,Lyons,1569,1569.0,1569.0,Book,Yes
+Nicolas de Nicolay · 435,59,B,France,Lyons,1576,1576.0,1576.0,Book,Yes
+Oronce Fine,27,A,France,Paris,1515,1515.0,1515.0,Book,Yes
+Oronce Fine,27,B,France,Paris,1516,1516.0,1516.0,Book,Yes
+Oronce Fine,27,C,France,Paris,1517,1517.0,1517.0,Book,Yes
+Oronce Fine,27,1,France,Paris,1517,1517.0,1517.0,Map,Yes
+Oronce Fine,27,D,France,Paris,1519,1519.0,1519.0,Book,Yes
+Agostino Giustiniani,34,B,France,Paris,1520,1520.0,1520.0,Book,Yes
+Agostino Giustiniani,34,C,France,Paris,1520,1520.0,1520.0,Book,Yes
+Oronce Fine,27,E,France,Paris,1521,1521.0,1521.0,Book,Yes
+Oronce Fine,27,F,France,Paris,1522,1522.0,1522.0,Book,Yes
+Oronce Fine,27,B.1,France,Paris,1524,1524.0,1524.0,Book,No
+Oronce Fine,27,3,France,Paris,1525,1525.0,1525.0,Map,Yes
+Oronce Fine,27,G,France,Paris,1526,1526.0,1526.0,Book,Yes
+Oronce Fine,27,Н,France,Paris,1527,1527.0,1527.0,Book,Yes
+Oronce Fine,27,J,France,Paris,1528,1528.0,1528.0,Book,Yes
+Oronce Fine,27,K,France,Paris,1529,1529.0,1529.0,Book,Yes
+Oronce Fine,27,121531,France,Paris,1530,1530.0,1530.0,Map,Yes
+Oronce Fine,27,4,France,Paris,1530,1530.0,1530.0,Map,Yes
+Oronce Fine,27,4.1:1532,France,Paris,1530,1530.0,1530.0,Map,No
+Oronce Fine,27,M,France,Paris,1530,1530.0,1530.0,Book,Yes
+Oronce Fine,27,N,France,Paris,1530,1530.0,1530.0,Book,Yes
+Sebastian Munster,58,J,France,Paris,1530,1530.0,1530.0,Book,Yes
+Bonaventure Brochard,15,5:1535,France,Paris,1533,1533.0,1533.0,Map,Yes
+Oronce Fine,27,4.2,France,Paris,1533,1533.0,1533.0,Map,No
+Oronce Fine,27,01536,France,Paris,1533,1533.0,1533.0,Map,Yes
+Oronce Fine,27,К,France,Paris,1533,1533.0,1533.0,Book,Yes
+Oronce Fine,27,2.1,France,Paris,1533,1533.0,1533.0,Map,No
+Johann Putsch,61,1,France,Paris,1537,1537.0,1537.0,Map,Yes
+Oronce Fine,27,3.2,France,Paris,1538,1538.0,1538.0,Map,No
+Martin Brion,14,A.2,France,Paris,1540,1540.0,1540.0,Book,No
+Oronce Fine,27,4.4,France,Paris,1540,1540.0,1540.0,Map,No
+Franciscus Monachus,57,3,France,Paris,1540s?,1535.0,1555.0,Map,Yes
+Oronce Fine,27,4.5,France,Paris,1541,1541.0,1541.0,Map,No
+Oronce Fine,27,5,France,Paris,1542,1542.0,1542.0,Map,Yes
+Oronce Fine,27,U,France,Paris,1542,1542.0,1542.0,Book,Yes
+Oronce Fine,27,8,France,Paris,1543,1543.0,1543.0,Map,Yes
+Oronce Fine,27,V,France,Paris,1543,1543.0,1543.0,Book,Yes
+Gemma Frisius,29,E,France,Paris,1543,1543.0,1543.0,Book,Yes
+Bonaventure Brochard,15,D,France,Paris,1544,1544.0,1544.0,Book,Yes
+Oronce Fine,27,Y,France,Paris,1544,1544.0,1544.0,Book,Yes
+Oronce Fine,27,2,France,Paris,1545,1545.0,1545.0,Map,Yes
+Gemma Frisius,29,E,France,Paris,1545,1545.0,1545.0,Book,Yes
+Jean Jolivet,44,2,France,Paris,1545,1545.0,1545.0,Map,Yes
+Oronce Fine,27,3.4,France,Paris,1546,1546.0,1546.0,Map,No
+Gemma Frisius,29,B,France,Paris,1547-82,1547.0,1582.0,Book,Yes
+Olaus Magnus,53,1.2,France,Paris,1548,1548.0,1548.0,Map,No
+Gemma Frisius,29,E,France,Paris,1549,1549.0,1549.0,Book,Yes
+Peter Apian,7,K,France,Paris,1550,1550.0,1550.0,Book,Yes
+Oronce Fine,27,АА,France,Paris,1550,1550.0,1550.0,Book,Yes
+Oronce Fine,27,BB,France,Paris,1550,1550.0,1550.0,Book,Yes
+Gemma Frisius,29,E,France,Paris,1550,1550.0,1550.0,Book,Yes
+Peter Apian,7,E,France,Paris,1551,1551.0,1551.0,Book,Yes
+Peter Apian,7,K,France,Paris,1551,1551.0,1551.0,Book,Yes
+Gilles Boileau de Buillon,12,1,France,Paris,1551,1551.0,1551.0,Map,Yes
+Gilles Boileau de Buillon,12,A,France,Paris,1551,1551.0,1551.0,Book,Yes
+Oronce Fine,27,11,France,Paris,1551,1551.0,1551.0,Map,Yes
+Oronce Fine,27,CC,France,Paris,1551,1551.0,1551.0,Book,Yes
+Oronce Fine,27,EE,France,Paris,1551,1551.0,1551.0,Book,Yes
+Oronce Fine,27,FF,France,Paris,1551,1551.0,1551.0,Book,Yes
+Oronce Fine,27,GG,France,Paris,1551,1551.0,1551.0,Book,Yes
+Gemma Frisius,29,A,France,Paris,1551,1551.0,1551.0,Book,Yes
+Gemma Frisius,29,E,France,Paris,1551,1551.0,1551.0,Book,Yes
+Peter Apian,7,E,France,Paris,1553,1553.0,1553.0,Book,Yes
+Oronce Fine,27,3.6,France,Paris,1553,1553.0,1553.0,Map,No
+Oronce Fine,27,НН,France,Paris,1553,1553.0,1553.0,Book,Yes
+Oronce Fine,27,JJ,France,Paris,1553,1553.0,1553.0,Book,Yes
+Gemma Frisius,29,A,France,Paris,1553,1553.0,1553.0,Book,Yes
+Gemma Frisius,29,E,France,Paris,1553,1553.0,1553.0,Book,Yes
+Johannes Honter,41,3.1,France,Paris,1553,1553.0,1553.0,Map,No
+Gilles Boileau de Buillon,12,2,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,3,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,4,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,5,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,6,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,7,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,8,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,9,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,10,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,11,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,12,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,13,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,14,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,15,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,16,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,17,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,18,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,19,France,Paris,1555,1555.0,1555.0,Map,Yes
+Gilles Boileau de Buillon,12,B,France,Paris,1555,1555.0,1555.0,Book,Yes
+Oronce Fine,27,4.6,France,Paris,1555,1555.0,1555.0,Map,No
+Oronce Fine,27,КК,France,Paris,1556,1556.0,1556.0,Book,Yes
+Oronce Fine,27,LL,France,Paris,1556,1556.0,1556.0,Book,Yes
+Gemma Frisius,29,E,France,Paris,1556,1556.0,1556.0,Book,Yes
+Oronce Fine,27,MM,France,Paris,1557,1557.0,1557.0,Book,Yes
+Gemma Frisius,29,E,France,Paris,1557,1557.0,1557.0,Book,Yes
+Gemma Frisius,29,F,France,Paris,1557,1557.0,1557.0,Book,Yes
+Johannes Honter,41,F,France,Paris,1557,1557.0,1557.0,Book,Yes
+André Thevet,77,B,France,Paris,1557,1557.0,1557.0,Book,Yes
+Gemma Frisius,29,F,France,Paris,1558,1558.0,1558.0,Book,Yes
+Gemma Frisius,29,E,France,Paris,1559,1559.0,1559.0,Book,Yes
+Johannes Honter,41,3.2,France,Paris,1559,1559.0,1559.0,Map,No
+Nicolas de Nicolay · 435,59,6,France,Paris,1559,1559.0,1559.0,Map,Yes
+Jean Jolivet,44,4,France,Paris,са. 1559-60,1554.0,1565.0,Map,Yes
+Oronce Fine,27,ММ,France,Paris,1560,1560.0,1560.0,Book,Yes
+Gemma Frisius,29,5,France,Paris,1560,1560.0,1560.0,Map,Yes
+Jean Jolivet,44,5,France,Paris,1560,1560.0,1560.0,Map,Yes
+Gemma Frisius,29,E,France,Paris,1561,1561.0,1561.0,Book,Yes
+André Thevet,77,1,France,Paris,1562,1562.0,1562.0,Map,Yes
+André Thevet,77,2,France,Paris,1562,1562.0,1562.0,Map,Yes
+Gemma Frisius,29,E,France,Paris,1563,1563.0,1563.0,Book,Yes
+André Thevet,77,3,France,Paris,1563,1563.0,1563.0,Map,Yes
+Jean Jolivet,44,5.2,France,Paris,1565,1565.0,1565.0,Map,No
+André Thevet,77,4,France,Paris,1565,1565.0,1565.0,Map,Yes
+Gemma Frisius,29,E,France,Paris,1569,1569.0,1569.0,Book,Yes
+Jacob van Deventer,25,11.4,France,Paris,1570,1570.0,1570.0,Map,No
+Jean Jolivet,44,5.3,France,Paris,1570,1570.0,1570.0,Map,No
+Marcus Ambrosius,5,A.ı,France,Paris,1572,1572.0,1572.0,Book,No
+Gemma Frisius,29,Е,France,Paris,1572,1572.0,1572.0,Book,Yes
+Jean Jolivet,44,5.5,France,Paris,1575,1575.0,1575.0,Map,No
+Gabriel Symeoni,76,1.3,France,Paris,1575,1575.0,1575.0,Map,No
+André Thevet,77,C,France,Paris,1575,1575.0,1575.0,Book,Yes
+André Thevet,77,5,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,6,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,7,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,8,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,9,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,10,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,11,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,12,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,13,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,14,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,15,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,16,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,17,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,18,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,19,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,20,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,21,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,22,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,23,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,24,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,25,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,26,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,27,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,28,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,29,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,30,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,31,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,32,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,33,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,34,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,35,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,36,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,37,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,38,France,Paris,1575,1575.0,1575.0,Map,Yes
+André Thevet,77,39,France,Paris,1575,1575.0,1575.0,Map,Yes
+Johannes Honter,41,3.3:1578,France,Paris,1576,1576.0,1576.0,Map,No
+Gemma Frisius,29,5,France,Paris,1576,1576.0,1576.0,Map,Yes
+Jean Jolivet,44,5.6,France,Paris,1576,1576.0,1576.0,Map,No
+Pirro Ligorio,51,11.2,France,Paris,1576,1576.0,1576.0,Map,No
+André Thevet,77,40,France,Paris,1576,1576.0,1576.0,Map,Yes
+André Thevet,77,33,France,Paris,1581,1581.0,1581.0,Map,Yes
+Nicolas de Nicolay · 435,59,18,France,Paris,1583,1583.0,1583.0,Map,Yes
+Nicolas de Nicolay · 435,59,1584,France,Paris,1583,1583.0,1583.0,Map,Yes
+André Thevet,77,0,France,Paris,1583,1583.0,1583.0,Map,Yes
+Gemma Frisius,29,E,France,Paris,1585,1585.0,1585.0,Book,Yes
+André Thevet,77,46,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,52,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,54,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,62,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,77,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,80,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,85,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,87,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,95,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,102,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,103,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,106,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,113,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,120,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,123,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,128,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,129,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,130,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,131,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,132,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,133,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,135,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,136,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,138,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,139,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,140,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,142,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,143,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,148,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,152,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,154,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,156,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,158,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,159,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,160,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,163,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,164,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,169,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,175,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,176,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,177,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,181,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,182,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,185,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,186,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,190,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,197,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,201,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,202,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,208,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,209,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,210,France,Paris,1586,1586.0,1586.0,Map,Yes
+André Thevet,77,212,France,Paris,1586,1586.0,1586.0,Map,Yes
+Nicolas de Nicolay · 435,59,B.1,France,Rouen,1573,1573.0,1573.0,Book,No
+Nicolas de Nicolay · 435,59,4.3,France,Rouen,1573,1573.0,1573.0,Map,No
+Nicolas de Nicolay · 435,59,B,France,Rouen,1577,1577.0,1577.0,Book,Yes
+Nicolas de Nicolay · 435,59,B,France,Rouen,1602,1602.0,1602.0,Book,Yes
+Nicolas de Nicolay · 435,59,B,France,Rouen,1607,1607.0,1607.0,Book,Yes
+Nicolas de Nicolay · 435,59,B,France,Rouen,1628,1628.0,1628.0,Book,Yes
+Martin Waldseemüller,80,1,France,St. Die,1507,1507.0,1507.0,Map,Yes
+Martin Waldseemüller,80,2,France,St. Die,1507,1507.0,1507.0,Map,Yes
+Martin Waldseemüller,80,A,France,St. Die,1507,1507.0,1507.0,Book,Yes
+Martin Waldseemüller,80,8:1509,France,Strasbourg,1508,1508.0,1508.0,Map,Yes
+Martin Waldseemüller,80,3,France,Strasbourg,1508,1508.0,1508.0,Map,Yes
+Martin Waldseemüller,80,4,France,Strasbourg,1511,1511.0,1511.0,Map,Yes
+Nicolaus Cusanus,23,1.6,France,Strasbourg,1513,1513.0,1513.0,Map,No
+Martin Waldseemüller,80,E,France,Strasbourg,1513,1513.0,1513.0,Book,Yes
+Martin Waldseemüller,80,5,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,6,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,7,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,8,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,9,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,10,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,11,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,12,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,13,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,14,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,15,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,16,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,17,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,18,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,19,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,20,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,21,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,22,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,23,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,24,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,25,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,26,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,27,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,28,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,29,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,30,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,31,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,32,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,33,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,34,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,35,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,36,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,37,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,38,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,39,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,40,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,41,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,42,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,43,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,44,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,45,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,46,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,47,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,48,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,49,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,50,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,51,France,Strasbourg,1513,1513.0,1513.0,Map,Yes
+Martin Waldseemüller,80,52,France,Strasbourg,1516,1516.0,1516.0,Map,Yes
+Lorenz Fries,28,C,France,Strasbourg,1518,1518.0,1518.0,Book,Yes
+Lorenz Fries,28,D,France,Strasbourg,1519,1519.0,1519.0,Book,Yes
+Lorenz Fries,28,E,France,Strasbourg,1519,1519.0,1519.0,Book,Yes
+Lorenz Fries,28,F,France,Strasbourg,1520,1520.0,1520.0,Book,Yes
+Martin Waldseemüller,80,4.1,France,Strasbourg,1520,1520.0,1520.0,Map,No
+Lorenz Fries,28,G,France,Strasbourg,1522,1522.0,1522.0,Book,Yes
+Lorenz Fries,28,11,France,Strasbourg,1522,1522.0,1522.0,Map,Yes
+Lorenz Fries,28,H.1,France,Strasbourg,1522,1522.0,1522.0,Book,No
+Martin Waldseemüller,80,54,France,Strasbourg,1522,1522.0,1522.0,Map,Yes
+,728,J.1,France,Strasbourg,1525,1525.0,1525.0,Book,No
+Lorenz Fries,28,K,France,Strasbourg,1525,1525.0,1525.0,Book,Yes
+Lorenz Fries,28,L,France,Strasbourg,1523 or 24,1523.0,1524.0,Book,Yes
+Lorenz Fries,28,54,France,Strasbourg,1525,1525.0,1525.0,Map,Yes
+Lorenz Fries,28,56,France,Strasbourg,1525,1525.0,1525.0,Map,Yes
+Lorenz Fries,28,57,France,Strasbourg,1525,1525.0,1525.0,Map,Yes
+Lorenz Fries,28,B.1,France,Strasbourg,1525,1525.0,1525.0,Book,No
+Lorenz Fries,28,G.1,France,Strasbourg,1525,1525.0,1525.0,Book,No
+Lorenz Fries,28,N,France,Strasbourg,1525,1525.0,1525.0,Book,Yes
+Lorenz Fries,28,54.1,France,Strasbourg,1527,1527.0,1527.0,Map,No
+Lorenz Fries,28,N.1,France,Strasbourg,1527,1527.0,1527.0,Book,No
+Martin Waldseemüller,80,4.2,France,Strasbourg,1527,1527.0,1527.0,Map,No
+Martin Waldseemüller,80,D.2,France,Strasbourg,1527,1527.0,1527.0,Book,No
+Lorenz Fries,28,0,France,Strasbourg,1529,1529.0,1529.0,Map,Yes
+Lorenz Fries,28,54.2,France,Strasbourg,1530,1530.0,1530.0,Map,No
+Lorenz Fries,28,N.2,France,Strasbourg,1530,1530.0,1530.0,Book,No
+Lorenz Fries,28,N.3,France,Strasbourg,1530,1530.0,1530.0,Book,No
+Lorenz Fries,28,P,France,Strasbourg,1530,1530.0,1530.0,Book,Yes
+Lorenz Fries,28,54.3,France,Strasbourg,1531,1531.0,1531.0,Map,No
+Jacob Ziegler,86,E,France,Strasbourg,1532,1532.0,1532.0,Book,Yes
+Jacob Ziegler,86,11,France,Strasbourg,1532,1532.0,1532.0,Map,Yes
+Jacob Ziegler,86,12,France,Strasbourg,1532,1532.0,1532.0,Map,Yes
+Jacob Ziegler,86,13,France,Strasbourg,1532,1532.0,1532.0,Map,Yes
+Jacob Ziegler,86,14,France,Strasbourg,1532,1532.0,1532.0,Map,Yes
+Jacob Ziegler,86,15,France,Strasbourg,1532,1532.0,1532.0,Map,Yes
+Jacob Ziegler,86,16,France,Strasbourg,1532,1532.0,1532.0,Map,Yes
+Jacob Ziegler,86,17,France,Strasbourg,1532,1532.0,1532.0,Map,Yes
+Jacob Ziegler,86,18,France,Strasbourg,1532,1532.0,1532.0,Map,Yes
+Jacob Ziegler,86,E.1,France,Strasbourg,1536,1536.0,1536.0,Book,No
+Jacob Ziegler,86,11,France,Strasbourg,1536,1536.0,1536.0,Map,Yes
+Jacob Ziegler,86,12,France,Strasbourg,1536,1536.0,1536.0,Map,Yes
+Jacob Ziegler,86,13,France,Strasbourg,1536,1536.0,1536.0,Map,Yes
+Jacob Ziegler,86,14,France,Strasbourg,1536,1536.0,1536.0,Map,Yes
+Jacob Ziegler,86,15,France,Strasbourg,1536,1536.0,1536.0,Map,Yes
+Jacob Ziegler,86,16,France,Strasbourg,1536,1536.0,1536.0,Map,Yes
+Jacob Ziegler,86,17,France,Strasbourg,1536,1536.0,1536.0,Map,Yes
+Jacob Ziegler,86,18,France,Strasbourg,1536,1536.0,1536.0,Map,Yes
+Wolfgang Wissenburg,82,1,France,Strasbourg,1537,1537.0,1537.0,Map,Yes
+Johann Cuspinianus,24,E,France,Strasbourg,1540,1540.0,1540.0,Book,Yes
+Johann Cuspinianus,24,F,France,Strasbourg,1541,1541.0,1541.0,Book,Yes
+Wolfgang Wissenburg,82,B.2,France,Strasbourg,1542,1542.0,1542.0,Book,No
+Wolfgang Wissenburg,82,1.1,France,Strasbourg,1542,1542.0,1542.0,Map,No
+,-27,X,France,Strasbourg,1544,1544.0,1544.0,Book,Yes
+Heinrich Zell,84,5,France,Strasbourg,1549 or 50,1549.0,1550.0,Map,Yes
+Johann Sambucus,65,A,France,Strasbourg,1552,1552.0,1552.0,Book,Yes
+Heinrich Zell,84,6,France,Strasbourg,1553,1553.0,1553.0,Map,Yes
+Heinrich Zell,84,5.5,France,Strasbourg,1556,1556.0,1556.0,Map,No
+Gemma Frisius,29,E,France,Strasbourg,1559,1559.0,1559.0,Book,Yes
+Heinrich Zell,84,5.6,France,Strasbourg,1560,1560.0,1560.0,Map,No
+Martin Helwig,38,1.14,France,Strasbourg,1587,1587.0,1587.0,Map,No
+Wolfgang Lazius,49,27.1,France,Strasbourg,1620,1620.0,1620.0,Map,No
+Caspar Vopel,79,8.8,France,Strasbourg,1621,1621.0,1621.0,Map,No
+Caspar Vopel,79,8.10,France,Strasbourg,1630,1630.0,1630.0,Map,No
+,0,1.6,France,Strasbourg,1630,1630.0,1630.0,Map,No
+Jean Chaumeau,19,1.4,France,Tours,1594,1594.0,1594.0,Map,No
+Nicolas de Nicolay · 435,59,5.3,France,Tours,1594,1594.0,1594.0,Map,No
+Jean Surhon,74,2.2,France,Tours,1594,1594.0,1594.0,Map,No
+Jean Surhon,74,3.176,France,Tours,1594,1594.0,1594.0,Map,No
+Gabriel Symeoni,76,1.4,France,Tours,1619,1619.0,1619.0,Map,No
+Johannes A ventinus,9,A,Germany,Augsburg,1518,1518.0,1518.0,Book,Yes
+Sebastian Rotenhan · 453,64,C,Germany,Augsburg,1521?,1516.0,1526.0,Book,Yes
+Liévin Algoet,3,A,Germany,Augsburg,1530,1530.0,1530.0,Book,Yes
+Caspar Brusch,16,E,Germany,Augsburg,1547,1547.0,1547.0,Book,Yes
+Caspar Vopel,79,8.9,Germany,Augsburg,1621,1621.0,1621.0,Map,No
+Philipp Apian,8,2.7a,Germany,Augsburg,1684,1684.0,1684.0,Map,No
+Philipp Apian,8,2.7b,Germany,Augsburg,1684,1684.0,1684.0,Map,No
+Godfried Mascop · 367,54,1.4,Germany,Augsburg,1776,1776.0,1776.0,Map,No
+Godfried Mascop · 367,54,1.4,Germany,Augsburg,1784,1784.0,1784.0,Map,No
+Philipp Apian,8,2.5,Germany,Augsburg,1866,1866.0,1866.0,Map,No
+Philipp Apian,8,2.13,Germany,Berlin,1766,1766.0,1766.0,Map,No
+Johannes Mellinger,55,A,Germany,Celle,1583,1583.0,1583.0,Book,Yes
+Johannes Mellinger,55,7,Germany,Celle,1593,1593.0,1593.0,Map,Yes
+Caspar Vopel,79,1.1,Germany,Cologne,1536,1536.0,1536.0,Map,No
+Caspar Vopel,79,4,Germany,Cologne,1540s?,1535.0,1555.0,Map,Yes
+Peter Apian,7,K,Germany,Cologne,1544,1544.0,1544.0,Book,Yes
+Caspar Vopel,79,5,Germany,Cologne,1545,1545.0,1545.0,Map,Yes
+Caspar Vopel,79,A,Germany,Cologne,1549,1549.0,1549.0,Book,Yes
+Caspar Vopel,79,5.1,Germany,Cologne,1549,1549.0,1549.0,Map,No
+Jacob Ziegler,86,D,Germany,Cologne,1550,1550.0,1550.0,Book,Yes
+Caspar Vopel,79,8,Germany,Cologne,1555,1555.0,1555.0,Map,Yes
+Caspar Vopel,79,9,Germany,Cologne,1555,1555.0,1555.0,Map,Yes
+Caspar Vopel,79,8.1,Germany,Cologne,1558,1558.0,1558.0,Map,No
+Caspar Vopel,79,8.2,Germany,Cologne,1560,1560.0,1560.0,Map,No
+Gemma Frisius,29,Е,Germany,Cologne,1564,1564.0,1564.0,Book,Yes
+Gerard Mercator,56,С,Germany,Cologne,1569,1569.0,1569.0,Book,Yes
+Tilemann Stella,72,7.1,Germany,Cologne,1570,1570.0,1570.0,Map,No
+Gemma Frisius,29,E,Germany,Cologne,1571,1571.0,1571.0,Book,Yes
+Cornelis Anthoniszoon,6,11.5,Germany,Cologne,1572,1572.0,1572.0,Map,No
+Humphrey Lhuyd,50,E.1,Germany,Cologne,1572,1572.0,1572.0,Book,No
+Pirro Ligorio,51,1.3,Germany,Cologne,1572,1572.0,1572.0,Map,No
+Johannes Mellinger,55,3.1,Germany,Cologne,1572,1572.0,1572.0,Map,No
+Marcus Secsnagel,68,2.1,Germany,Cologne,1572,1572.0,1572.0,Map,No
+Giovanni Domenico Zorzi,87,13.1,Germany,Cologne,1572,1572.0,1572.0,Map,No
+Matthias Zündt,88,6.1,Germany,Cologne,1572,1572.0,1572.0,Map,No
+Gemma Frisius,29,7.1,Germany,Cologne,1573?,1568.0,1578.0,Map,No
+Peter Apian,7,E,Germany,Cologne,1574,1574.0,1574.0,Book,Yes
+Gemma Frisius,29,A,Germany,Cologne,1574,1574.0,1574.0,Book,Yes
+Peter Laicksteen,47,2.1,Germany,Cologne,1574,1574.0,1574.0,Map,No
+Peter Laicksteen,47,3.1,Germany,Cologne,1574,1574.0,1574.0,Map,No
+Christian Sgrooten,70,11.1,Germany,Cologne,1574,1574.0,1574.0,Map,No
+Christian Sgrooten,70,12.1,Germany,Cologne,1574,1574.0,1574.0,Map,No
+Matthias Zündt,88,10.1,Germany,Cologne,1575,1575.0,1575.0,Map,No
+Gemma Frisius,29,E,Germany,Cologne,1576,1576.0,1576.0,Book,Yes
+Gemma Frisius,29,B,Germany,Cologne,1578,1578.0,1578.0,Book,Yes
+Gerard Mercator,56,39,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,40,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,41,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,42,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,43,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,44,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,45,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,46,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,47,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,48,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,49,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,50,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,51,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,52,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,53,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,54,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,55,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,56,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,57,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,58,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,59,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,60,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,61,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,62,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,63,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,64,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,65,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,66,Germany,Cologne,1578,1578.0,1578.0,Map,Yes
+Gerard Mercator,56,E,Germany,Cologne,1578,1578.0,1578.0,Book,Yes
+Gerard Mercator,56,E.1,Germany,Cologne,1584,1584.0,1584.0,Book,No
+Marcus Jordan,45,5,Germany,Cologne,1585,1585.0,1585.0,Map,Yes
+Pirro Ligorio,51,11.3,Germany,Cologne,1585,1585.0,1585.0,Map,No
+Johann Putsch,61,1.3,Germany,Cologne,1587,1587.0,1587.0,Map,No
+Wacław Grodecki,35,1.5,Germany,Cologne,1589,1589.0,1589.0,Map,No
+Christian Sgrooten,70,8.3,Germany,Cologne,ca. 1590,1585.0,1595.0,Map,No
+Gemma Frisius,29,E,Germany,Cologne,1592,1592.0,1592.0,Book,Yes
+Philipp Apian,8,2.11,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Peter Böckel,11,1.3,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Jacob van Deventer,25,4.12,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Giacomo Gastaldi,30,88.5,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Wacław Grodecki,35,1.6,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Martin Helwig,38,1.15,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Gerard Mercator,56,6.15,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Gerard Mercator,56,17.3,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Sebastian Rotenhan · 453,64,1.9,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Johann Sambucus,65,3.2,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Bartholomaeus Scultetus,66,1.8,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Fernando Alvares Seco,67,1.4,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Marcus Secsnagel,68,1.4,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Christian Sgrooten,70,7.3,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Christian Sgrooten,70,18.1,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Aegidius Tschudi · 547 25,78,1.14,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Heinrich Zell,84,2.7,Germany,Cologne,1594,1594.0,1594.0,Map,No
+Johann Sambucus,65,1.2,Germany,Cologne,1595,1595.0,1595.0,Map,No
+Tilemann Stella,72,6.1,Germany,Cologne,1595,1595.0,1595.0,Map,No
+Agostino Giustiniani,34,1.4,Germany,Cologne,1596,1596.0,1596.0,Map,No
+Gerard Mercator,56,17.4,Germany,Cologne,1596,1596.0,1596.0,Map,No
+Caspar Vopel,79,8.6,Germany,Cologne,1596,1596.0,1596.0,Map,No
+Johannes Mellinger,55,5,Germany,Cologne,1598,1598.0,1598.0,Map,Yes
+Johannes Mellinger,55,6,Germany,Cologne,1598,1598.0,1598.0,Map,Yes
+Giacomo Gastaldi,30,88.5,Germany,Cologne,1600,1600.0,1600.0,Map,No
+Agostino Giustiniani,34,1.4,Germany,Cologne,1600,1600.0,1600.0,Map,No
+Wacław Grodecki,35,1.6,Germany,Cologne,1600,1600.0,1600.0,Map,No
+Martin Helwig,38,1.15,Germany,Cologne,1600,1600.0,1600.0,Map,No
+Gerard Mercator,56,6.15,Germany,Cologne,1600,1600.0,1600.0,Map,No
+Gerard Mercator,56,17.3,Germany,Cologne,1600,1600.0,1600.0,Map,No
+Nicolò Zeno,85,1.7,Germany,Cologne,1600,1600.0,1600.0,Map,No
+Caspar Vopel,79,8.7,Germany,Cologne,1604,1604.0,1604.0,Map,No
+Giacomo Gastaldi,30,88.5,Germany,Cologne,1608,1608.0,1608.0,Map,No
+Agostino Giustiniani,34,1.4,Germany,Cologne,1608,1608.0,1608.0,Map,No
+Wacław Grodecki,35,1.6,Germany,Cologne,1608,1608.0,1608.0,Map,No
+Martin Helwig,38,1.15,Germany,Cologne,1608,1608.0,1608.0,Map,No
+Pirro Ligorio,51,5.3,Germany,Cologne,1608,1608.0,1608.0,Map,No
+Johannes Mellinger,55,7.1,Germany,Cologne,1608,1608.0,1608.0,Map,No
+Gerard Mercator,56,6.15,Germany,Cologne,1608,1608.0,1608.0,Map,No
+Gerard Mercator,56,17.3,Germany,Cologne,1608,1608.0,1608.0,Map,No
+Caspar Vopel,79,8.5,Germany,Cologne,after 1630?,1625.0,1640.0,Map,No
+Gerard Mercator,56,13,Germany,Duisburg,1554,1554.0,1554.0,Map,Yes
+Gerard Mercator,56,16,Germany,Duisburg,1564,1564.0,1564.0,Map,Yes
+Gerard Mercator,56,18,Germany,Duisburg,1569,1569.0,1569.0,Map,Yes
+Gerard Mercator,56,17,Germany,Duisburg,1569,1569.0,1569.0,Map,Yes
+Philipp Apian,8,2.10,Germany,Duisburg,1585,1585.0,1585.0,Map,No
+Gerard Mercator,56,67,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,68,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,69,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,70,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,71,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,72,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,73,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,74,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,75,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,76,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,77,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,78,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,79,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,80,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,81,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,82,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,83,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,84,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,85,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,86,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,87,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,88,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,89,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,90,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,91,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,92,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,93,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,94,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,95,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,96,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,97,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,98,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,99,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,100,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,101,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,102,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,103,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,104,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,105,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,106,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,107,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,108,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,109,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,110,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,111,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,112,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,113,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,114,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,115,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,116,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,117,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,118,Germany,Duisburg,1585,1585.0,1585.0,Map,Yes
+Gerard Mercator,56,F,Germany,Duisburg,1585,1585.0,1585.0,Book,Yes
+Gerard Mercator,56,G,Germany,Duisburg,1585,1585.0,1585.0,Book,Yes
+Gerard Mercator,56,H,Germany,Duisburg,1585,1585.0,1585.0,Book,Yes
+Gerard Mercator,56,J,Germany,Duisburg,1585,1585.0,1585.0,Book,Yes
+Gerard Mercator,56,K,Germany,Duisburg,1585,1585.0,1585.0,Book,Yes
+Nicolas de Nicolay · 435,59,5.2,Germany,Duisburg,1585,1585.0,1585.0,Map,No
+Gerard Mercator,56,L,Germany,Duisburg,1589,1589.0,1589.0,Book,Yes
+Gerard Mercator,56,119,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,120,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,121,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,122,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,123,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,124,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,125,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,126,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,127,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,128,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,129,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,130,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,131,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,132,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,133,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,134,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,135,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,136,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,137,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,138,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,139,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,140,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,141,Germany,Duisburg,1589,1589.0,1589.0,Map,Yes
+Gerard Mercator,56,38.1,Germany,Duisburg,1595,1595.0,1595.0,Map,No
+Gerard Mercator,56,142,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,143,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,144,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,145,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,146,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,147,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,148,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,149,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,150,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,151,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,152,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,153,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,154,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,155,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,156,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,157,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,158,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,159,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,160,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,161,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,162,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,163,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,164,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,165,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,166,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,167,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,168,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,169,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,170,Germany,Duisburg,1595,1595.0,1595.0,Map,Yes
+Gerard Mercator,56,M,Germany,Duisburg,1595,1595.0,1595.0,Book,Yes
+Gerard Mercator,56,N,Germany,Duisburg,1595,1595.0,1595.0,Book,Yes
+Gerard Mercator,56,M,Germany,Düsseldorf,1595,1595.0,1595.0,Book,Yes
+Nicolaus Cusanus,23,1,Germany,Eichstatt,Ca. 1514,1509.0,1519.0,Map,Yes
+Martin Helwig,38,1.16,Germany,Bissleben,1601,1601.0,1601.0,Map,No
+Sebastian Munster,58,P,Germany,Frankfurt am Main,1536,1536.0,1536.0,Book,Yes
+Sebastian Munster,58,48,Germany,Frankfurt am Main,1536,1536.0,1536.0,Map,Yes
+Sebastian Munster,58,49,Germany,Frankfurt am Main,1536,1536.0,1536.0,Map,Yes
+Johannes A ventinus,9,J.1,Germany,Frankfurt am Main,1566,1566.0,1566.0,Book,No
+Abraham Ortelius,1,D[],Germany,Frankfurt am Main,1576,1576.0,1576.0,Book,Yes
+Johannes A ventinus,9,J.2,Germany,Frankfurt am Main,1580,1580.0,1580.0,Book,No
+Johann Sambucus,65,N,Germany,Frankfurt am Main,1581,1581.0,1581.0,Book,Yes
+Charles de l'Escluse,26,F,Germany,Frankfurt am Main,1590,1590.0,1590.0,Book,Yes
+Caspar Vopel,79,8.5,Germany,Frankfurt am Main,1594,1594.0,1594.0,Map,No
+Gerard Mercator,56,17.3,Germany,Frankfurt am Main,1597,1597.0,1597.0,Map,No
+Gerard Mercator,56,E.1,Germany,Frankfurt am Main,1605,1605.0,1605.0,Book,No
+Gerard Mercator,56,17.3,Germany,Frankfurt am Main,1624,1624.0,1624.0,Map,No
+Martin Helwig,38,1.19,Germany,Frankfurt am Main,1650,1650.0,1650.0,Map,No
+Pirro Ligorio,51,G,Germany,Frankfurt am Main,1671,1671.0,1671.0,Book,Yes
+Philipp Apian,8,2.12,Germany,Frankfurt am Main,ca. 1750,1745.0,1755.0,Map,No
+Philipp Apian,8,2.14,Germany,Frankfurt am Main,1778,1778.0,1778.0,Map,No
+Bartholomaeus Scultetus,66,A,Germany,Görlitz,1567,1567.0,1567.0,Book,Yes
+Bartholomaeus Scultetus,66,1,Germany,Görlitz,1569,1569.0,1569.0,Map,Yes
+Bartholomaeus Scultetus,66,C,Germany,Görlitz,1571,1571.0,1571.0,Book,Yes
+Bartholomaeus Scultetus,66,D,Germany,Görlitz,1572,1572.0,1572.0,Book,Yes
+Bartholomaeus Scultetus,66,E,Germany,Görlitz,1572,1572.0,1572.0,Book,Yes
+Bartholomaeus Scultetus,66,1.2,Germany,Görlitz,1574,1574.0,1574.0,Map,No
+Bartholomaeus Scultetus,66,C,Germany,Görlitz,1574,1574.0,1574.0,Book,Yes
+Bartholomaeus Scultetus,66,1.3,Germany,Görlitz,1575?,1570.0,1580.0,Map,No
+Bartholomaeus Scultetus,66,1.4,Germany,Görlitz,1577,1577.0,1577.0,Map,No
+Bartholomaeus Scultetus,66,1.5,Germany,Görlitz,1578,1578.0,1578.0,Map,No
+Bartholomaeus Scultetus,66,H,Germany,Görlitz,1583,1583.0,1583.0,Book,Yes
+Bartholomaeus Scultetus,66,H,Germany,Görlitz,1585,1585.0,1585.0,Book,Yes
+Bartholomaeus Scultetus,66,Н,Germany,Görlitz,1586,1586.0,1586.0,Book,Yes
+Bartholomaeus Scultetus,66,C,Germany,Görlitz,1587,1587.0,1587.0,Book,Yes
+Bartholomaeus Scultetus,66,H,Germany,Görlitz,1587,1587.0,1587.0,Book,Yes
+Bartholomaeus Scultetus,66,E,Germany,Görlitz,1588,1588.0,1588.0,Book,Yes
+Bartholomaeus Scultetus,66,H,Germany,Görlitz,1588,1588.0,1588.0,Book,Yes
+Bartholomaeus Scultetus,66,Н,Germany,Görlitz,1589,1589.0,1589.0,Book,Yes
+Bartholomaeus Scultetus,66,Н,Germany,Görlitz,1590,1590.0,1590.0,Book,Yes
+Bartholomaeus Scultetus,66,H,Germany,Görlitz,1591,1591.0,1591.0,Book,Yes
+Bartholomaeus Scultetus,66,Н,Germany,Görlitz,1592,1592.0,1592.0,Book,Yes
+Bartholomaeus Scultetus,66,H,Germany,Görlitz,1593,1593.0,1593.0,Book,Yes
+Bartholomaeus Scultetus,66,2,Germany,Görlitz,1593,1593.0,1593.0,Map,Yes
+Bartholomaeus Scultetus,66,2.1,Germany,Görlitz,1595,1595.0,1595.0,Map,No
+Bartholomaeus Scultetus,66,2.2,Germany,Görlitz,1600?,1595.0,1605.0,Map,No
+Lorenz Fries,28,M,Germany,Haguenau,1524,1524.0,1524.0,Book,Yes
+Gemma Frisius,29,E,Germany,Halle,1625,1625.0,1625.0,Book,Yes
+Marcus Jordan,45,3,Germany,Hamburg,1559,1559.0,1559.0,Map,Yes
+Peter Böckel,11,1.4,Germany,Hamburg,1733,1733.0,1733.0,Map,No
+Johann Putsch,61,1.2,Germany,Helmstedt,1581,1581.0,1581.0,Map,No
+Peter Apian,7,F,Germany,Imgolstadt,1526,1526.0,1526.0,Book,Yes
+Peter Apian,7,G,Germany,Imgolstadt,1527,1527.0,1527.0,Book,Yes
+Peter Apian,7,H,Germany,Imgolstadt,1528,1528.0,1528.0,Book,Yes
+Peter Apian,7,6,Germany,Imgolstadt,1528,1528.0,1528.0,Map,Yes
+Peter Apian,7,9,Germany,Imgolstadt,1530,1530.0,1530.0,Map,Yes
+Peter Apian,7,K,Germany,Imgolstadt,1532,1532.0,1532.0,Book,Yes
+Peter Apian,7,L,Germany,Imgolstadt,1532,1532.0,1532.0,Book,Yes
+Peter Apian,7,M,Germany,Imgolstadt,1532,1532.0,1532.0,Book,Yes
+Peter Apian,7,10,Germany,Imgolstadt,1533,1533.0,1533.0,Map,Yes
+Peter Apian,7,11,Germany,Imgolstadt,1533,1533.0,1533.0,Map,Yes
+Peter Apian,7,11.1,Germany,Imgolstadt,1533,1533.0,1533.0,Map,No
+Peter Apian,7,N,Germany,Imgolstadt,1533,1533.0,1533.0,Book,Yes
+Peter Apian,7,1”,Germany,Imgolstadt,1533,1533.0,1533.0,Map,Yes
+Peter Apian,7,Q,Germany,Imgolstadt,1533,1533.0,1533.0,Book,Yes
+Peter Apian,7,R,Germany,Imgolstadt,1533,1533.0,1533.0,Book,Yes
+Sebastian Rotenhan · 453,64,1,Germany,Imgolstadt,1533,1533.0,1533.0,Map,Yes
+Peter Apian,7,T,Germany,Imgolstadt,1534,1534.0,1534.0,Book,Yes
+Peter Apian,7,13,Germany,Imgolstadt,1536,1536.0,1536.0,Map,Yes
+Peter Apian,7,W,Germany,Imgolstadt,1540,1540.0,1540.0,Book,Yes
+Caspar Brusch,16,H,Germany,Imgolstadt,1551,1551.0,1551.0,Book,Yes
+Johannes A ventinus,9,D.1,Germany,Imgolstadt,1554,1554.0,1554.0,Book,No
+Philipp Apian,8,2.1,Germany,Imgolstadt,1568,1568.0,1568.0,Map,No
+Philipp Apian,8,2a,Germany,Imgolstadt,1568,1568.0,1568.0,Map,Yes
+Philipp Apian,8,2b,Germany,Imgolstadt,1568,1568.0,1568.0,Map,Yes
+Johannes Mellinger,55,2,Germany,Jena,1571,1571.0,1571.0,Map,Yes
+Johannes Mellinger,55,3,Germany,Jena,1571,1571.0,1571.0,Map,Yes
+Peter Laicksteen,47,2,Germany,Kalkar,1570,1570.0,1570.0,Map,Yes
+Peter Laicksteen,47,3,Germany,Kalkar,1570,1570.0,1570.0,Map,Yes
+Christian Sgrooten,70,11,Germany,Kalkar,1570,1570.0,1570.0,Map,Yes
+Christian Sgrooten,70,12,Germany,Kalkar,1570,1570.0,1570.0,Map,Yes
+Christian Sgrooten,70,13,Germany,Kalkar,1572,1572.0,1572.0,Map,Yes
+Marcus Jordan,45,3.3,Germany,Krempe,1580,1580.0,1580.0,Map,No
+Peter Apian,7,2,Germany,Landshut,1521 or 22,1521.0,1522.0,Map,Yes
+Peter Apian,7,A,Germany,Landshut,1521 or 22,1521.0,1522.0,Book,Yes
+Peter Apian,7,C,Germany,Landshut,1523,1523.0,1523.0,Book,Yes
+Johannes A ventinus,9,1.1,Germany,Landshut,1523,1523.0,1523.0,Map,No
+Johannes A ventinus,9,C,Germany,Landshut,1523,1523.0,1523.0,Book,Yes
+Peter Apian,7,4,Germany,Landshut,1524,1524.0,1524.0,Map,Yes
+Peter Apian,7,5,Germany,Landshut,1524,1524.0,1524.0,Map,Yes
+Peter Apian,7,D,Germany,Landshut,1524,1524.0,1524.0,Book,Yes
+Peter Apian,7,E,Germany,Landshut,1524,1524.0,1524.0,Book,Yes
+Johannes A ventinus,9,5,Germany,Landshut,1535,1535.0,1535.0,Map,Yes
+Caspar Brusch,16,D,Germany,Leipzig,1542,1542.0,1542.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1558,1558.0,1558.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1559,1559.0,1559.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1562,1562.0,1562.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1565,1565.0,1565.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1568,1568.0,1568.0,Book,Yes
+Johann Criginger,22,1.3,Germany,Leipzig,са. 1569,1564.0,1574.0,Map,No
+Gemma Frisius,29,E,Germany,Leipzig,1572,1572.0,1572.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1575,1575.0,1575.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1580,1580.0,1580.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1584,1584.0,1584.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1588,1588.0,1588.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1591,1591.0,1591.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1592,1592.0,1592.0,Book,Yes
+Gemma Frisius,29,E,Germany,Leipzig,1595,1595.0,1595.0,Book,Yes
+Marcus Jordan,45,6.2,Germany,Leipzig,1597,1597.0,1597.0,Map,No
+Gemma Frisius,29,E,Germany,Leipzig,1607,1607.0,1607.0,Book,Yes
+Martin Helwig,38,1.17,Germany,Leipzig,1625,1625.0,1625.0,Map,No
+Martin Helwig,38,1.1,Germany,Liegnitz,1605,1605.0,1605.0,Map,No
+Sebastian Rotenhan · 453,64,B,Germany,Mainz,1521,1521.0,1521.0,Book,Yes
+Peter Apian,7,K,Germany,Marburg,1543,1543.0,1543.0,Book,Yes
+Philipp Apian,8,2.6a,Germany,Munich,1579,1579.0,1579.0,Map,No
+Philipp Apian,8,2.6b,Germany,Munich,1579,1579.0,1579.0,Map,No
+Philipp Apian,8,2.2,Germany,Munich,1618-19,1618.0,1619.0,Map,No
+Philipp Apian,8,2.3a,Germany,Munich,1651,1651.0,1651.0,Map,No
+Philipp Apian,8,2.3b,Germany,Munich,1651,1651.0,1651.0,Map,No
+Philipp Apian,8,2.4,Germany,Munich,1802?,1797.0,1807.0,Map,No
+Godfried Mascop · 367,54,1,Germany,Münster,1568,1568.0,1568.0,Map,Yes
+Nicolaus Cusanus,23,1.4,Germany,Nuremberg,1493,1493.0,1493.0,Map,No
+Lorenz Fries,28,A,Germany,Nuremberg,1513,1513.0,1513.0,Book,Yes
+Johannes A ventinus,9,В,Germany,Nuremberg,1522,1522.0,1522.0,Book,Yes
+Christoph Zell,83,А,Germany,Nuremberg,1529,1529.0,1529.0,Book,Yes
+Christoph Zell,83,B,Germany,Nuremberg,1530,1530.0,1530.0,Book,Yes
+Peter Apian,7,5,Germany,Nuremberg,1533,1533.0,1533.0,Map,Yes
+Christoph Zell,83,CC.1,Germany,Nuremberg,1533,1533.0,1533.0,Book,No
+Christoph Zell,83,1,Germany,Nuremberg,1533,1533.0,1533.0,Map,Yes
+Peter Apian,7,U,Germany,Nuremberg,1534,1534.0,1534.0,Book,Yes
+Peter Apian,7,V,Germany,Nuremberg,1535,1535.0,1535.0,Book,Yes
+Heinrich Zell,84,1.1,Germany,Nuremberg,1535,1535.0,1535.0,Map,No
+Christoph Zell,83,D,Germany,Nuremberg,1538,1538.0,1538.0,Book,Yes
+Erhart Reich,63,1,Germany,Nuremberg,1540,1540.0,1540.0,Map,Yes
+Erhart Reich,63,1,Germany,Nuremberg,1540,1540.0,1540.0,Map,Yes
+Peter Apian,7,U,Germany,Nuremberg,1541,1541.0,1541.0,Book,Yes
+Johannes A ventinus,9,H.1,Germany,Nuremberg,1541,1541.0,1541.0,Book,No
+Caspar Brusch,16,C,Germany,Nuremberg,1542,1542.0,1542.0,Book,Yes
+Heinrich Zell,84,2.1,Germany,Nuremberg,1542,1542.0,1542.0,Map,No
+Augustin Hirschvogel,40,B,Germany,Nuremberg,1543,1543.0,1543.0,Book,Yes
+Augustin Hirschvogel,40,A,Germany,Nuremberg,1543,1543.0,1543.0,Book,Yes
+Sebastian Cabot,17,6.1,Germany,Nuremberg,1544,1544.0,1544.0,Map,No
+Caspar Brusch,16,F,Germany,Nuremberg,1549,1549.0,1549.0,Book,Yes
+Matthias Zündt,88,A,Germany,Nuremberg,1551,1551.0,1551.0,Book,Yes
+Augustin Hirschvogel,40,9.1,Germany,Nuremberg,1565,1565.0,1565.0,Map,No
+Matthias Zündt,88,1,Germany,Nuremberg,1565,1565.0,1565.0,Map,Yes
+Matthias Zündt,88,2,Germany,Nuremberg,1566,1566.0,1566.0,Map,Yes
+Matthias Zündt,88,3,Germany,Nuremberg,1566,1566.0,1566.0,Map,Yes
+Matthias Zündt,88,4,Germany,Nuremberg,1566,1566.0,1566.0,Map,Yes
+Matthias Zündt,88,5,Germany,Nuremberg,1567,1567.0,1567.0,Map,Yes
+Matthias Zündt,88,6,Germany,Nuremberg,1567,1567.0,1567.0,Map,Yes
+Matthias Zündt,88,7,Germany,Nuremberg,1567,1567.0,1567.0,Map,Yes
+Matthias Zündt,88,В,Germany,Nuremberg,1567,1567.0,1567.0,Book,Yes
+Matthias Zündt,88,8,Germany,Nuremberg,1568,1568.0,1568.0,Map,Yes
+Matthias Zündt,88,9,Germany,Nuremberg,1568,1568.0,1568.0,Map,Yes
+Matthias Zündt,88,10,Germany,Nuremberg,1568,1568.0,1568.0,Map,Yes
+Matthias Zündt,88,11,Germany,Nuremberg,1570,1570.0,1570.0,Map,Yes
+Matthias Zündt,88,12,Germany,Nuremberg,1570,1570.0,1570.0,Map,Yes
+Sebastian Rotenhan · 453,64,1.4,Germany,Nuremberg,1571,1571.0,1571.0,Map,No
+Matthias Zündt,88,13,Germany,Nuremberg,1571,1571.0,1571.0,Map,Yes
+Giovanni Domenico Zorzi,87,12.2,Germany,Nuremberg,1678,1678.0,1678.0,Map,No
+Caspar Brusch,16,G.3,Germany,Nuremberg,1683,1683.0,1683.0,Book,No
+Caspar Vopel,79,8.11,Germany,Nuremberg,1685,1685.0,1685.0,Map,No
+Caspar Vopel,79,8.11,Germany,Nuremberg,1688,1688.0,1688.0,Map,No
+Caspar Vopel,79,8.12,Germany,Nuremberg,Ca. 1700,1695.0,1705.0,Map,No
+Sebastian Munster,58,45,Germany,Oppenheim,1525,1525.0,1525.0,Map,Yes
+Sebastian Munster,58,B.1,Germany,Oppenheim,1528,1528.0,1528.0,Book,No
+Sebastian Munster,58,46,Germany,Oppenheim,1528,1528.0,1528.0,Map,Yes
+Peter Apian,7,B,Germany,Regensburg,1522,1522.0,1522.0,Book,Yes
+Peter Apian,7,3,Germany,Regensburg,1522,1522.0,1522.0,Map,Yes
+Johannes A ventinus,9,E,Germany,Regensburg,1532,1532.0,1532.0,Book,Yes
+Johannes A ventinus,9,G,Germany,Regensburg,1532,1532.0,1532.0,Book,Yes
+Caspar Brusch,16,L,Germany,Regensburg,1554,1554.0,1554.0,Book,Yes
+Tilemann Stella,72,A,Germany,Rostock,1546,1546.0,1546.0,Book,Yes
+Tilemann Stella,72,2,Germany,Rostock,1552,1552.0,1552.0,Map,Yes
+Tilemann Stella,72,4,Germany,Rostock,1555,1555.0,1555.0,Map,Yes
+Caspar Brusch,16,M,Germany,Rothenburg ob der Tauber,1560?,1555.0,1565.0,Book,Yes
+Philipp Apian,8,E,Germany,Tubingen,1586,1586.0,1586.0,Book,Yes
+Philipp Apian,8,F,Germany,Tubingen,1588,1588.0,1588.0,Book,Yes
+Nicolaus Germanus,32,M.1,Germany,Ulm,1482,1482.0,1482.0,Book,No
+Nicolaus Germanus,32,M.2,Germany,Ulm,1486,1486.0,1486.0,Book,No
+Caspar Brusch,16,A,Germany,Ulm,1538,1538.0,1538.0,Book,Yes
+Sebastian Rotenhan · 453,64,1.5,Germany,Ulm,1576,1576.0,1576.0,Map,No
+Johannes Mellinger,55,1,Germany,Weimar,1568,1568.0,1568.0,Map,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1542,1542.0,1542.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1544,1544.0,1544.0,Book,Yes
+Gemma Frisius,29,Е,Germany,Wittenberg,1548,1548.0,1548.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1550,1550.0,1550.0,Book,Yes
+Marcus Jordan,45,1,Germany,Wittenberg,1550,1550.0,1550.0,Map,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1551,1551.0,1551.0,Book,Yes
+Tilemann Stella,72,1,Germany,Wittenberg,1552,1552.0,1552.0,Map,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1553,1553.0,1553.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1555,1555.0,1555.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1556,1556.0,1556.0,Book,Yes
+Tilemann Stella,72,5,Germany,Wittenberg,1557,1557.0,1557.0,Map,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1558,1558.0,1558.0,Book,Yes
+Tilemann Stella,72,6,Germany,Wittenberg,1560,1560.0,1560.0,Map,Yes
+Tilemann Stella,72,B,Germany,Wittenberg,1560,1560.0,1560.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1561,1561.0,1561.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1563,1563.0,1563.0,Book,Yes
+Tilemann Stella,72,B,Germany,Wittenberg,1563,1563.0,1563.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1566,1566.0,1566.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1567,1567.0,1567.0,Book,Yes
+Tilemann Stella,72,6,Germany,Wittenberg,1567,1567.0,1567.0,Map,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1570,1570.0,1570.0,Book,Yes
+Tilemann Stella,72,B,Germany,Wittenberg,1571,1571.0,1571.0,Book,Yes
+Marcus Jordan,45,A,Germany,Wittenberg,1572,1572.0,1572.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1574,1574.0,1574.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1576,1576.0,1576.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1579,1579.0,1579.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1583,1583.0,1583.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1587,1587.0,1587.0,Book,Yes
+Tilemann Stella,72,B,Germany,Wittenberg,1590,1590.0,1590.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1593,1593.0,1593.0,Book,Yes
+Tilemann Stella,72,B,Germany,Wittenberg,1595,1595.0,1595.0,Book,Yes
+Tilemann Stella,72,B,Germany,Wittenberg,1603,1603.0,1603.0,Book,Yes
+Gemma Frisius,29,E,Germany,Wittenberg,1604,1604.0,1604.0,Book,Yes
+Caspar Brusch,16,G.2,Germany,Wittenberg,1612,1612.0,1612.0,Book,No
+Gemma Frisius,29,Е,Germany,Wittenberg,1614,1614.0,1614.0,Book,Yes
+Sebastian Munster,58,D,Germany,Worms,1529,1529.0,1529.0,Book,Yes
+Sebastian Munster,58,E,Germany,Worms,1529,1529.0,1529.0,Book,Yes
+Heinrich Zell,84,2.6,Germany,Zerbst,1592,1592.0,1592.0,Map,No
+Bonaventura Castiglioni,18,A,Italy,Bergamo,1594,1594.0,1594.0,Book,Yes
+Nicolaus Germanus,32,A.1,Italy,Bologna,1477,1477.0,1477.0,Book,No
+Abraham Ortelius,1,E.1[1577],Italy,Brescia,1598,1598.0,1598.0,Book,No
+Sebastian Rotenhan · 453,64,1.10,Italy,Brescia,1598,1598.0,1598.0,Map,No
+Aegidius Tschudi · 547 25,78,1.15,Italy,Brescia,1598,1598.0,1598.0,Map,No
+Nicolaus Cusanus,23,1.3,Italy,Florence,са. 1492,1487.0,1497.0,Map,No
+Paolo Giovio,33,F,Italy,Florence,1548,1548.0,1548.0,Book,Yes
+Paolo Giovio,33,11:1550,Italy,Florence,1549,1549.0,1549.0,Map,Yes
+Paolo Giovio,33,J,Italy,Florence,1549,1549.0,1549.0,Book,Yes
+Paolo Giovio,33,K,Italy,Florence,1550-52,1550.0,1552.0,Book,Yes
+Paolo Giovio,33,L,Italy,Florence,1551,1551.0,1551.0,Book,Yes
+Agostino Giustiniani,34,А,Italy,Genoa,1516,1516.0,1516.0,Book,Yes
+Agostino Giustiniani,34,D,Italy,Genoa,1537,1537.0,1537.0,Book,Yes
+Domenico Macaneo · 359,52,A,Italy,Milan,1490,1490.0,1490.0,Book,Yes
+Bonaventura Castiglioni,18,A,Italy,Milan,1541,1541.0,1541.0,Book,Yes
+Caspar Vopel,79,5.3,Italy,Milan,1556,1556.0,1556.0,Map,No
+Domenico Macaneo · 359,52,A.1,Italy,Milan,1699,1699.0,1699.0,Book,No
+Nicolaus Germanus,32,B.1,Italy,Rome,1478,1478.0,1478.0,Book,No
+Nicolaus Cusanus,23,1.5,Italy,Rome,1507,1507.0,1507.0,Map,No
+Nicolaus Cusanus,23,1.5,Italy,Rome,1508,1508.0,1508.0,Map,No
+Paolo Giovio,33,8:1525,Italy,Rome,1524,1524.0,1524.0,Map,Yes
+Paolo Giovio,33,2,Italy,Rome,1524,1524.0,1524.0,Map,Yes
+Paolo Giovio,33,C,Italy,Rome,1524,1524.0,1524.0,Book,Yes
+Girolamo Bell' Armato,10,1,Italy,Rome,1536,1536.0,1536.0,Map,Yes
+Nikolaos Sophianos · 495,71,1.1,Italy,Rome,before 1544,1534.0,1544.0,Map,No
+Paolo Giovio,33,3,Italy,Rome,1546,1546.0,1546.0,Map,Yes
+Nicolaus Cusanus,23,1.8,Italy,Rome,1548,1548.0,1548.0,Map,No
+Pirro Ligorio,51,1,Italy,Rome,1552,1552.0,1552.0,Map,Yes
+Pirro Ligorio,51,A,Italy,Rome,1552,1552.0,1552.0,Book,Yes
+Nikolaos Sophianos · 495,71,1.4,Italy,Rome,1552,1552.0,1552.0,Map,No
+Pirro Ligorio,51,2,Italy,Rome,1553,1553.0,1553.0,Map,Yes
+Pirro Ligorio,51,4,Italy,Rome,1554,1554.0,1554.0,Map,Yes
+Olaus Magnus,53,1.3,Italy,Rome,1554,1554.0,1554.0,Map,No
+Olaus Magnus,53,1.3,Italy,Rome,1555,1555.0,1555.0,Map,No
+Olaus Magnus,53,В,Italy,Rome,1555,1555.0,1555.0,Book,Yes
+Gerard Mercator,56,6.1,Italy,Rome,1555,1555.0,1555.0,Map,No
+Aegidius Tschudi · 547 25,78,1.4,Italy,Rome,1555,1555.0,1555.0,Map,No
+Jacob van Deventer,25,1.2,Italy,Rome,1556,1556.0,1556.0,Map,No
+Wolfgang Wissenburg,82,1.4,Italy,Rome,1557,1557.0,1557.0,Map,No
+Gilles Boileau de Buillon,12,22.1,Italy,Rome,1558,1558.0,1558.0,Map,No
+Giacomo Gastaldi,30,2.2,Italy,Rome,1558,1558.0,1558.0,Map,No
+Pirro Ligorio,51,4,Italy,Rome,1558,1558.0,1558.0,Map,Yes
+Pirro Ligorio,51,5,Italy,Rome,1558,1558.0,1558.0,Map,Yes
+Pirro Ligorio,51,6,Italy,Rome,1558,1558.0,1558.0,Map,Yes
+Pirro Ligorio,51,7,Italy,Rome,1558,1558.0,1558.0,Map,Yes
+Pirro Ligorio,51,С,Italy,Rome,1558,1558.0,1558.0,Book,Yes
+Pirro Ligorio,51,8,Italy,Rome,1559,1559.0,1559.0,Map,Yes
+Pirro Ligorio,51,9,Italy,Rome,1559,1559.0,1559.0,Map,Yes
+Vincenzo Paletino,60,1.5,Italy,Rome,1559,1559.0,1559.0,Map,No
+Girolamo Bell' Armato,10,1.5,Italy,Rome,1560,1560.0,1560.0,Map,No
+Giacomo Gastaldi,30,86.1,Italy,Rome,1560,1560.0,1560.0,Map,No
+Gerard Mercator,56,4.1,Italy,Rome,са. 1560-66,1555.0,1571.0,Map,No
+Pirro Ligorio,51,1.1,Italy,Rome,1560s?,1555.0,1575.0,Map,No
+Giacomo Gastaldi,30,85.1,Italy,Rome,1561,1561.0,1561.0,Map,No
+Giacomo Gastaldi,30,91,Italy,Rome,1561,1561.0,1561.0,Map,Yes
+Giacomo Gastaldi,30,92,Italy,Rome,1561,1561.0,1561.0,Map,Yes
+Pirro Ligorio,51,10,Italy,Rome,1561,1561.0,1561.0,Map,Yes
+Pirro Ligorio,51,11,Italy,Rome,1561,1561.0,1561.0,Map,Yes
+Fernando Alvares Seco,67,1,Italy,Rome,1561,1561.0,1561.0,Map,Yes
+Pirro Ligorio,51,12,Italy,Rome,1563,1563.0,1563.0,Map,Yes
+Pirro Ligorio,51,0,Italy,Rome,1563,1563.0,1563.0,Map,Yes
+Girolamo Bell' Armato,10,1.7,Italy,Rome,1564,1564.0,1564.0,Map,No
+Pirro Ligorio,51,12,Italy,Rome,1564,1564.0,1564.0,Map,Yes
+Jacob van Deventer,25,7.4,Italy,Rome,1566,1566.0,1566.0,Map,No
+Jacob van Deventer,25,8.5,Italy,Rome,1566,1566.0,1566.0,Map,No
+Pirro Ligorio,51,E,Italy,Rome,1569,1569.0,1569.0,Book,Yes
+Giacomo Gastaldi,30,70.5,Italy,Rome,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,84.1,Italy,Rome,1570,1570.0,1570.0,Map,No
+Pirro Ligorio,51,1.2,Italy,Rome,1570,1570.0,1570.0,Map,No
+Gerard Mercator,56,6.9,Italy,Rome,1570,1570.0,1570.0,Map,No
+Nikolaos Sophianos · 495,71,B.1,Italy,Rome,1570,1570.0,1570.0,Book,No
+Giacomo Gastaldi,30,2.4,Italy,Rome,1570s?,1565.0,1585.0,Map,No
+Olaus Magnus,53,1.6,Italy,Rome,1572,1572.0,1572.0,Map,No
+Pirro Ligorio,51,E,Italy,Rome,1573,1573.0,1573.0,Book,Yes
+Pirro Ligorio,51,11.1,Italy,Rome,1574-5,1574.0,1575.0,Map,No
+Giacomo Gastaldi,30,90.5,Italy,Rome,1577,1577.0,1577.0,Map,No
+Giacomo Gastaldi,30,2.4,Italy,Rome,1582,1582.0,1582.0,Map,No
+Giacomo Gastaldi,30,90.7,Italy,Rome,1582,1582.0,1582.0,Map,No
+Giacomo Gastaldi,30,61.1,Italy,Rome,1590,1590.0,1590.0,Map,No
+Giacomo Gastaldi,30,62.2,Italy,Rome,1590,1590.0,1590.0,Map,No
+Ferdinand de Lannoy,48,2.2,Italy,Rome,1596,1596.0,1596.0,Map,No
+Giacomo Gastaldi,30,90.7,Italy,Rome,1597,1597.0,1597.0,Map,No
+Giacomo Gastaldi,30,90.8,Italy,Rome,1599,1599.0,1599.0,Map,No
+Girolamo Bell' Armato,10,1.3,Italy,Rome,1602,1602.0,1602.0,Map,No
+Giacomo Gastaldi,30,2.2,Italy,Rome,1602,1602.0,1602.0,Map,No
+Giacomo Gastaldi,30,70.5,Italy,Rome,1602,1602.0,1602.0,Map,No
+Giacomo Gastaldi,30,84.1,Italy,Rome,1602,1602.0,1602.0,Map,No
+Giacomo Gastaldi,30,84.3,Italy,Rome,1602,1602.0,1602.0,Map,No
+Giacomo Gastaldi,30,90.7,Italy,Rome,1602,1602.0,1602.0,Map,No
+Pirro Ligorio,51,11.4,Italy,Rome,1602,1602.0,1602.0,Map,No
+Gerard Mercator,56,4.1,Italy,Rome,1602,1602.0,1602.0,Map,No
+Girolamo Bell' Armato,10,1.3,Italy,Rome,1646,1646.0,1646.0,Map,No
+Giacomo Gastaldi,30,84.1,Italy,Rome,1647,1647.0,1647.0,Map,No
+Pirro Ligorio,51,11.5,Italy,Rome,са. 1650,1645.0,1655.0,Map,No
+Giacomo Gastaldi,30,2.4,Italy,Rome,1652,1652.0,1652.0,Map,No
+Pirro Ligorio,51,4,Italy,Rome,1691,1691.0,1691.0,Map,Yes
+Pirro Ligorio,51,13,Italy,Rome,1751,1751.0,1751.0,Map,Yes
+Pirro Ligorio,51,J.1,Italy,Rome,1751,1751.0,1751.0,Book,No
+Pirro Ligorio,51,11.6,Italy,Rome,1773,1773.0,1773.0,Map,No
+Pirro Ligorio,51,4,Italy,Rome,1775,1775.0,1775.0,Map,Yes
+Pirro Ligorio,51,11.7,Italy,Rome,1820s,1820.0,1830.0,Map,No
+Giacomo Gastaldi,30,84.4,Italy,Siena,1602?,1597.0,1607.0,Map,No
+Giacomo Gastaldi,30,84.4,Italy,Siena,1663,1663.0,1663.0,Map,No
+Domenico Macaneo · 359,52,B,Italy,Turin,1508,1508.0,1508.0,Book,Yes
+Girolamo Bell' Armato,10,1.2,Italy,Unknown city,1554,1554.0,1554.0,Map,No
+Girolamo Bell' Armato,10,1.3,Italy,Unknown city,1558,1558.0,1558.0,Map,No
+Gilles Boileau de Buillon,12,22.3,Italy,Unknown city,1561,1561.0,1561.0,Map,No
+Girolamo Bell' Armato,10,1.8,Italy,Unknown city,са. 1570,1565.0,1575.0,Map,No
+Bernardus Sylvanus,75,C,Italy,Venice,1511,1511.0,1511.0,Book,Yes
+Giovanni Domenico Zorzi,87,15,Italy,Venice,1520s,1520.0,1530.0,Map,Yes
+Benedetto Bordone,13,A.1,Italy,Venice,1528,1528.0,1528.0,Book,No
+Benedetto Bordone,13,3,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,4,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,5,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,6,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,7,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,8,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,9,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,10,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,11,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,12,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,13,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,14,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,15,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,16,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,17,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,18,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,19,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,20,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,21,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,22,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,23,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,24,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,25,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,26,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,27,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,28,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,29,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,30,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,31,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,32,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,33,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,34,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,35,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,36,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,37,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,38,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,39,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,40,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,41,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,42,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,43,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,44,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,45,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,46,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,47,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,48,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,49,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,50,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,51,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,52,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,53,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,54,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,55,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,56,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,57,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,58,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,59,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,60,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,61,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,62,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,63,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,64,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,65,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,66,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,67,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,68,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,69,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,70,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,71,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,72,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,73,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,74,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,75,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,76,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,77,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,78,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,79,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,80,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,81,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,82,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,83,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,84,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,85,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,86,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,87,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,88,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,89,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,90,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,91,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,92,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,93,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,94,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,95,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,96,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,97,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,98,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,99,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,100,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,101,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,102,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,103,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,104,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,105,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,106,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,107,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,108,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,109,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,110,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,111,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,112,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Benedetto Bordone,13,113,Italy,Venice,1528,1528.0,1528.0,Map,Yes
+Pietro Cappo,21,C.2,Italy,Venice,1528,1528.0,1528.0,Book,No
+Nicolaus Cusanus,23,1.7,Italy,Venice,1530,1530.0,1530.0,Map,No
+Paolo Giovio,33,0,Italy,Venice,1530,1530.0,1530.0,Map,Yes
+Peter Apian,7,К,Italy,Venice,1533,1533.0,1533.0,Book,Yes
+Benedetto Bordone,13,А.2,Italy,Venice,1534,1534.0,1534.0,Book,No
+Peter Apian,7,К,Italy,Venice,1555,1555.0,1555.0,Book,Yes
+Oronce Fine,27,3.1,Italy,Venice,1536,1536.0,1536.0,Map,No
+Peter Apian,7,K,Italy,Venice,1537,1537.0,1537.0,Book,Yes
+Benedetto Bordone,13,A.3,Italy,Venice,1537,1537.0,1537.0,Book,No
+Giovanni Domenico Zorzi,87,8,Italy,Venice,1538,1538.0,1538.0,Map,Yes
+Giovanni Domenico Zorzi,87,7,Italy,Venice,1538,1538.0,1538.0,Map,Yes
+Giacomo Gastaldi,30,A,Italy,Venice,1539,1539.0,1539.0,Book,Yes
+Olaus Magnus,53,1,Italy,Venice,1539,1539.0,1539.0,Map,Yes
+Olaus Magnus,53,A,Italy,Venice,1539,1539.0,1539.0,Book,Yes
+Olaus Magnus,53,A.1,Italy,Venice,1539,1539.0,1539.0,Book,No
+Pietro Cappo,21,0,Italy,Venice,1540,1540.0,1540.0,Map,Yes
+Wolfgang Wissenburg,82,1.2,Italy,Venice,1540s,1540.0,1550.0,Map,No
+Peter Apian,7,К,Italy,Venice,1541,1541.0,1541.0,Book,Yes
+Giacomo Gastaldi,30,1,Italy,Venice,1544,1544.0,1544.0,Map,Yes
+Nikolaos Sophianos · 495,71,С,Italy,Venice,1544,1544.0,1544.0,Book,Yes
+Giacomo Gastaldi,30,2,Italy,Venice,1545,1545.0,1545.0,Map,Yes
+Nikolaos Sophianos · 495,71,D,Italy,Venice,1545,1545.0,1545.0,Book,Yes
+Giovanni Domenico Zorzi,87,10,Italy,Venice,1545,1545.0,1545.0,Map,Yes
+Giovanni Domenico Zorzi,87,11,Italy,Venice,1545,1545.0,1545.0,Map,Yes
+Giacomo Gastaldi,30,3,Italy,Venice,1546,1546.0,1546.0,Map,Yes
+Giacomo Gastaldi,30,4,Italy,Venice,1546,1546.0,1546.0,Map,Yes
+Paolo Giovio,33,5,Italy,Venice,1546,1546.0,1546.0,Map,Yes
+Gabriel Symeoni,76,A,Italy,Venice,1546,1546.0,1546.0,Book,Yes
+Giovanni Domenico Zorzi,87,13,Italy,Venice,1546,1546.0,1546.0,Map,Yes
+Benedetto Bordone,13,A.4,Italy,Venice,1547,1547.0,1547.0,Book,No
+Giacomo Gastaldi,30,C,Italy,Venice,"1548
+30/ 3-64",,,Book,Yes
+Paolo Giovio,33,2.2,Italy,Venice,"1548
+30/ 3-64",,,Map,No
+Paolo Giovio,33,G,Italy,Venice,"1548
+30/ 3-64",,,Book,Yes
+Girolamo Bell' Armato,10,11,Italy,Venice,1550,1550.0,1550.0,Map,Yes
+Giacomo Gastaldi,30,65,Italy,Venice,1550,1550.0,1550.0,Map,Yes
+Giacomo Gastaldi,30,67,Italy,Venice,1550,1550.0,1550.0,Map,Yes
+Giacomo Gastaldi,30,68,Italy,Venice,1550,1550.0,1550.0,Map,Yes
+Giacomo Gastaldi,30,72,Italy,Venice,1550,1550.0,1550.0,Map,Yes
+Wolfgang Wissenburg,82,1.3,Italy,Venice,1550,1550.0,1550.0,Map,No
+Heinrich Zell,84,5.3,Italy,Venice,1550,1550.0,1550.0,Map,No
+Peter Apian,7,K,Italy,Venice,1551,1551.0,1551.0,Book,Yes
+Vincenzo Paletino,60,1,Italy,Venice,1551,1551.0,1551.0,Map,Yes
+Oronce Fine,27,3.5,Italy,Venice,1552,1552.0,1552.0,Map,No
+Giacomo Gastaldi,30,70,Italy,Venice,1552,1552.0,1552.0,Map,Yes
+Peter Apian,7,6.1,Italy,Venice,1553,1553.0,1553.0,Map,No
+Oronce Fine,27,3.7,Italy,Venice,1553,1553.0,1553.0,Map,No
+Giacomo Gastaldi,30,70.1,Italy,Venice,1553,1553.0,1553.0,Map,No
+Pirro Ligorio,51,B,Italy,Venice,1553,1553.0,1553.0,Book,Yes
+Peter Apian,7,K,Italy,Venice,1554,1554.0,1554.0,Book,Yes
+Giacomo Gastaldi,30,7375,Italy,Venice,1554,1554.0,1554.0,Map,Yes
+Pirro Ligorio,51,4,Italy,Venice,1554,1554.0,1554.0,Map,Yes
+Vincenzo Paletino,60,A,Italy,Venice,1554,1554.0,1554.0,Book,Yes
+Giacomo Gastaldi,30,76,Italy,Venice,1555,1555.0,1555.0,Map,Yes
+Jacob van Deventer,25,4.3,Italy,Venice,1556,1556.0,1556.0,Map,No
+Giacomo Gastaldi,30,76.1,Italy,Venice,1556,1556.0,1556.0,Map,No
+Giacomo Gastaldi,30,78,Italy,Venice,1556,1556.0,1556.0,Map,Yes
+Giacomo Gastaldi,30,79,Italy,Venice,1556,1556.0,1556.0,Map,Yes
+Giacomo Gastaldi,30,80,Italy,Venice,1556,1556.0,1556.0,Map,Yes
+Giacomo Gastaldi,30,81,Italy,Venice,1556,1556.0,1556.0,Map,Yes
+Giacomo Gastaldi,30,82,Italy,Venice,1556,1556.0,1556.0,Map,Yes
+Giacomo Gastaldi,30,83,Italy,Venice,1556,1556.0,1556.0,Map,Yes
+Gerard Mercator,56,6.2,Italy,Venice,1556,1556.0,1556.0,Map,No
+Gregorio Amaseo,4,11:1558,Italy,Venice,1557,1557.0,1557.0,Map,Yes
+Cornelis Anthoniszoon,6,8.2,Italy,Venice,1557,1557.0,1557.0,Map,No
+Jacob van Deventer,25,8.3,Italy,Venice,1557,1557.0,1557.0,Map,No
+Gerard Mercator,56,6.3,Italy,Venice,1557,1557.0,1557.0,Map,No
+Vincenzo Paletino,60,1.3,Italy,Venice,1557,1557.0,1557.0,Map,No
+Caspar Vopel,79,54,Italy,Venice,1557,1557.0,1557.0,Map,Yes
+Nicolò Zeno,85,A,Italy,Venice,1557,1557.0,1557.0,Book,Yes
+Nicolò Zeno,85,1,Italy,Venice,1557,1557.0,1557.0,Map,Yes
+Girolamo Bell' Armato,10,1.4,Italy,Venice,1559,1559.0,1559.0,Map,No
+Giacomo Gastaldi,30,70.2,Italy,Venice,1559,1559.0,1559.0,Map,No
+Giacomo Gastaldi,30,85,Italy,Venice,1559,1559.0,1559.0,Map,Yes
+Giacomo Gastaldi,30,86,Italy,Venice,1559,1559.0,1559.0,Map,Yes
+Giacomo Gastaldi,30,12,Italy,Venice,1559,1559.0,1559.0,Map,Yes
+Paolo Giovio,33,11,Italy,Venice,1559,1559.0,1559.0,Map,Yes
+Paolo Giovio,33,A.1,Italy,Venice,1559,1559.0,1559.0,Book,No
+Giovanni Domenico Zorzi,87,14,Italy,Venice,1559,1559.0,1559.0,Map,Yes
+Giacomo Gastaldi,30,3.2,Italy,Venice,1560,1560.0,1560.0,Map,No
+Giacomo Gastaldi,30,70.3,Italy,Venice,1560,1560.0,1560.0,Map,No
+Giacomo Gastaldi,30,87,Italy,Venice,1560,1560.0,1560.0,Map,Yes
+Giacomo Gastaldi,30,88,Italy,Venice,1560,1560.0,1560.0,Map,Yes
+Giacomo Gastaldi,30,89,Italy,Venice,1560,1560.0,1560.0,Map,Yes
+Giacomo Gastaldi,30,E,Italy,Venice,1560,1560.0,1560.0,Book,Yes
+Giacomo Gastaldi,30,E.1,Italy,Venice,1560,1560.0,1560.0,Book,No
+Nicolas de Nicolay · 435,59,4.1,Italy,Venice,1560,1560.0,1560.0,Map,No
+Vincenzo Paletino,60,1.6,Italy,Venice,1560,1560.0,1560.0,Map,No
+Nicolò Zeno,85,1.3,Italy,Venice,1560s,1560.0,1570.0,Map,No
+Nicolò Zeno,85,1.4,Italy,Venice,1560s,1560.0,1570.0,Map,No
+Gregorio Amaseo,4,1.2,Italy,Venice,1561,1561.0,1561.0,Map,No
+Giacomo Gastaldi,30,C.1,Italy,Venice,1561,1561.0,1561.0,Book,No
+Giacomo Gastaldi,30,G,Italy,Venice,1561,1561.0,1561.0,Book,Yes
+Giacomo Gastaldi,30,76.2,Italy,Venice,1561,1561.0,1561.0,Map,No
+Giacomo Gastaldi,30,90,Italy,Venice,1561,1561.0,1561.0,Map,Yes
+Giacomo Gastaldi,30,91,Italy,Venice,1561,1561.0,1561.0,Map,Yes
+Giacomo Gastaldi,30,92,Italy,Venice,1561,1561.0,1561.0,Map,Yes
+Giacomo Gastaldi,30,93,Italy,Venice,1561,1561.0,1561.0,Map,Yes
+Giacomo Gastaldi,30,J,Italy,Venice,1561,1561.0,1561.0,Book,Yes
+Nicolò Zeno,85,1.1,Italy,Venice,1561,1561.0,1561.0,Map,No
+Cornelis Anthoniszoon,6,8.4,Italy,Venice,1562,1562.0,1562.0,Map,No
+Gilles Boileau de Buillon,12,20.1,Italy,Venice,1562,1562.0,1562.0,Map,No
+Nicolaus Cusanus,23,1.9,Italy,Venice,1562,1562.0,1562.0,Map,No
+Giacomo Gastaldi,30,3.2,Italy,Venice,1562,1562.0,1562.0,Map,No
+Giacomo Gastaldi,30,68.1,Italy,Venice,1562,1562.0,1562.0,Map,No
+Giacomo Gastaldi,30,68.2,Italy,Venice,1562,1562.0,1562.0,Map,No
+Giacomo Gastaldi,30,70.3,Italy,Venice,1562,1562.0,1562.0,Map,No
+Giacomo Gastaldi,30,96,Italy,Venice,1562,1562.0,1562.0,Map,Yes
+Giacomo Gastaldi,30,97,Italy,Venice,1562,1562.0,1562.0,Map,Yes
+Giacomo Gastaldi,30,98.1,Italy,Venice,1562,1562.0,1562.0,Map,No
+Giacomo Gastaldi,30,C.1,Italy,Venice,1562,1562.0,1562.0,Book,No
+Giacomo Gastaldi,30,J.1,Italy,Venice,1562,1562.0,1562.0,Book,No
+Girolamo Bell' Armato,10,1.6,Italy,Venice,1563,1563.0,1563.0,Map,No
+Jacob van Deventer,25,7.327,Italy,Venice,1563,1563.0,1563.0,Map,No
+Giacomo Gastaldi,30,73.1,Italy,Venice,1563,1563.0,1563.0,Map,No
+Giacomo Gastaldi,30,74.1,Italy,Venice,1563,1563.0,1563.0,Map,No
+Giacomo Gastaldi,30,75.1,Italy,Venice,1563,1563.0,1563.0,Map,No
+Giacomo Gastaldi,30,93.1,Italy,Venice,1563,1563.0,1563.0,Map,No
+Giacomo Gastaldi,30,98.2,Italy,Venice,1563,1563.0,1563.0,Map,No
+Nicolas de Nicolay · 435,59,4.1,Italy,Venice,1563,1563.0,1563.0,Map,No
+Aegidius Tschudi · 547 25,78,1.6,Italy,Venice,1563,1563.0,1563.0,Map,No
+Wolfgang Wissenburg,82,1.5,Italy,Venice,1563,1563.0,1563.0,Map,No
+Giacomo Gastaldi,30,61.1,Italy,Venice,1564,1564.0,1564.0,Map,No
+Giacomo Gastaldi,30,62.2,Italy,Venice,1564,1564.0,1564.0,Map,No
+Giacomo Gastaldi,30,70.4,Italy,Venice,1564,1564.0,1564.0,Map,No
+Giacomo Gastaldi,30,73.2,Italy,Venice,1564,1564.0,1564.0,Map,No
+Giacomo Gastaldi,30,74.2,Italy,Venice,1564,1564.0,1564.0,Map,No
+Giacomo Gastaldi,30,75.2,Italy,Venice,1564,1564.0,1564.0,Map,No
+Giacomo Gastaldi,30,98.3,Italy,Venice,1564,1564.0,1564.0,Map,No
+Giacomo Gastaldi,30,103,Italy,Venice,1564,1564.0,1564.0,Map,Yes
+Giacomo Gastaldi,30,C.1,Italy,Venice,1564,1564.0,1564.0,Book,No
+Giacomo Gastaldi,30,D.1,Italy,Venice,1564,1564.0,1564.0,Book,No
+Giacomo Gastaldi,30,F,Italy,Venice,1564,1564.0,1564.0,Book,Yes
+Giacomo Gastaldi,30,G.1,Italy,Venice,1564,1564.0,1564.0,Book,No
+Nikolaos Sophianos · 495,71,1.7,Italy,Venice,1564,1564.0,1564.0,Map,No
+Giacomo Gastaldi,30,J,Italy,Venice,"15656 1 30/
+98.4",1565.0,1565.0,Book,Yes
+Jacob van Deventer,25,1.4,Italy,Venice,1566,1566.0,1566.0,Map,No
+Jacob van Deventer,25,8.4,Italy,Venice,1566,1566.0,1566.0,Map,No
+Oronce Fine,27,2.3,Italy,Venice,1566,1566.0,1566.0,Map,No
+Oronce Fine,27,3.11,Italy,Venice,1566,1566.0,1566.0,Map,No
+Giacomo Gastaldi,30,2.3,Italy,Venice,1566,1566.0,1566.0,Map,No
+Giacomo Gastaldi,30,61.2,Italy,Venice,1566,1566.0,1566.0,Map,No
+Giacomo Gastaldi,30,62.3,Italy,Venice,1566,1566.0,1566.0,Map,No
+Giacomo Gastaldi,30,68.3,Italy,Venice,1566,1566.0,1566.0,Map,No
+Giacomo Gastaldi,30,76.2,Italy,Venice,1566,1566.0,1566.0,Map,No
+Giacomo Gastaldi,30,86.2,Italy,Venice,1566,1566.0,1566.0,Map,No
+Giacomo Gastaldi,30,88.1,Italy,Venice,1566,1566.0,1566.0,Map,No
+Giacomo Gastaldi,30,88.2,Italy,Venice,1566,1566.0,1566.0,Map,No
+Giacomo Gastaldi,30,98.2,Italy,Venice,1566,1566.0,1566.0,Map,No
+Giacomo Gastaldi,30,103.1,Italy,Venice,1566,1566.0,1566.0,Map,No
+Olaus Magnus,53,1.4,Italy,Venice,1566,1566.0,1566.0,Map,No
+Nikolaos Sophianos · 495,71,1.8,Italy,Venice,1566,1566.0,1566.0,Map,No
+Jacob van Deventer,25,1.5,Italy,Venice,1567,1567.0,1567.0,Map,No
+Jacob van Deventer,25,4.7,Italy,Venice,1567,1567.0,1567.0,Map,No
+Gemma Frisius,29,E,Italy,Venice,1567,1567.0,1567.0,Book,Yes
+Giacomo Gastaldi,30,90.1,Italy,Venice,1567,1567.0,1567.0,Map,No
+Giacomo Gastaldi,30,93.2,Italy,Venice,1567,1567.0,1567.0,Map,No
+Giacomo Gastaldi,30,105,Italy,Venice,1567,1567.0,1567.0,Map,Yes
+Giacomo Gastaldi,30,106,Italy,Venice,1567,1567.0,1567.0,Map,Yes
+Agostino Giustiniani,34,1.2,Italy,Venice,1567,1567.0,1567.0,Map,No
+Gerard Mercator,56,6.7,Italy,Venice,1567,1567.0,1567.0,Map,No
+Aegidius Tschudi · 547 25,78,1.9,Italy,Venice,1567,1567.0,1567.0,Map,No
+Giacomo Gastaldi,30,86.3,Italy,Venice,1568,1568.0,1568.0,Map,No
+Giacomo Gastaldi,30,96.1a,Italy,Venice,1568,1568.0,1568.0,Map,No
+Giacomo Gastaldi,30,96.1b,Italy,Venice,1568,1568.0,1568.0,Map,No
+Giacomo Gastaldi,30,107,Italy,Venice,1568,1568.0,1568.0,Map,Yes
+Giacomo Gastaldi,30,108,Italy,Venice,1568,1568.0,1568.0,Map,Yes
+Pietro Cappo,21,27.1,Italy,Venice,1569,1569.0,1569.0,Map,No
+Pietro Cappo,21,27.2,Italy,Venice,1569,1569.0,1569.0,Map,No
+Giacomo Gastaldi,30,88.3,Italy,Venice,1569,1569.0,1569.0,Map,No
+Giacomo Gastaldi,30,90.1,Italy,Venice,1569,1569.0,1569.0,Map,No
+Giacomo Gastaldi,30,93.2,Italy,Venice,1569,1569.0,1569.0,Map,No
+Abraham Ortelius,1,4.1,Italy,Venice,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,62.4,Italy,Venice,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,84.2,Italy,Venice,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,85.2,Italy,Venice,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,91.1,Italy,Venice,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,92.1,Italy,Venice,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,93.3,Italy,Venice,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,103,Italy,Venice,1570,1570.0,1570.0,Map,Yes
+Giacomo Gastaldi,30,103.2,Italy,Venice,1570,1570.0,1570.0,Map,No
+Giacomo Gastaldi,30,108.1,Italy,Venice,1570,1570.0,1570.0,Map,No
+Wacław Grodecki,35,1.4,Italy,Venice,1570,1570.0,1570.0,Map,No
+Nicolas de Nicolay · 435,59,4.2,Italy,Venice,1570,1570.0,1570.0,Map,No
+Girolamo Bell' Armato,10,1.3,Italy,Venice,1570s,1570.0,1580.0,Map,No
+Giacomo Gastaldi,30,2.5,Italy,Venice,1570s,1570.0,1580.0,Map,No
+Giacomo Gastaldi,30,90.3,Italy,Venice,1570s,1570.0,1580.0,Map,No
+Giacomo Gastaldi,30,D.2,Italy,Venice,1570s,1570.0,1580.0,Book,No
+Giacomo Gastaldi,30,H,Italy,Venice,1570s,1570.0,1580.0,Book,Yes
+Pietro Cappo,21,27.3,Italy,Venice,1571,1571.0,1571.0,Map,No
+Giacomo Gastaldi,30,107,Italy,Venice,1571,1571.0,1571.0,Map,Yes
+Giacomo Gastaldi,30,90.1,Italy,Venice,1572,1572.0,1572.0,Map,No
+Pietro Cappo,21,27.4,Italy,Venice,1573,1573.0,1573.0,Map,No
+Giacomo Gastaldi,30,C.1,Italy,Venice,1574,1574.0,1574.0,Book,No
+Giacomo Gastaldi,30,76.2,Italy,Venice,1578,1578.0,1578.0,Map,No
+Giacomo Gastaldi,30,98.8,Italy,Venice,1579,1579.0,1579.0,Map,No
+Giacomo Gastaldi,30,93.2,Italy,Venice,1581,1581.0,1581.0,Map,No
+André Thevet,77,B,Italy,Venice,1584,1584.0,1584.0,Book,Yes
+Oronce Fine,27,2.4,Italy,Venice,1586-87?,1586.0,,Map,No
+Giacomo Gastaldi,30,3.2,Italy,Venice,1594,1594.0,1594.0,Map,No
+Abraham Ortelius,1,4.2,Italy,Venice,1595,1595.0,1595.0,Map,No
+Gerard Mercator,56,17.5,Italy,Venice,1596,1596.0,1596.0,Map,No
+Nicolò Zeno,85,1.6,Italy,Venice,1596,1596.0,1596.0,Map,No
+Pietro Cappo,21,27.6,Italy,Venice,1598,1598.0,1598.0,Map,No
+Gemma Frisius,29,F,Italy,Venice,1598,1598.0,1598.0,Book,Yes
+Giacomo Gastaldi,30,93.1,Italy,Venice,1599,1599.0,1599.0,Map,No
+Johannes Honter,41,A,Italy,Venice,1599,1599.0,1599.0,Book,Yes
+Giacomo Gastaldi,30,3.2,Italy,Venice,1651,1651.0,1651.0,Map,No
+Pirro Ligorio,51,H,Italy,Venice,1676,1676.0,1676.0,Book,Yes
+Giacomo Gastaldi,30,3.2,Italy,Venice,1751,1751.0,1751.0,Map,No
+Oronce Fine,27,2.2,Italy,Venice,1795,1795.0,1795.0,Map,No
+Nicolò Zeno,85,1.8,Italy,Venice,1808,1808.0,1808.0,Map,No
+Cornelis Anthoniszoon,6,5,Netherlands,Amsterdam,1542,1542.0,1542.0,Map,Yes
+Cornelis Anthoniszoon,6,11,Netherlands,Amsterdam,1544,1544.0,1544.0,Map,Yes
+Cornelis Anthoniszoon,6,11.1,Netherlands,Amsterdam,1546?,1541.0,1551.0,Map,No
+Cornelis Anthoniszoon,6,A.2,Netherlands,Amsterdam,1558,1558.0,1558.0,Book,No
+Johann Sambucus,65,G,Netherlands,Amsterdam,1574,1574.0,1574.0,Book,Yes
+Bartholomaeus Scultetus,66,1.7,Netherlands,Amsterdam,1579,1579.0,1579.0,Map,No
+Peter Apian,7,E,Netherlands,Amsterdam,1592,1592.0,1592.0,Book,Yes
+Gemma Frisius,29,A,Netherlands,Amsterdam,1592,1592.0,1592.0,Book,Yes
+Gerard Mercator,56,17.6,Netherlands,Amsterdam,1597,1597.0,1597.0,Map,No
+Charles de l'Escluse,26,G,Netherlands,Amsterdam,1598,1598.0,1598.0,Book,Yes
+Gemma Frisius,29,A,Netherlands,Amsterdam,1598,1598.0,1598.0,Book,Yes
+Fernando Alvares Seco,67,1.5,Netherlands,Amsterdam,1600,1600.0,1600.0,Map,No
+Gerard Mercator,56,E.1,Netherlands,Amsterdam,1605,1605.0,1605.0,Book,No
+Peter Apian,7,E,Netherlands,Amsterdam,1609,1609.0,1609.0,Book,Yes
+Gemma Frisius,29,A,Netherlands,Amsterdam,1609,1609.0,1609.0,Book,Yes
+Gerard Mercator,56,E.1,Netherlands,Amsterdam,1618-19,1618.0,1619.0,Book,No
+Cornelis Anthoniszoon,6,11.7,Netherlands,Amsterdam,ca. 1625,1620.0,1630.0,Map,No
+Johannes Mellinger,55,7.2,Netherlands,Amsterdam,1630,1630.0,1630.0,Map,No
+Gabriel Symeoni,76,1.5,Netherlands,Amsterdam,1631,1631.0,1631.0,Map,No
+Johannes Mellinger,55,7.3,Netherlands,Amsterdam,1633,1633.0,1633.0,Map,No
+Bartholomaeus Scultetus,66,2.3,Netherlands,Amsterdam,1638,1638.0,1638.0,Map,No
+Gemma Frisius,29,E,Netherlands,Amsterdam,1652,1652.0,1652.0,Book,Yes
+Bartholomaeus Scultetus,66,D.1,Netherlands,Amsterdam,1670,1670.0,1670.0,Book,No
+Gerard Mercator,56,E.1,Netherlands,Amsterdam,1704,1704.0,1704.0,Book,No
+Gerard Mercator,56,E.1,Netherlands,Amsterdam,1730,1730.0,1730.0,Book,No
+Cornelis Anthoniszoon,6,11.3,Netherlands,Amsterdam,after 1553,1553.0,1563.0,Map,No
+Cornelis Anthoniszoon,6,16,Netherlands,Amsterdam,after 1553,1553.0,1563.0,Map,Yes
+Cornelis Anthoniszoon,6,11.8,Netherlands,Amsterdam,after 1636,1636.0,1646.0,Map,No
+Jacob van Deventer,25,7.6,Netherlands,Deventer,1584,1584.0,1584.0,Map,No
+Gerard Mercator,56,E.1,Netherlands,Franeker,1695,1695.0,1695.0,Book,No
+Gerard Mercator,56,E.1,Netherlands,Franeker,1698,1698.0,1698.0,Book,No
+Jacob van Deventer,25,4.8,Netherlands,The Hague,1569,1569.0,1569.0,Map,No
+Gerard Mercator,56,E.1,Netherlands,Leiden,1618-19,1618.0,1619.0,Book,No
+Charles de l'Escluse,26,M,Netherlands,Leiden,1619,1619.0,1619.0,Book,Yes
+Nikolaos Sophianos · 495,71,1.13,Netherlands,Leiden,1699,1699.0,1699.0,Map,No
+Nikolaos Sophianos · 495,71,А.2,Netherlands,Leiden,1699,1699.0,1699.0,Book,No
+Gerard Mercator,56,E.1,Netherlands,Leiden,1704,1704.0,1704.0,Book,No
+Pirro Ligorio,51,1111723,Netherlands,Leiden,1722,1722.0,1722.0,Map,Yes
+Pirro Ligorio,51,J,Netherlands,Leiden,1722,1722.0,1722.0,Book,Yes
+Domenico Macaneo · 359,52,A.2,Netherlands,Leiden,1722,1722.0,1722.0,Book,No
+Anthony Jenkinson,43,1.6,Netherlands,Middelburg,1598,1598.0,1598.0,Map,No
+Gerard Mercator,56,E.1,Netherlands,Utrecht,1695,1695.0,1695.0,Book,No
+Gerard Mercator,56,E.1,Netherlands,Utrecht,1698,1698.0,1698.0,Book,No
+Gerard Mercator,56,Е.1,Netherlands,Utrecht,1704,1704.0,1704.0,Book,No
+Heinrich Zell,84,B,Poland,Gdansk,1540,1540.0,1540.0,Book,Yes
+Martin Waldseemüller,80,2.5,Poland,Kraków,1512,1512.0,1512.0,Map,No
+Johannes Honter,41,1,Poland,Kraków,1530,1530.0,1530.0,Map,Yes
+Johannes Honter,41,2,Poland,Kraków,1530,1530.0,1530.0,Map,Yes
+Johannes Honter,41,A,Poland,Kraków,1530,1530.0,1530.0,Book,Yes
+Johannes Honter,41,А,Poland,Kraków,1534,1534.0,1534.0,Book,Yes
+Augustin Hirschvogel,40,4.9,Poland,Kraków,1611,1611.0,1611.0,Map,No
+Marcus Ambrosius,5,C,Poland,Nysa,1566,1566.0,1566.0,Book,Yes
+Johannes Honter,41,B,Poland,Wrocław,1542,1542.0,1542.0,Book,Yes
+Martin Helwig,38,1,Poland,Wrocław,1561,1561.0,1561.0,Map,Yes
+Martin Helwig,38,2,Poland,Wrocław,1561,1561.0,1561.0,Map,Yes
+Martin Helwig,38,А,Poland,Wrocław,1564,1564.0,1564.0,Book,Yes
+Martin Helwig,38,B,Poland,Wrocław,са. 1570?,1565.0,1575.0,Book,Yes
+Martin Helwig,38,C,Poland,Wrocław,са. 1570?,1565.0,1575.0,Book,Yes
+Martin Helwig,38,12,Poland,Wrocław,1627,1627.0,1627.0,Map,Yes
+Martin Helwig,38,1.3,Poland,Wrocław,1642,1642.0,1642.0,Map,No
+Martin Helwig,38,1.4,Poland,Wrocław,1685,1685.0,1685.0,Map,No
+Martin Helwig,38,Ал,Poland,Wrocław,1738,1738.0,1738.0,Book,Yes
+Martin Helwig,38,1.5,Poland,Wrocław,1738,1738.0,1738.0,Map,No
+Martin Helwig,38,1.6,Poland,Wrocław,1765,1765.0,1765.0,Map,No
+Jerónimo de Chaves,20,B,Portugal,Lisbon,1576,1576.0,1576.0,Book,Yes
+Johannes Honter,41,B,Romania,Braşov,1541,1541.0,1541.0,Book,Yes
+Johannes Honter,41,5,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,6,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,7,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,8,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,9,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,10,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,11,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,12,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,13,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,14,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,15,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,16,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,17,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,18,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,19,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,20,Romania,Braşov,1542,1542.0,1542.0,Map,Yes
+Johannes Honter,41,B,Romania,Braşov,1542,1542.0,1542.0,Book,Yes
+Johannes Honter,41,C,Romania,Braşov,1542,1542.0,1542.0,Book,Yes
+Johannes Honter,41,B,Romania,Braşov,1548 or 49,1548.0,1549.0,Book,Yes
+Johannes Honter,41,C,Romania,Braşov,1548 or 49,1548.0,1549.0,Book,Yes
+Johannes Honter,41,B,Romania,Braşov,1577,1577.0,1577.0,Book,Yes
+Johannes Honter,41,C,Romania,Braşov,1577,1577.0,1577.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Pamplona,1585,1585.0,1585.0,Book,Yes
+Jerónimo de Chaves,20,A,Spain,Seville,1545,1545.0,1545.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1548,1548.0,1548.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1550,1550.0,1550.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1554,1554.0,1554.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1561,1561.0,1561.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1566,1566.0,1566.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1572,1572.0,1572.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1576,1576.0,1576.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1580,1580.0,1580.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1581,1581.0,1581.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1584,1584.0,1584.0,Book,Yes
+Jerónimo de Chaves,20,B,Spain,Seville,1588,1588.0,1588.0,Book,Yes
+Sebastian Munster,58,C,Switzerland,Basel,1527,1527.0,1527.0,Book,Yes
+Sebastian Munster,58,F,Switzerland,Basel,1530,1530.0,1530.0,Book,Yes
+Sebastian Munster,58,G,Switzerland,Basel,1531,1531.0,1531.0,Book,Yes
+Jacob Ziegler,86,D,Switzerland,Basel,1531,1531.0,1531.0,Book,Yes
+Johannes Honter,41,4,Switzerland,Basel,1532,1532.0,1532.0,Map,Yes
+Sebastian Munster,58,58,Switzerland,Basel,1532,1532.0,1532.0,Map,Yes
+Sebastian Munster,58,47,Switzerland,Basel,1532,1532.0,1532.0,Map,Yes
+Johannes Honter,41,A,Switzerland,Basel,1534,1534.0,1534.0,Book,Yes
+Sebastian Munster,58,L,Switzerland,Basel,1534,1534.0,1534.0,Book,Yes
+Sebastian Munster,58,M,Switzerland,Basel,1534,1534.0,1534.0,Book,Yes
+Oronce Fine,27,P,Switzerland,Basel,1535,1535.0,1535.0,Book,Yes
+Johannes Honter,41,A,Switzerland,Basel,1535,1535.0,1535.0,Book,Yes
+Sebastian Munster,58,N,Switzerland,Basel,1536,1536.0,1536.0,Book,Yes
+Sebastian Munster,58,O,Switzerland,Basel,1536,1536.0,1536.0,Book,Yes
+Jacob Ziegler,86,F,Switzerland,Basel,1536,1536.0,1536.0,Book,Yes
+Sebastian Munster,58,50,Switzerland,Basel,1537,1537.0,1537.0,Map,Yes
+Sebastian Munster,58,52,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,53,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,54,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,55,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,56,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,57,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,58,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,59,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,60,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,61,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,62,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,63,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,64,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,65,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,66,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,67,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,68,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,69,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,70,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,71,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,72,Switzerland,Basel,1538,1538.0,1538.0,Map,Yes
+Sebastian Munster,58,Q,Switzerland,Basel,1538,1538.0,1538.0,Book,Yes
+Aegidius Tschudi · 547 25,78,A,Switzerland,Basel,1538,1538.0,1538.0,Book,Yes
+Aegidius Tschudi · 547 25,78,B,Switzerland,Basel,1538,1538.0,1538.0,Book,Yes
+Sebastian Munster,58,R,Switzerland,Basel,1540,1540.0,1540.0,Book,Yes
+Sebastian Munster,58,73,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,74,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,75,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,76,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,77,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,78,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,79,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,80,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,81,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,82,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,83,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,84,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,85,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,86,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,87,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,88,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,89,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,90,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,91,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,92,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,93,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,94,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,95,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,96,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,97,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,98,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,99,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,100,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,101,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,102,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,103,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,104,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,105,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,106,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,107,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,108,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,109,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,110,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,111,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,112,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,113,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,114,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,115,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,116,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,117,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,118,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,119,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Sebastian Munster,58,120,Switzerland,Basel,1540,1540.0,1540.0,Map,Yes
+Aegidius Tschudi · 547 25,78,1.3,Switzerland,Basel,1540,1540.0,1540.0,Map,No
+Johannes Honter,41,3,Switzerland,Basel,1541,1541.0,1541.0,Map,Yes
+Johannes Honter,41,4.1,Switzerland,Basel,1544,1544.0,1544.0,Map,No
+Olaus Magnus,53,1.1,Switzerland,Basel,1544,1544.0,1544.0,Map,No
+Sebastian Munster,58,92a,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,106a,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,121,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,122,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,123,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,124,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,125,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,126,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,127,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,128,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,129,Switzerland,Basel,1544,1544.0,1544.0,Map,Yes
+Sebastian Munster,58,S,Switzerland,Basel,1544,1544.0,1544.0,Book,Yes
+Nikolaos Sophianos · 495,71,1.2,Switzerland,Basel,1544,1544.0,1544.0,Map,No
+Johannes Honter,41,4.1,Switzerland,Basel,1545,1545.0,1545.0,Map,No
+Olaus Magnus,53,1.1,Switzerland,Basel,1545,1545.0,1545.0,Map,No
+Sebastian Munster,58,106b,Switzerland,Basel,1545,1545.0,1545.0,Map,Yes
+Sebastian Munster,58,130,Switzerland,Basel,1545,1545.0,1545.0,Map,Yes
+Sebastian Munster,58,131,Switzerland,Basel,1545,1545.0,1545.0,Map,Yes
+Sebastian Munster,58,132,Switzerland,Basel,1545,1545.0,1545.0,Map,Yes
+Sebastian Munster,58,133,Switzerland,Basel,1545,1545.0,1545.0,Map,Yes
+Sebastian Munster,58,134,Switzerland,Basel,1545,1545.0,1545.0,Map,Yes
+Sebastian Munster,58,132,Switzerland,Basel,1545,1545.0,1545.0,Map,Yes
+Sebastian Munster,58,133,Switzerland,Basel,1545,1545.0,1545.0,Map,Yes
+Sebastian Munster,58,T,Switzerland,Basel,1545,1545.0,1545.0,Book,Yes
+Nikolaos Sophianos · 495,71,A,Switzerland,Basel,1545,1545.0,1545.0,Book,Yes
+Johannes Honter,41,8,Switzerland,Basel,1546,1546.0,1546.0,Map,Yes
+Wolfgang Lazius,49,B,Switzerland,Basel,1546,1546.0,1546.0,Book,Yes
+Sebastian Munster,58,U,Switzerland,Basel,1546,1546.0,1546.0,Book,Yes
+Wolfgang Lazius,49,6,Switzerland,Basel,1548,1548.0,1548.0,Map,Yes
+Cornelis Anthoniszoon,6,11.2,Switzerland,Basel,1550,1550.0,1550.0,Map,No
+Caspar Brusch,16,2,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,73.1,Switzerland,Basel,1550,1550.0,1550.0,Map,No
+Sebastian Munster,58,74c,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,101c,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,106c,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,111c,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,115c,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,121c,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,131a,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,135,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,136,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,137,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,138,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,139,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,140,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,141,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,142,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,143,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,144,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,145,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,146,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,147,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,148,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,149,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,150,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,151,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,152,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,153,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,154,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,155,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,156,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,157,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,158,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,159,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,160,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,161,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,162,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,163,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,164,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,165,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,166,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,167,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,168,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,169,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,170,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,171,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,172,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,173,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,174,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,175,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,176,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,177,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,178,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,179,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,180,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,181,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,182,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,183,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,184,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,185,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,186,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,187,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Sebastian Munster,58,188,Switzerland,Basel,1550,1550.0,1550.0,Map,Yes
+Nikolaos Sophianos · 495,71,1.3,Switzerland,Basel,1550,1550.0,1550.0,Map,No
+Nikolaos Sophianos · 495,71,А.1,Switzerland,Basel,1550,1550.0,1550.0,Book,No
+Augustin Hirschvogel,40,4.5,Switzerland,Basel,1551,1551.0,1551.0,Map,No
+Wolfgang Lazius,49,C,Switzerland,Basel,1551,1551.0,1551.0,Book,Yes
+Sebastian Munster,58,W,Switzerland,Basel,1551,1551.0,1551.0,Book,Yes
+Johannes Honter,41,4.1,Switzerland,Basel,1552,1552.0,1552.0,Map,No
+Olaus Magnus,53,1.1,Switzerland,Basel,1552,1552.0,1552.0,Map,No
+Caspar Brusch,16,K,Switzerland,Basel,1553,1553.0,1553.0,Book,Yes
+Johann Cuspinianus,24,D,Switzerland,Basel,1553,1553.0,1553.0,Book,Yes
+Johann Cuspinianus,24,G,Switzerland,Basel,1553,1553.0,1553.0,Book,Yes
+Paolo Giovio,33,M,Switzerland,Basel,1556,1556.0,1556.0,Book,Yes
+Wolfgang Lazius,49,8,Switzerland,Basel,1556,1556.0,1556.0,Map,Yes
+Wolfgang Lazius,49,E,Switzerland,Basel,1556,1556.0,1556.0,Book,Yes
+Wolfgang Lazius,49,F,Switzerland,Basel,1557,1557.0,1557.0,Book,Yes
+Wolfgang Wissenburg,82,C,Switzerland,Basel,1557,1557.0,1557.0,Book,Yes
+Aegidius Tschudi · 547 25,78,1.5,Switzerland,Basel,1560,1560.0,1560.0,Map,No
+Aegidius Tschudi · 547 25,78,A.1,Switzerland,Basel,1560,1560.0,1560.0,Book,No
+Aegidius Tschudi · 547 25,78,B.1,Switzerland,Basel,1560,1560.0,1560.0,Book,No
+Johannes Honter,41,A,Switzerland,Basel,1561,1561.0,1561.0,Book,Yes
+Wacław Grodecki,35,А,Switzerland,Basel,ca. 1562,1557.0,1567.0,Book,Yes
+Wacław Grodecki,35,1.1,Switzerland,Basel,ca. 1562,1557.0,1567.0,Map,No
+Augustin Hirschvogel,40,4.5,Switzerland,Basel,1563,1563.0,1563.0,Map,No
+Augustin Hirschvogel,40,4.6,Switzerland,Basel,1563,1563.0,1563.0,Map,No
+Wolfgang Lazius,49,К,Switzerland,Basel,1564,1564.0,1564.0,Book,Yes
+Augustin Hirschvogel,40,4.5,Switzerland,Basel,1567,1567.0,1567.0,Map,No
+Augustin Hirschvogel,40,4.6,Switzerland,Basel,1567,1567.0,1567.0,Map,No
+Olaus Magnus,53,1.5,Switzerland,Basel,1567,1567.0,1567.0,Map,No
+Johann Sambucus,65,K,Switzerland,Basel,1568,1568.0,1568.0,Book,Yes
+Wacław Grodecki,35,1.2,Switzerland,Basel,1570,1570.0,1570.0,Map,No
+Augustin Hirschvogel,40,4.5,Switzerland,Basel,1571,1571.0,1571.0,Map,No
+Augustin Hirschvogel,40,4.6,Switzerland,Basel,1571,1571.0,1571.0,Map,No
+Johann Sambucus,65,E,Switzerland,Basel,1574,1574.0,1574.0,Book,Yes
+Johann Sambucus,65,M,Switzerland,Basel,1574,1574.0,1574.0,Book,Yes
+Bartholomaeus Scultetus,66,F,Switzerland,Basel,1575,1575.0,1575.0,Book,Yes
+Wolfgang Lazius,49,8.1,Switzerland,Basel,1577,1577.0,1577.0,Map,No
+Johannes A ventinus,9,D.2,Switzerland,Basel,1580,1580.0,1580.0,Book,No
+Gemma Frisius,29,8,Switzerland,Basel,1583,1583.0,1583.0,Map,Yes
+Johannes Honter,41,A,Switzerland,Basel,1583,1583.0,1583.0,Book,Yes
+Johannes Honter,41,A,Switzerland,Basel,1585,1585.0,1585.0,Book,Yes
+Martin Helwig,38,1.14,Switzerland,Basel,1588,1588.0,1588.0,Map,No
+Nikolaos Sophianos · 495,71,1.11,Switzerland,Basel,1601,1601.0,1601.0,Map,No
+Aegidius Tschudi · 547 25,78,1.16,Switzerland,Basel,1614,1614.0,1614.0,Map,No
+Gerard Mercator,56,17.10,Switzerland,Geneva,1595,1595.0,1595.0,Map,No
+Sebastian Munster,58,47.1,Switzerland,Zurich,1534,1534.0,1534.0,Map,No
+Johannes Stumpf,73,1,Switzerland,Zurich,1538,1538.0,1538.0,Map,Yes
+Johannes Honter,41,5.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,6.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,7.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,8.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,9.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,10.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,11.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,12.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,13.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,14.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,15.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,16.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,17.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,18.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,19.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,20.1,Switzerland,Zurich,1546,1546.0,1546.0,Map,No
+Johannes Honter,41,12,Switzerland,Zurich,1546,1546.0,1546.0,Map,Yes
+Johannes Honter,41,B,Switzerland,Zurich,1548,1548.0,1548.0,Book,Yes
+Johannes Stumpf,73,3.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,4.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,5.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,6.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,7.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,8.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,9.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,10.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,11.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,12.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,13.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,14.2,Switzerland,Zurich,1548,1548.0,1548.0,Map,No
+Johannes Stumpf,73,B,Switzerland,Zurich,1548,1548.0,1548.0,Book,Yes
+Johannes Stumpf,73,01549,Switzerland,Zurich,1548,1548.0,1548.0,Map,Yes
+Johannes Honter,41,B,Switzerland,Zurich,1548,1548.0,1548.0,Book,Yes
+Johannes Honter,41,0,Switzerland,Zurich,1548,1548.0,1548.0,Map,Yes
+Johannes Honter,41,B,Switzerland,Zurich,1552,1552.0,1552.0,Book,Yes
+Johannes Honter,41,D,Switzerland,Zurich,1552,1552.0,1552.0,Book,Yes
+Johannes Stumpf,73,12,Switzerland,Zurich,1554,1554.0,1554.0,Map,Yes
+Johannes Stumpf,73,C.1,Switzerland,Zurich,1556,1556.0,1556.0,Book,No
+Johannes Stumpf,73,1,Switzerland,Zurich,1556,1556.0,1556.0,Map,Yes
+Johannes Honter,41,B,Switzerland,Zurich,1558,1558.0,1558.0,Book,Yes
+Johannes Honter,41,2,Switzerland,Zurich,1558,1558.0,1558.0,Map,Yes
+Johannes Honter,41,12,Switzerland,Zurich,1562,1562.0,1562.0,Map,Yes
+Johannes Stumpf,73,C.2,Switzerland,Zurich,1562,1562.0,1562.0,Book,No
+Johannes Honter,41,B,Switzerland,Zurich,1564,1564.0,1564.0,Book,Yes
+Johannes Honter,41,0,Switzerland,Zurich,1564,1564.0,1564.0,Map,Yes
+Johannes Honter,41,B,Switzerland,Zurich,1565,1565.0,1565.0,Book,Yes
+Johannes Honter,41,0,Switzerland,Zurich,1565,1565.0,1565.0,Map,Yes
+Johannes Honter,41,8,Switzerland,Zurich,1570,1570.0,1570.0,Map,Yes
+Johannes Honter,41,0,Switzerland,Zurich,1570,1570.0,1570.0,Map,Yes
+Johannes Honter,41,B,Switzerland,Zurich,1573,1573.0,1573.0,Book,Yes
+Johannes Honter,41,0,Switzerland,Zurich,1573,1573.0,1573.0,Map,Yes
+Johannes Stumpf,73,15:1574,Switzerland,Zurich,1573,1573.0,1573.0,Map,Yes
+Johannes Stumpf,73,C.3,Switzerland,Zurich,1573,1573.0,1573.0,Book,No
+Johannes Honter,41,B,Switzerland,Zurich,1578,1578.0,1578.0,Book,Yes
+Johannes Honter,41,12,Switzerland,Zurich,1578,1578.0,1578.0,Map,Yes
+Johannes Honter,41,B,Switzerland,Zurich,1581,1581.0,1581.0,Book,Yes
+Johannes Honter,41,0,Switzerland,Zurich,1581,1581.0,1581.0,Map,Yes
+Johannes Honter,41,B,Switzerland,Zurich,1583,1583.0,1583.0,Book,Yes
+Johannes Honter,41,D,Switzerland,Zurich,1583,1583.0,1583.0,Book,Yes
+Johannes Honter,41,D,Switzerland,Zurich,1586,1586.0,1586.0,Book,Yes
+Johannes Stumpf,73,B.1,Switzerland,Zurich,1586,1586.0,1586.0,Book,No
+Johannes Honter,41,8,Switzerland,Zurich,1590,1590.0,1590.0,Map,Yes
+Johannes Honter,41,D,Switzerland,Zurich,1590,1590.0,1590.0,Book,Yes
+Johannes Honter,41,B,Switzerland,Zurich,1597,1597.0,1597.0,Book,Yes
+Johannes Honter,41,12,Switzerland,Zurich,1597,1597.0,1597.0,Map,Yes
+Johannes Honter,41,D,Switzerland,Zurich,1602,1602.0,1602.0,Book,Yes
+Johannes Honter,41,D,Switzerland,Zurich,1606,1606.0,1606.0,Book,Yes
+Johannes Stumpf,73,B.2,Switzerland,Zurich,1606,1606.0,1606.0,Book,No
+Heinrich Zell,84,C,USSR,Kaliningrad,1563,1563.0,1563.0,Book,Yes
+Pietro Cappo,21,23,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,24,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,25,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,26,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,27,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,28,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,29,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,30,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,31,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,32,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,33,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,34,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,35,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,36,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes
+Pietro Cappo,21,37,Yugoslavia,Izola,1524-26,1524.0,1526.0,Map,Yes

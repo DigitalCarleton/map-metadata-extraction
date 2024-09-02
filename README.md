@@ -45,7 +45,8 @@ messages for more details if you're stuck.
 1. Run `python scripts/extract_place_and_date.py` to turn the cleaned OCR _Index to Place and Date_ into `outputs/index_to_place_and_date_v4.csv`. You should see in the terminal what snippets failed.
 2. Run `python scripts/extract_mapmaker_names.py` to turn the cleaned _Table of Contents_ into `outputs/mapmakers.csv`. 
 3. Run `python scripts/combine_index_and_names.py` to attach the mapmakers' names to their ID in the Index. This creates the file `outputs/index_to_place_and_date_and_mapmaker_names.csv`. 
-4. Finally, open the notebook `scripts/date_range.ipynb`. It's a Jupyter notebook, you may need to install some things. Or, you can copy all the code into a python script. Run each cell one at a time to see details of the processing, or press the run all button for the Jupyter notebook. This creates the final file, `outputs/index_to_place_and_date_and_mapmaker_names_with_date_estimates.csv`.
+4. Next, open the notebook `scripts/date_range.ipynb`. It's a Jupyter notebook, you may need to install some things. Or, you can copy all the code into a python script. Run each cell one at a time to see details of the processing, or press the run all button for the Jupyter notebook. This creates the final file, `outputs/index_to_place_and_date_and_mapmaker_names_with_date_estimates.csv`.
+5. Finally, to add in some helpful columns to categorize the type of object (map/book, original edition yes/no), run `scripts/add_object_types.py`.
 
 
 This table could then be used for data visualizations to explore questions
